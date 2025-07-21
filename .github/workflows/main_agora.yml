@@ -34,7 +34,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: ASP-app
-          path: '/published/**'
+          path: published/
 
   deploy:
     runs-on: windows-latest
@@ -46,6 +46,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: ASP-app
+          path: downloaded
       
       - name: Deploy to Azure Web App
         id: deploy-to-webapp
@@ -53,5 +54,5 @@ jobs:
         with:
           app-name: 'agora'
           slot-name: 'Production'
-          package: .
+          package: downloaded/
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A9AB9F54EEC4449DAB1253EFA5A137E4 }}
