@@ -28,7 +28,11 @@ jobs:
         run: nuget restore
 
       - name: Publish to folder
-        run: msbuild Agoramember.sln /nologo /verbosity:m /t:Build /p:_PackageTempDir="\published\"
+        run: msbuild Agora.Web/Agora.Web.csproj ^
+          /p:DeployOnBuild=true ^
+          /p:WebPublishMethod=FileSystem ^
+          /p:PublishUrl="published" ^
+          /p:Configuration=Release
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
