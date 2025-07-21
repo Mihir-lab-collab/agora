@@ -1,0 +1,74 @@
+=============================================================
+Date/Time   : 12-05-15  02:50:03
+Source   : System.Data
+InnerException   : 
+ProjectMileStoneID
+   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at mileStoneDAL.getMileStone(String mode, Int32 projid) in d:\TFS\Agora\Member\App_Code\CSCode\DAL\MilestoneDAL.cs:line 57
+==============================================================
+=============================================================
+Date/Time   : 12-05-15  02:55:46
+Source   : System.Data
+InnerException   : 
+ProjectMileStoneID
+   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at mileStoneDAL.getMileStone(String mode, Int32 projid) in d:\TFS\Agora\Member\App_Code\CSCode\DAL\MilestoneDAL.cs:line 57
+==============================================================
+=============================================================
+Date/Time   : 12-05-15  03:14:17
+Source   : System.Data
+InnerException   : 
+ProjectMileStoneID
+   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at mileStoneDAL.getMileStone(String mode, Int32 projid) in d:\TFS\Agora\Member\App_Code\CSCode\DAL\MilestoneDAL.cs:line 57
+==============================================================
+=============================================================
+Date/Time   : 12-05-15  04:03:42
+Source   : System.Data
+InnerException   : 
+Message :ProjectMileStoneID
+StackTrace :   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at mileStoneDAL.getMileStone(String mode, Int32 projid) in d:\TFS\Agora\Member\App_Code\CSCode\DAL\MilestoneDAL.cs:line 57
+==============================================================
+=============================================================
+Date/Time   : 12-05-15  05:21:59
+Source   : System.Data
+InnerException   : 
+Message :ProjectMileStoneID
+StackTrace :   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at mileStoneDAL.getMileStone(String mode, Int32 projid) in d:\TFS\Agora\Member\App_Code\CSCode\DAL\MilestoneDAL.cs:line 58
+==============================================================
+=============================================================
+Date/Time   : 12-05-15  05:25:36
+Source   : System.Data
+InnerException   : 
+Message :ProjectMileStoneID
+StackTrace :   at System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   at System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   at System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at mileStoneDAL.getMileStone(String mode, Int32 projid) in d:\TFS\Agora\Member\App_Code\CSCode\DAL\MilestoneDAL.cs:line 58
+==============================================================
+=============================================================
+Date/Time   : 12-05-15  05:43:48
+Source   : App_Web_zr4ekhyj
+InnerException   : 
+Message :Unable to find the specified file.
+StackTrace :   at testerror.Page_Load(Object sender, EventArgs e) in d:\TFS\Agora\Member\testerror.aspx.cs:line 15
+==============================================================
+=============================================================
+Date/Time   : 12-05-15  05:46:15
+Source   : App_Web_ij4dd15m
+InnerException   : 
+Message :Unable to find the specified file.
+StackTrace :   at testerror.Page_Load(Object sender, EventArgs e) in d:\TFS\Agora\Member\testerror.aspx.cs:line 15
+==============================================================

@@ -1,0 +1,388 @@
+﻿@model Agora.Onboarding.Models.Onboardings
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AgoraLoginPortal</title>
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/carousel/">
+    <!-- Bootstrap core CSS -->
+    <link href="~/sass/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/sass/css/fonts.css" rel="stylesheet" />
+    <link href="~/sass/css/style.css" rel="stylesheet" />
+    <link href="~/sass/css/custom.css" rel="stylesheet" />
+    <link href="~/sass/css/coadcss.css" rel="stylesheet" />
+    <link href="~/sass/css/stylesheet.css" rel="stylesheet" />
+    <link href="~/sass/sass/style.scss" />
+    <script src="https://kit.fontawesome.com/49fd075556.js" crossorigin="anonymous"></script>
+    <style type="text/css">
+        .btn-color {
+            background-color: #343a40;
+            /*background-color: #F89C2D;*/
+        }
+
+        .white {
+            min-height: 900px !important;
+        }
+
+        .wrapme .card .card-header ul li span {
+            font-size: 22px !important;
+        }
+
+        .wrapme .card .card-body ol {
+            margin-left: 55px;
+        }
+
+        .list-ul .list-li {
+            display: list-item !important;
+            list-style-type: disc !important;
+        }
+        .head {
+            font-size: 18px;
+        }
+    </style>
+
+</head>
+<body>
+    @using (Html.BeginForm("AgoraLoginPortal", "Landing", FormMethod.Post, null))
+    {
+    <div role="main" class="">
+        <div class="home-bgs">
+            <div class="col-lg-12">
+                <a href="https://www.intelegain.com/"><img src="~/images/intelegain-logo.png" class="logo" alt="Intelegain Technologies" /></a>
+            </div>
+            <div class="container text-center">
+
+                <div class="col-lg-12">
+                    <div class="bg_progress pt-2">
+                        <ul id="progressbar">
+                            <li id="hr" class="hr active">
+                                <div class="icon">
+                                    <img src="~/images/icon-1.png" class="box-icons2" alt="icon" />
+                                </div>
+                                <h5 class="pro-title">Employee Handbook</h5>
+                            </li>
+                            <li class="active" id="portal">
+                                <div class="icon ">
+                                    <img src="~/images/grey-icon-2.png" class="box-icons2 greydisc" alt="icon" />
+                                    <img src="~/images/icon-2.png" class="box-icons2 yellowdisc" alt="icon" />
+                                </div>
+                                <h5 class="pro-title">Compliance</h5>
+                            </li>
+                            <li id="appointment">
+                                <div class="icon">
+                                    <img src="~/images/grey-icon-3.png" class="box-icons2 greydisc" alt="icon" />
+                                    <img src="~/images/icon-3.png" class="box-icons2 yellowdisc" alt="icon" />
+                                </div>
+                                <h5 class="pro-title">Check List </h5>
+                            </li>
+
+                        </ul>
+
+
+                    </div>
+
+
+                    <form id="msform">
+                        <!-- progressbar -->
+
+
+                        <fieldset>
+                            <div class="wrapme mb-5">
+                                <h6 class="text-left text-orange orangetext">Important Compliances </h6>
+                                <div class="accordion text-left" id="accordionExample">
+                                    <div class="card">
+                                        <div class="card-header">
+
+                                            <ul class="title">
+                                                <li class=" btn-block text-left" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                                    <div class="left text-white"> <img src="~/images/groupicon1.png" class="group-icons" alt="icon" /> Fill Timesheets</div>
+                                                    <div class="right">
+
+
+                                                    </div>
+                                                    <i class="fas fa-chevron-up collapse-arrow"></i>
+
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div id="collapseOne" class="collapse show" data-parent="#accordionExample">
+                                            <div class="card-body text-white">
+                                                <h7>
+                                                    Filling timesheet regularly is very important.
+                                                </h7>
+                                                <ul>
+                                                    <li>
+                                                        <span class="numb">1.</span> <p class="head">You will be assigned one or multiple projects in Agora portal.</p>
+                                                    </li>
+                                                    <li>
+                                                        <span class="numb">2.</span><p class="head">Select the project, the module and add detailed description on the work you have performed during the day. If you have doubts, ask your reporting manager or HR</p>
+                                                    </li>
+                                                    <li>
+                                                        <span class="numb">3.</span><p class="head">If you don’t find your project listed, reach out to HR or your reporting manager to assign you the project</p>
+                                                    </li>
+                                                    <li>
+                                                        <span class="numb">4.</span><p class="head">In case the task allocated to you on a project demands lesser hours in a day, make sure you update only those hours worked under the project. Do not enter 8 hours in the timesheet if you have spent 4 hours on e.g “Project A”. If the remaining hours are on 'No Work' then it has to be updated under “Intelegain Internal/No Work”</p>
+                                                    </li>
+                                                    <li>
+                                                        <span class="numb">5.</span><p class="head"> Make sure that timesheet is updated under correct project name.</p>
+                                                    </li>
+                                                    <li>
+                                                        <label class="container-check">
+                                                            @*<input type="checkbox" id="fillTimeSheet" value="remember-me"> Remember me*@
+                                                            @Html.CheckBoxFor(model => model.Timesheet_check, new { id = "fillTimeSheet" }) I agree
+
+                                                            <span class="checkmark"></span>
+                                                        </label>
+                                                    </li>
+                                                </ul>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                    <div class="card">
+                                        <div class="card-header">
+
+                                            <ul class="title">
+                                                <li class=" btn-block text-left" data-toggle="collapse" data-target="#collapsetwo" aria-expanded="true" aria-controls="collapsetwo">
+                                                    <div class="left text-white"> <img src="~/images/groupicon2.png" class="group-icons" alt="icon" />Leave Applications</div>
+                                                    <div class="right">
+
+
+                                                    </div>
+                                                    <i class="fas fa-chevron-up collapse-arrow"></i>
+
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div id="collapsetwo" class="collapse " data-parent="#accordionExample">
+                                            <div class="card-body text-white">
+                                                <h7>
+                                                    Leaves
+                                                </h7>
+                                                <ul>
+                                                    <li>
+                                                        <span class="numb">1.</span> <p class="head">All leaves should be pre-planned and approved by reporting person in advance.</p>
+                                                    </li>
+                                                    <li>
+                                                        <span class="numb">2.</span><p class="head">In case of emergency leave, an email should be sent to HR , keeping Reporting manager in loop before 10am on the same day, an intimation should reach by call or message in case you are not able to send email.</p>
+                                                    </li>
+                                                    <li>
+                                                        <span class="numb">3.</span><p class="head">Emergency Leave will not be considered approved if HR and Reporting Manager is not looped in.</p>
+                                                    </li>
+                                                    <li>
+                                                        <span class="numb">4.</span><p class="head">Make sure you have saved, phone numbers of your Reporting Manager and members of the HR Team.</p>
+                                                    </li>
+                                                    <li>
+                                                        <label class="container-check">
+                                                            @*<input type="checkbox" id="leaveApplications" value="remember-me"> Remember me*@
+                                                            @Html.CheckBoxFor(model => model.Leave_check, new { id = "leaveApplications" }) I agree
+                                                            <span class="checkmark"></span>
+                                                        </label>
+                                                    </li>
+                                                </ul>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                    <div class="card">
+                                        <div class="card-header">
+
+                                            <ul class="title">
+                                                <li class=" btn-block text-left" data-toggle="collapse" data-target="#collapsethree" aria-expanded="true" aria-controls="collapsethree">
+                                                    <div class="left text-white">
+                                                        <img src="~/images/groupicon3.png" class="group-icons" alt="icon" />Work From Home
+                                                    </div>
+                                                    <div class="right">
+
+
+                                                    </div>
+                                                    <i class="fas fa-chevron-up collapse-arrow"></i>
+
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div id="collapsethree" class="collapse " data-parent="#accordionExample">
+                                            <div class="card-body text-white">
+                                                <h7>
+                                                    WFH
+                                                </h7>
+                                                <ol>
+                                                    <li style="margin-bottom: 20px;font-size:18px">
+                                                        Company does not promote WFH. In case if WFH is required due to
+                                                        unforeseen circumstances, make sure to take approval from Reporting
+                                                        manager through email (at least 2 days prior going on Planned WFH and
+                                                        same day for unplanned WFH) and same needs to be communicated to HR by
+                                                        sending mail to hr@intelegain.com
+                                                    </li>
+                                                    <li>
+                                                        <span class="head">Need to adhere to the following during WFH as</span>
+                                                        <ul class="list-ul head">
+                                                            <li class="list-li">Sharing SOD/EOD in chat group</li>
+                                                            <li class="list-li head">
+                                                                Always available on skype /calls to team members when on WFH
+                                                            </li>
+                                                        </ul>
+                                                    </li>
+                                                </ol>
+                                                <ul>
+                                                    <li>
+                                                        <label class="container-check">
+                                                            @*<input type="checkbox" id="faq" value="remember-me"> Remember me*@
+                                                            @Html.CheckBoxFor(model => model.WFH_check, new { id = "faq" }) I agree
+                                                            <span class="checkmark"></span>
+                                                        </label>
+                                                    </li>
+                                                </ul>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="card">
+                                        <div class="card-header">
+
+                                            <ul class="title">
+                                                <li class=" btn-block text-left" data-toggle="collapse" data-target="#collapsetfour" aria-expanded="true" aria-controls="collapsethree">
+                                                    <div class="left text-white"><img src="~/images/groupicon4.png" class="group-icons" alt="icon" />Confidentiality</div>
+                                                    <div class="right">
+
+
+                                                    </div>
+                                                    <i class="fas fa-chevron-up collapse-arrow"></i>
+
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div id="collapsetfour" class="collapse " data-parent="#accordionExample">
+                                            <div class="card-body text-white">
+                                                <h7>
+                                                    Confidentiality
+                                                </h7>
+                                                <ul>
+                                                    <li>
+                                                        <span class="numb">1.</span><p class="head">All information pertaining to CTC and appraisals need to be kept strictly confidential and should not be discussed with colleagues.</p>
+                                                    </li>
+                                                    <li>
+                                                        <label class="container-check">
+                                                            @*<input type="checkbox" id="faq" value="remember-me"> Remember me*@
+                                                            @Html.CheckBoxFor(model => model.Confidentiality_check, new { id = "Confidentiality" }) I agree
+                                                            <span class="checkmark"></span>
+                                                        </label>
+                                                    </li>
+                                                </ul>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+
+
+
+                            @*<button type="button" id="btnAgoraPortal" style="opacity:1" name="next" class="next action-button btn btn-dark continue  ">CONTINUE</button>*@
+                            @*@Html.ActionLink("CONTINUE", "ReviewHRManual", null, new
+        {
+        @id = "btnAgoraPortal",
+        @class = "next action-button btn btn-dark continue"
+        })*@
+                            @*@Html.ActionLink("Back", "ReviewHRManual", null, new { @class = "previous action-button-previous fas fa-long-arrow-alt-left" })*@
+                        <div class="col-lg-12 text-left">
+                            @*<input type="button" value="BACK" class="previoussec action-button-previous btn btn-trans" />*@
+                            @Html.ActionLink("Back", "ReviewHRManual", null, new { @class = "previoussec action-button-previous btn btn-trans" })
+                            <input type="submit" value="CONTINUE" id="btnAgoraPortal" class="next action-button btn btn-orange continue ml-4" />
+                        </div>
+                                <div>
+                                    <br><br><p id="message"><span style="color: #FF774D; font-family: muliregular; ">@System.Configuration.ConfigurationManager.AppSettings["AgoraLoginPortalMessage"]</span></p>
+                                </div>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+            </div>
+        </div>
+        }
+        <script src="~/Scripts/jquery.min.js"></script>
+        <script src="~/Scripts/jquery-2.9.0.js"></script>
+        @*<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment.min.js"></script>*@
+        <script src="~/Scripts/bootstrap.bundle.min.js"></script>
+        <script src="~/Scripts/project_js.js"></script>
+        <script src="~/Scripts/popper.min.js"></script>
+        @*<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>*@
+        <script>
+         let filltimeSheet = fillTimeSheet = document.getElementById("fillTimeSheet").checked;
+        let leaveApplications = document.getElementById("leaveApplications").checked;
+        let faq = document.getElementById("faq").checked;
+        let confidentiality = document.getElementById("Confidentiality").checked;
+
+        if (filltimeSheet && leaveApplications && faq && confidentiality) {
+            document.getElementById('btnAgoraPortal').disabled = false;
+        }
+        else {
+            document.getElementById('btnAgoraPortal').disabled = true;
+        }
+        if (filltimeSheet && leaveApplications && faq && confidentiality ) {
+            document.getElementById("fillTimeSheet").disabled = true;
+            document.getElementById("leaveApplications").disabled = true;
+            document.getElementById("faq").disabled = true;
+            document.getElementById("Confidentiality").disabled = true;
+            var parentElement = document.getElementById('message');
+
+            // Get the <span> element within the parent element
+            var spanElement = parentElement.getElementsByTagName('span')[0];
+
+            // Set the text-decoration property to "none"
+            spanElement.style.display = "none";
+        }
+
+        document.getElementById('btnAgoraPortal').setAttribute('title', 'All FAQ must be remembered.');
+        document.getElementById('btnAgoraPortal').classList.remove("btn-color");
+        addEventListener("change", function isChecked() {
+            fillTimeSheet = document.getElementById("fillTimeSheet").checked;
+            leaveApplications = document.getElementById("leaveApplications").checked;
+            faq = document.getElementById("faq").checked;
+            confidentiality = document.getElementById("Confidentiality").checked;
+            if (!(fillTimeSheet && leaveApplications && faq && confidentiality)) {
+                document.getElementById('btnAgoraPortal').disabled = true;
+                document.getElementById('btnAgoraPortal').classList.add("btn-color");
+                document.getElementById('btnAgoraPortal').removeAttribute('title', 'All FAQ must be remembered.');
+                //var element = document.getElementById('message');
+                // Set the text-decoration property to "none"
+                //element.style.display = "";
+                $("#message").html("<span style='color: #FF774D; font-family:muliregular;'>@System.Configuration.ConfigurationManager.AppSettings["AgoraLoginPortalMessage"]</span></p>");
+            }
+            else {
+
+                document.getElementById('btnAgoraPortal').disabled = false;
+                //var element = document.getElementById('message');
+                // Set the text-decoration property to "none"
+               // element.style.display = "none";
+                $("#message").html("");
+            }
+
+        });
+
+        //if (!(fillTimeSheet && leaveApplications && faq)) {
+        //    document.getElementById('btnAgoraPortal').disabled = true;
+        //}
+        //$("#btnAgoraPortal").on("click", function isActive() {
+        //    if (fillTimeSheet && leaveApplications && faq) {
+        //        document.getElementById('btnAgoraPortal').disabled = false;
+        //        console.log(fillTimeSheet);
+        //    }
+        //    else {
+        //        document.getElementById('btnAgoraPortal').disabled = false;
+        //    }
+        //});
+        </script>
+
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+﻿
+        .autocomplete_completionListElement {
+        border:solid 1px Gray;
+        margin:0px;
+        padding:1px;
+        height: 100px;
+        overflow:auto;
+        background-color: #FFFFFF;     
+        } 
+        .autocomplete_listItem {
+        color: #191919;
+        } 
+        .autocomplete_highlightedListItem {
+        background-color: #ADD6FF;       
+        }
+

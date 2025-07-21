@@ -1,0 +1,66 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Data;
+using System.Globalization;
+/// <summary>
+/// Summary description for LateCommersBLL
+/// </summary>
+public class LateCommersBLL
+{
+    public int Id { get; set; }
+    public int EmpId { get; set; }
+    public DateTime LateComingDate { get; set; }
+    public DateTime ExpectedTime { get; set; }
+    public DateTime InsertedOn { get; set; }
+
+    public LateCommersBLL()
+    {
+        //
+        // TODO: Add constructor logic here
+        //
+    }
+
+    public static List<LateCommersBLL> GetLateComersData(string mode)
+    {
+        LateComersDAL objDAL = new LateComersDAL();
+        return BindLateComersData(objDAL.GetLateComersData(mode));
+    }
+    private static List<LateCommersBLL> BindLateComersData(DataTable dt)
+    {
+        List<LateCommersBLL> lst = new List<LateCommersBLL>();
+        if (dt.Rows.Count > 0)
+        {
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                LateCommersBLL obj = new LateCommersBLL();
+                obj.Id =Convert.ToInt32(dt.Rows[i]["Id"].ToString());
+                obj.EmpId = Convert.ToInt32(dt.Rows[i]["EmpId"].ToString());
+                obj.LateComingDate =Convert.ToDateTime(dt.Rows[i]["LateComingDate"].ToString());
+                obj.ExpectedTime = Convert.ToDateTime(dt.Rows[i]["ExpectedTime"].ToString());
+                obj.InsertedOn =Convert.ToDateTime(dt.Rows[i]["InsertedOn"].ToString());
+                
+                lst.Add(obj);
+            }
+        }
+        return lst;
+    }
+
+    public static LateCommersBLL InsertLateComeData(int empId, DateTime LateComingDate, DateTime ExpectedTime)
+    {
+        string message = string.Empty;
+        LateCommersBLL objLateCommerBLL = new LateCommersBLL();
+        try
+        {
+            LateComersDAL Obj = new LateComersDAL();
+            objLateCommerBLL = Obj.InsertLateComerData(empId, LateComingDate, ExpectedTime);
+        }
+        catch (Exception ex)
+        {
+            throw new ApplicationException(ex.Message);
+        }
+        return objLateCommerBLL;
+    }
+    
+}

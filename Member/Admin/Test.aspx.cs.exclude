@@ -1,0 +1,310 @@
+using System;
+using System.Collections;
+using System.Configuration;
+using System.Data;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.HtmlControls;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Data.SqlClient;
+//using CrystalDecisions.CrystalReports.Engine;
+//using CrystalDecisions.Shared;
+using System.IO;
+
+public partial class Admin_Test : System.Web.UI.Page
+{
+    string projCode = "";
+    string payCode = "";
+    string payType = "";
+    SqlConnection conn;
+    SqlDataAdapter da;
+    public string connectionstring = System.Configuration.ConfigurationManager.ConnectionStrings["conString"].ToString();
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        projCode = Request.QueryString["projid"];
+        payCode = Request.QueryString["invID"];
+        payType = Request.QueryString["type"];
+
+        if (!IsPostBack)
+        {
+            getInvoiceInfo();
+        }
+    }
+    public string IntegerToWords(string inputNum1)
+    {
+        int dig1, dig2, dig3, level = 0, lasttwo, threeDigits;
+        double inputNum = Convert.ToDouble(inputNum1);
+        string retval = "";
+        string x = "";
+        string[] ones ={
+    "Zero",
+    "One",
+    "Two",
+    "Three",
+    "Four",
+    "Five",
+    "Six",
+    "Seven",
+    "Eight",
+    "Nine",
+    "Ten",
+    "Eleven",
+    "Twelve",
+    "Thirteen",
+    "Fourteen",
+    "Fifteen",
+    "Sixteen",
+    "Seventeen",
+    "Eighteen",
+    "Nineteen"
+  };
+        string[] tens ={
+    "Zero",
+    "Ten",
+    "Twenty",
+    "Thirty",
+    "Forty",
+    "Fifty",
+    "Sixty",
+    "Seventy",
+    "Eighty",
+    "Ninety"
+  };
+        string[] thou ={
+    "",
+    "Thousand",
+    "Million"
+  };
+
+        bool isNegative = false;
+        if (inputNum < 0)
+        {
+            isNegative = true;
+            inputNum *= -1;
+        }
+
+        if (inputNum == 0)
+            return ("zero");
+
+        string s = inputNum.ToString();
+
+        while (s.Length > 0)
+        {
+            // Get the three rightmost characters
+            x = (s.Length < 3) ? s : s.Substring(s.Length - 3, 3);
+
+            // Separate the three digits
+            threeDigits = int.Parse(x);
+            lasttwo = threeDigits % 100;
+            dig1 = threeDigits / 100;
+            dig2 = lasttwo / 10;
+            dig3 = (threeDigits % 10);
+
+            // append a "thousand" where appropriate
+            if (level > 0 && dig1 + dig2 + dig3 > 0)
+            {
+                retval = thou[level] + " " + retval;
+                retval = retval.Trim();
+            }
+
+            // check that the last two digits is not a zero
+            if (lasttwo > 0)
+            {
+                if (lasttwo < 20) // if less than 20, use "ones" only
+                    retval = ones[lasttwo] + " " + retval;
+                else // otherwise, use both "tens" and "ones" array
+                    retval = tens[dig2] + " " + ones[dig3] + " " + retval;
+            }
+
+            // if a hundreds part is there, translate it
+            if (dig1 > 0)
+                retval = ones[dig1] + " Hundred " + retval;
+
+            s = (s.Length - 3) > 0 ? s.Substring(0, s.Length - 3) : "";
+            level++;
+        }
+
+        while (retval.IndexOf("  ") > 0)
+            retval = retval.Replace("  ", " ");
+
+        retval = retval.Trim();
+
+        if (isNegative)
+            retval = "negative " + retval;
+
+        return (retval.Replace("Zero",""));
+
+    }
+    protected void getInvoiceInfo()
+    {
+        string strInvoicePath = Server.MapPath(@"\admin\invoice\");
+
+        string inrCheck = "";
+        conn = new SqlConnection(connectionstring);
+        string sql = "";
+        sql = " SELECT currencyMaster.currSymbol,currencyMaster.currName,invoiceDetails.invID, invoiceDetails.Type, invoiceDetails.Description, invoiceDetails.AmountPay,paymentMaster.payDate," + 
+             " invoiceDetails.Cost, invoiceDetails.RatePerHours, invoiceDetails.Hours, customerMaster.custName,"+
+             " customerMaster.custCompany, customerMaster.custAddress, customerMaster.custEmail, paymentMaster.payAmount,paymentMaster.PaymentMode" +
+             " FROM currencyMaster"+
+             " INNER JOIN paymentMaster ON currencyMaster.currId = paymentMaster.payCurrency" +
+             " INNER JOIN projectMaster ON paymentMaster.payProjId=projectMaster.projId" + 
+             " INNER JOIN customerMaster ON projectMaster.custId = customerMaster.custId" + 
+             " INNER JOIN invoiceDetails ON paymentMaster.payId=invoiceDetails.invID " +
+             " WHERE projectMaster.projId=" + projCode + " and invoiceDetails.invID=" + payCode;
+
+      
+        da = new SqlDataAdapter(sql, conn);
+        DataSet ds = new DataSet();
+        da.Fill(ds);
+        if (payType == "1")
+        {
+            DataTable dtRegInvoice = new DataTable();
+            dtRegInvoice.Columns.Add("Desc");
+            dtRegInvoice.Columns.Add("RegBillTo");
+            dtRegInvoice.Columns.Add("RegInvoiceNo");
+            dtRegInvoice.Columns.Add("RegTotalCost");
+            dtRegInvoice.Columns.Add("RegAmount");
+            dtRegInvoice.Columns.Add("RegCompanyName");
+            dtRegInvoice.Columns.Add("RegCurrency");
+            dtRegInvoice.Columns.Add("RegTotalAmount");
+            dtRegInvoice.Columns.Add("AmountText");
+            dtRegInvoice.Columns.Add("Paymentmode");
+            dtRegInvoice.Columns.Add("PayDate");
+            
+            for (int i = 0; i < ds.Tables[0].Rows.Count; i++)
+            {
+                string desc = ds.Tables[0].Rows[i]["Description"].ToString();
+                string totalCost = Convert.ToInt32(ds.Tables[0].Rows[i]["Cost"]).ToString();
+                string payAmount = Convert.ToInt32(ds.Tables[0].Rows[i]["AmountPay"]).ToString();
+                string CustName = ds.Tables[0].Rows[i]["custName"].ToString();
+                string CustAddr = ds.Tables[0].Rows[i]["custAddress"].ToString();
+                string companyName = ds.Tables[0].Rows[i]["custCompany"].ToString();
+                string currency ="(" + ds.Tables[0].Rows[i]["currSymbol"].ToString() + ")";
+                string totalAmount = ds.Tables[0].Rows[i]["payAmount"].ToString();
+                string payMode = ds.Tables[0].Rows[i]["PaymentMode"].ToString();
+                string billTo = CustName + "\n" + CustAddr;
+
+                DataRow dtRow = dtRegInvoice.NewRow();
+                dtRow["Desc"] = desc;
+                dtRow["RegBillTo"] = billTo;
+                dtRow["RegInvoiceNo"] = "DWT/"+payCode;
+                dtRow["RegTotalCost"] = totalCost;
+                dtRow["RegAmount"] = payAmount;
+                dtRow["RegCompanyName"] = companyName;
+                dtRow["RegCurrency"] = currency;
+                dtRow["RegTotalAmount"] = totalAmount;
+                dtRow["AmountText"] = ds.Tables[0].Rows[i]["currName"].ToString()+ "(s)" + " " + IntegerToWords(totalAmount);
+                dtRow["Paymentmode"] = payMode;
+                dtRow["PayDate"] = Convert.ToDateTime(ds.Tables[0].Rows[i]["payDate"]).ToString("dd-MMM-yyyy"); 
+                dtRegInvoice.Rows.Add(dtRow);
+                inrCheck = currency;
+           
+            }
+            if (File.Exists(strInvoicePath + projCode + "_" + payCode + ".pdf"))
+            {
+                try
+                {
+                    File.Copy(strInvoicePath + projCode + "_" + payCode + ".pdf", strInvoicePath + projCode + "_" + payCode + "_A.pdf", true);
+                    File.Delete(strInvoicePath + projCode + "_" + payCode + ".pdf");
+                }
+                catch
+                {
+			Response.Write ("Error in deleting PDF");
+                }
+            }
+
+            ReportDocument RepDOC = new ReportDocument();
+            //string cryInvPath = Server.MapPath(@"\rpt\") + "regularPDF.rpt";
+            string cryInvPath = Server.MapPath(@"\rpt\") + "regularPDF.rpt";
+            if (inrCheck == "(INR)")
+            {
+                cryInvPath = Server.MapPath(@"\rpt\") + "INRregularPDF.rpt";
+            }
+            RepDOC.Load(cryInvPath);
+            RepDOC.Database.Tables[0].SetDataSource(dtRegInvoice);
+            RepDOC.Refresh();
+            
+            RepDOC.ExportToDisk(ExportFormatType.PortableDocFormat, strInvoicePath + projCode + "_" + payCode + ".pdf");          
+            //RepDOC.ExportToDisk(ExportFormatType.PortableDocFormat, @"C:\inetpub\wwwroot\DynoCRM\Ver 2.0\Admin\Invoice\" + projCode + "_" + payCode + ".pdf");   this for live       
+
+        }
+        else
+        {
+            DataTable dtTMInvoice = new DataTable();
+            dtTMInvoice.Columns.Add("TMDesc");
+            dtTMInvoice.Columns.Add("Rate");
+            dtTMInvoice.Columns.Add("Hour");
+            dtTMInvoice.Columns.Add("TMAmount");
+            dtTMInvoice.Columns.Add("TMBillTo");
+            dtTMInvoice.Columns.Add("TMInvoiceNo");
+            dtTMInvoice.Columns.Add("TMCompanyName");
+            dtTMInvoice.Columns.Add("TMCurrency");
+            dtTMInvoice.Columns.Add("TMTotalAmount");
+            dtTMInvoice.Columns.Add("AmountText");
+            dtTMInvoice.Columns.Add("PayDate");
+
+            for (int i = 0; i < ds.Tables[0].Rows.Count; i++)
+            {
+                string desc = ds.Tables[0].Rows[i]["Description"].ToString();
+                string rate = Convert.ToInt32(ds.Tables[0].Rows[i]["RatePerHours"]).ToString();
+                string hours = Convert.ToInt32(ds.Tables[0].Rows[i]["Hours"]).ToString();
+                string CustName = ds.Tables[0].Rows[i]["custName"].ToString();
+                string CustAddr = ds.Tables[0].Rows[i]["custAddress"].ToString();
+                string companyName = ds.Tables[0].Rows[i]["custCompany"].ToString();
+                string currency = "(" + ds.Tables[0].Rows[i]["currSymbol"].ToString() + ")";
+                string totalAmount = ds.Tables[0].Rows[i]["payAmount"].ToString();
+                string billTo = CustName + "\n" + CustAddr;
+               
+                DataRow dtRow = dtTMInvoice.NewRow();
+                dtRow["TMDesc"] = desc;
+                dtRow["Rate"] = rate;
+                dtRow["Hour"] = hours;
+                dtRow["TMBillTo"] = billTo;
+                dtRow["TMInvoiceNo"] = "DWT/" + payCode;
+                dtRow["TMCompanyName"] = companyName;
+                dtRow["TMCurrency"] = currency;
+                dtRow["TMTotalAmount"] = totalAmount;
+                dtRow["TMAmount"] = Convert.ToString(Convert.ToDouble(rate) * Convert.ToDouble(hours));
+                dtRow["AmountText"] = ds.Tables[0].Rows[i]["currName"].ToString() + "(s)" + " " + IntegerToWords(totalAmount);
+                dtRow["PayDate"] = Convert.ToDateTime(ds.Tables[0].Rows[i]["payDate"]).ToString("dd-MMM-yyyy"); 
+                dtTMInvoice.Rows.Add(dtRow);
+
+            }
+
+            if (File.Exists(strInvoicePath + projCode + "_" + payCode + ".pdf"))
+            {
+                try
+                {
+                    File.Copy(strInvoicePath + projCode + "_" + payCode + ".pdf", strInvoicePath + projCode + "_" + payCode + "_A.pdf", true);
+                    File.Delete(strInvoicePath + projCode + "_" + payCode + ".pdf");
+                }
+                catch
+                {
+                }
+            }
+
+            ReportDocument RepDOC = new ReportDocument();
+            string cryInvPath = Server.MapPath(@"\rpt\") + "TMPDF.rpt";
+            RepDOC.Load(cryInvPath);
+            RepDOC.Database.Tables[0].SetDataSource(dtTMInvoice);
+            RepDOC.Refresh();
+
+            RepDOC.ExportToDisk(ExportFormatType.PortableDocFormat, strInvoicePath + projCode + "_" + payCode + ".pdf");       
+           // RepDOC.ExportToDisk(ExportFormatType.PortableDocFormat, @"C:\inetpub\wwwroot\DynoCRM\Ver 2.0\Admin\Invoice\" + projCode + "_" + payCode + ".pdf");       this for live
+        }
+        ds.Dispose();
+
+     if (Request.QueryString["from"] == null)
+            Response.Redirect("paymentSummary.aspx?projid=" + projCode);
+        else
+            Response.Redirect("show_ch_request_to_admin.aspx");
+
+        //Response.Redirect("paymentSummary.aspx?projid=" + projCode);
+    }
+
+  
+}
+

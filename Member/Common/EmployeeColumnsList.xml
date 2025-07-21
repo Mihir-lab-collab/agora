@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocumentElement>
+  <Employee>
+    <ColumnID>empid</ColumnID>
+    <ColumnName>Employee ID</ColumnName>
+  </Employee>
+  <Employee>
+    <ColumnID>empName</ColumnID>
+    <ColumnName>Name</ColumnName>
+  </Employee>
+  <Employee>
+    <ColumnID>empJoiningDate</ColumnID>
+    <ColumnName>JoiningDate</ColumnName>
+  </Employee>
+  <Employee>
+    <ColumnID>empBDate</ColumnID>
+    <ColumnName>Birth Date</ColumnName>
+  </Employee>
+  <Employee>
+    <ColumnID>CTC</ColumnID>
+    <ColumnName>CTC</ColumnName>
+  </Employee>
+  <Employee>
+    <ColumnID>Gross</ColumnID>
+    <ColumnName>Gross</ColumnName>
+  </Employee>
+  <Employee>
+    <ColumnID>Net</ColumnID>
+    <ColumnName>Net</ColumnName>
+  </Employee>
+</DocumentElement>

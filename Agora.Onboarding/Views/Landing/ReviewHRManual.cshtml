@@ -1,0 +1,286 @@
+﻿@model Agora.Onboarding.Models.Onboardings
+@using Agora.Onboarding.Encryption
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AgoraLoginPortal</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v4.1.1">
+    <title>Emp-On-boarding</title>
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/carousel/">
+    <!-- Bootstrap core CSS -->
+    <link href="~/sass/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/sass/css/fonts.css" rel="stylesheet" />
+    <link href="~/sass/css/style.css" rel="stylesheet" />
+    <link href="~/sass/css/custom.css" rel="stylesheet" />
+    <link href="~/sass/css/coadcss.css" rel="stylesheet" />
+    <link href="~/sass/css/stylesheet.css" rel="stylesheet" />
+    <link href="~/sass/sass/style.scss" />
+    <script src="https://kit.fontawesome.com/49fd075556.js" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.3.200/pdf.min.js"></script>
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+    <style>
+        #canvas_container {
+            width: 938px;
+            height: 860px;
+            overflow: auto;
+            text-align: center;
+        }
+
+        .btn-color {
+            background-color: #343a40;
+        }
+    </style>
+</head>
+<body>
+    @using (Html.BeginForm("ReviewHRManual", "Landing", FormMethod.Post, null))
+    {
+        <div role="main" class="showcontent">
+            <div class="home-bgs">
+                <div class="col-lg-12">
+                    <a href="https://www.intelegain.com/"><img src="~/images/intelegain-logo.png" class="logo" alt="Intelegain Technologies" /></a>
+                </div>
+                <div class="container text-center">
+
+                    <div class="col-lg-12">
+                        <div class="bg_progress pt-2">
+                            <ul id="progressbar">
+                                <li class="active" id="portal">
+                                    <div class="icon ">
+                                        <img src="~/images/icon-1.png" class="box-icons2" alt="icon" />
+
+                                    </div>
+                                    <h5 class="pro-title">Employee Handbook</h5>
+                                </li>
+                                <li id="hr">
+                                    <div class="icon">
+                                        <img src="~/images/grey-icon-2.png" class="box-icons2 greydisc" alt="icon" />
+                                        <img src="~/images/icon-2.png" class="box-icons2 yellowdisc" alt="icon" />
+                                    </div>
+                                    <h5 class="pro-title">Compliance</h5>
+                                </li>
+                                <li id="appointment">
+                                    <div class="icon">
+                                        <img src="~/images/grey-icon-3.png" class="box-icons2 greydisc" alt="icon" />
+                                        <img src="~/images/icon-3.png" class="box-icons2 yellowdisc" alt="icon" />
+                                    </div>
+                                    <h5 class="pro-title">Check List </h5>
+                                </li>
+
+                            </ul>
+
+
+                        </div>
+                    </div>
+                    <div role="main" class="showpagebtn">
+                        <form id="msform">
+
+
+                            <div role="main" class="showcontent">
+
+                                <div class="container text-center discen">
+
+                                    @*<div class="col-lg-12 white pt-4 pb-5 mb-5 mt-5">*@
+
+                                    <fieldset>
+
+                                        <div class="wrapme mb-4">
+
+                                            <div class="greybgcust">
+                                                <div class="slider-container">
+                                                    <div class="slider">
+                                                        <div class="slide"><img src="~/images/slider-1.png" alt="image-1" /></div>
+                                                        <div class="slide"><img src="~/images/slider-2.png" alt="image-2" /></div>
+                                                        <div class="slide"><img src="~/images/slider-3.png" alt="image-3" /></div>
+                                                        <div class="slide"><img src="~/images/slider-4.png" alt="image-4" /></div>
+                                                        <div class="slide"><img src="~/images/slider-5.png" alt="image-5" /></div>
+                                                        <div class="slide"><img src="~/images/slider-6.png" alt="image-6" /></div>
+                                                        <div class="slide"><img src="~/images/slider-7.png" alt="image-7" /></div>
+                                                        <div class="slide"><img src="~/images/slider-8.png" alt="image-8" /></div>
+                                                        <div class="slide"><img src="~/images/slider-9.png" alt="image-9" /></div>
+                                                        <div class="slide"><img src="~/images/slider-10.png" alt="image-10" /></div>
+                                                        <div class="slide"><img src="~/images/slider-11.png" alt="image-11" /></div>
+                                                        <div class="slide"><img src="~/images/slider-12.png" alt="image-12" /></div>
+                                                        <div class="slide"><img src="~/images/slider-13.png" alt="image-13" /></div>
+                                                        <div class="slide"><img src="~/images/slider-14.png" alt="image-14" /></div>
+                                                        <div class="slide"><img src="~/images/slider-15.png" alt="image-15" /></div>
+                                                        <div class="slide"><img src="~/images/slider-16.png" alt="image-16" /></div>
+                                                        <div class="slide"><img src="~/images/slider-17.png" alt="image-17" /></div>
+                                                        <div class="slide"><img src="~/images/slider-18.png" alt="image-18" /></div>
+                                                        <div class="slide"><img src="~/images/slider-19.png" alt="image-19" /></div>
+                                                        <div class="slide"><img src="~/images/slider-20.png" alt="image-20" /></div>
+                                                        <div class="slide"><img src="~/images/slider-21.png" alt="image-21" /></div>
+                                                        <div class="slide"><img src="~/images/slider-22.png" alt="image-22" /></div>
+                                                        <div class="slide"><img src="~/images/slider-23.png" alt="image-23" /></div>
+                                                        <div class="slide"><img src="~/images/slider-24.png" alt="image-24" /></div>
+                                                        <div class="slide"><img src="~/images/slider-25.png" alt="image-25" /></div>
+                                                        <div class="slide"><img src="~/images/slider-26.png" alt="image-26" /></div>
+                                                        <div class="slide"><img src="~/images/slider-27.png" alt="image-27" /></div>
+                                                        <div class="slide" id="lastSlide"><img src="~/images/slider-28.png" alt="image-28" /></div>
+                                                    </div>
+                                                    <div class="nav-buttons">
+                                                        <div class="bordbox">
+                                                            <a class="nav-button fa fa-back" id="prevButton"><img src="~/images/leftarrow.png" alt="arrow" /></a>
+                                                            <div class="slide-count" id="slideCounter"></div>
+                                                            <a class="nav-button fa fa-next" id="nextButton"><img src="~/images/rightarrow.png" alt="arrow" /></a>
+                                                        </div>
+                                                    </div>
+                                                    <p id="hiddenText">You are now a couple of clicks away ! </p>
+                                                </div>
+
+                                                @*@Html.Partial("GetHrManual")*@
+                                            </div>
+                                            <label class="container-check mt-4 text-white" id="reviewManual">
+                                                @*<input type="checkbox" id="checkReviewManual" checked="checked" value="remember-me"> I agree to the terms stated in the HR Manual*@
+                                                @Html.CheckBoxFor(model => model.HR_Manual_check, new { @id = "checkReviewManual", @class = "text-white" }) I agree to the guidelines stated in the employee handbook
+
+                                                <span class="checkmark"></span>
+                                            </label>
+
+                                        </div>
+                                        @*<button type="button" name="previous" class="previous action-button-previous"> <i class="fas fa-long-arrow-alt-left"></i>Back</button>*@
+                                        @*@Html.ActionLink("Back", "Index", new { @Emp_id = Utility.Encrypt(@Model.EmpId.ToString()) }, new { @class = "previous action-button-previous fas fa-long-arrow-alt-left" })*@
+                                        @*<button type="button" name="next" class="next action-button btn btn-dark continue afterfullwidth ">CONTINUE</button>*@
+                                        @*@Html.ActionLink("CONTINUE", "AppointmentLetter",  new { @class = "next action-button btn btn-dark continue afterfullwidth" })*@
+                                        <div class="col-lg-12 text-left">
+                                            @*<input type="button" value="BACK" class="previoussec action-button-previous btn btn-trans" />*@
+                                            @Html.ActionLink("Back", "GetStart", new { @emp_Id = Utility.Encrypt(@Model.EmpId.ToString()), @check = "true" }, new { @class = "previoussec action-button-previous btn btn-trans", @id = "btnback" })
+                                            <input type="submit" name="next" value="CONTINUE" id="btnHrManual" class="next action-button btn btn-orange continue afterfullwidth ml-4" />
+                                        </div>
+                                        <br><br><p id="message"><span style="color: #FF774D; font-family: muliregular; ">Note: Please review the handbook before you can proceed further</span></p>
+                                    </fieldset>
+
+
+                                </div>
+                            </div>
+
+                            @*</div>*@
+                        </form>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+        <input type="hidden" id="hdncheckcondition" value="false" />
+
+    }
+
+
+    @*<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>*@
+    @*<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment.min.js"></script>
+        <script src="~/Scripts/bootstrap.bundle.min.js"></script>
+        <script src="~/Scripts/project_js.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>*@
+
+    <script type="text/javascript">
+        addEventListener("change", function () {
+            checkReviewManual = document.getElementById("checkReviewManual").checked;
+            if (checkReviewManual) {
+                document.getElementById('btnHrManual').disabled = false;
+                document.getElementById('btnHrManual').classList.add("btn-color");
+                $("#message").html("");
+            }
+            else {
+                document.getElementById('btnHrManual').disabled = true;
+                $("#message").html("<span style='color: #FF774D; font-family:muliregular;'>Note: Please review the handbook before you can proceed further</span></p>");
+            }
+
+        });
+       
+    </script>
+    <script>
+        const slider = document.querySelector('.slider');
+        const hiddenText = document.getElementById('hiddenText');
+        const prevButton = document.getElementById('prevButton');
+        const nextButton = document.getElementById('nextButton');
+        const slideCounter = document.getElementById('slideCounter');
+        const reviewManual = document.getElementById('reviewManual');
+
+        let slideIndex = 0;
+
+        function showHiddenText() {
+            var val = '@ViewBag.IsSuccess';
+            var hdnval = document.getElementById('hdncheckcondition').value;
+            if (slideIndex === slider.children.length - 1) {
+                hiddenText.style.display = 'block';
+                reviewManual.style.display = 'flex';
+                document.cookie = "checked=success";
+                document.getElementById('hdncheckcondition').value = "true";
+            } else {
+                const cookieValue = document.cookie
+                    .split(';')
+                    .find(cookie => cookie.startsWith("checked" + '='));
+                if (val == "true" && hdnval == "false") {
+                    hiddenText.style.display = 'none';
+                    reviewManual.style.display = 'none';
+                }
+                 else if (cookieValue == "checked=success") {
+                    console.log('success');
+                    hiddenText.style.display = 'block';
+                    reviewManual.style.display = 'flex';
+                } else {
+                    hiddenText.style.display = 'none';
+                    reviewManual.style.display = 'none';
+                }
+
+            }
+        }
+
+        function updateSlideCounter() {
+            slideCounter.textContent = `${slideIndex + 1} of ${slider.children.length}`;
+        }
+
+        function slideTo(index) {
+            if (index < 0) {
+                index = 0;
+            } else if (index >= slider.children.length) {
+                index = slider.children.length - 1;
+            }
+
+            slideIndex = index;
+            const offset = -slideIndex * 100;
+            slider.style.transform = `translateX(${offset}%)`;
+            showHiddenText();
+            updateSlideCounter();
+        }
+
+        prevButton.addEventListener('click', () => {
+            slideTo(slideIndex - 1);
+        });
+
+        nextButton.addEventListener('click', () => {
+            slideTo(slideIndex + 1);
+        });
+
+        // Initial slide position
+        slideTo(0);
+
+        let checkReviewManual = document.getElementById("checkReviewManual").checked;
+        let reviewhrManual = document.getElementById('reviewManual');
+        let hidden_Text = document.getElementById('hiddenText');
+        if (checkReviewManual) {
+            slideTo(28);
+            hidden_Text.style.display = 'block';
+            document.getElementById("checkReviewManual").disabled = true;
+            reviewhrManual.style.display = 'flex';
+            document.getElementById('btnHrManual').disabled = false;
+            $("#message").html("");
+
+        }
+        else {
+            document.getElementById('btnHrManual').disabled = true;
+            document.getElementById('btnHrManual').classList.remove("btn-color");
+        }
+    </script>
+</body>
+</html>

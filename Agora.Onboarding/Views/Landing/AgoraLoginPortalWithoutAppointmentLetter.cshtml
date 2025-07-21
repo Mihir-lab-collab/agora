@@ -1,0 +1,196 @@
+﻿@model Agora.Onboarding.Models.Onboardings
+@{
+    Layout = null;
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v4.1.1">
+    <title>Emp-On-boarding</title>
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/carousel/">
+    <!-- Bootstrap core CSS -->
+    <link href="~/sass/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/sass/css/fonts.css" rel="stylesheet" />
+    <link href="~/sass/css/style.css" rel="stylesheet" />
+    <link href="~/sass/css/coadcss.css" rel="stylesheet" />
+    <link href="~/sass/css/stylesheet.css" rel="stylesheet" />
+    <link href="~/sass/sass/style.scss" />
+    <script src="https://kit.fontawesome.com/49fd075556.js" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.3.200/pdf.min.js"></script>
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+    <style>
+        #canvas_container {
+            width: 938px;
+            height: 500px;
+            overflow: auto;
+            text-align: center;
+        }
+
+        #DownloadAppointmentLetter {
+            color: black;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    @using (Html.BeginForm("AppointmentLetter", "Landing", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @Html.AntiForgeryToken()
+        <div role="main" class="showcontent">
+
+            <div class="col-lg-12">
+                <a href="https://www.intelegain.com/"><img src="~/images/logo.png" class="logo" alt="Intelegain Technologies" /></a>
+            </div>
+
+            <div class="container text-center">
+
+                <div class="col-lg-12 white pt-4 pb-5 mb-5 mt-5">
+
+
+
+                    <form id="msform">
+                        <div class="bg_progress pt-4 pb-3">
+                            <ul id="progressbar">
+                                <li class="active" id="portal">
+                                    <div class="icon ">
+                                        <span class="icon-Group-819 ico"><span class="path1 colr"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span></span>
+                                    </div>
+                                    <strong>Agora Portal</strong>
+                                </li>
+                                <li id="hr" class="hr active">
+                                    <div class="icon">
+                                        <span class="icon-Group-820 ico"><span class="path1"></span><span class="path2 colr"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span><span class="path8"></span></span>
+                                    </div>
+                                    <strong>Review HR Manual</strong>
+                                </li>
+                                <li id="appointment" class="hr active">
+                                    <div class="icon">
+                                        <span class="icon-Group-803 ico"><span class="path1"></span><span class="path2 colr"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span></span>
+                                    </div>
+                                    <strong>Appointment Letter</strong>
+                                </li>
+
+                            </ul>
+
+
+                        </div>
+                        <fieldset>
+
+                            <div class="wrapme mb-5">
+
+                                <div class="white gray">
+
+                                    @*<img src="~/images/ap-letter.jpg" class="img-fluid" />*@
+                                    @*@Html.Partial("GetAppointmentLetter")*@
+                                    <h5><span style="color:red;font-family:'15px muliregular';">The appointment letter does not exist. Please contact HR for assistance.</span></h5>
+
+
+                                </div>
+                                <div class="dwnletter mt-4">
+                                    <div class="left">
+                                        <label class="container-check  ">
+                                            @*<input type="checkbox" checked="checked" value="remember-me">I agree*@
+                                            @Html.CheckBoxFor(model => model.IntroductionChecked, new { id = "introductioncheck" }) I agree
+                                            <span class="checkmark"></span>
+                                        </label>
+
+                                    </div>
+                                    @*<div class="right">
+                                        <i class="fas fa-download"></i>*@
+                                    @*@Html.ActionLink("Download Appointment Letter", "DownloadAppointmentLetter", new { @Id = Model.EmpId }, new { @Id = "DownloadAppointmentLetter" })*@
+                                    @*<input type="url" onclick="window.location.href='/Landing/DownloadAppointmentLetter/'+@Model.EmpId" id="DownloadAppointmentLetter" class="" value="Download Appointment Letter"/>*@
+                                    @*<button type="button"  style="text-decoration:none;border:0px;color:black;background-color:white;" id="DownloadAppointmentLetter">Download Appointment Letter</button>*@
+                                    @*</div>*@
+                                </div>
+
+                                <!--<label class="filelabel mt-4">
+                                    <i class="fas fa-cloud-upload-alt"></i>
+                                    <span class="title">
+                                        Drag & Drop OR Select to upload signed file
+                                    </span>-->
+                                @*<input class="FileUpload1" id="FileInput" name="booking_attachment" type="file" />*@
+                                @*@Html.TextBox("file", null, new { @class = "FileUpload1", @id = "FileInput", @type = "file" })*@
+                                @*@Html.ValidationMessageFor(model => model.SignImage, "", new { @class = "text-danger" })*@
+                                <!--</label>-->
+
+
+
+                            </div>
+                            @Html.ActionLink("Back", "ReviewHRManual", null, new { @class = "previous action-button-previous fas fa-long-arrow-alt-left" })
+                            @*<button type="button" name="previous" class="previous action-button-previous afterremove"> <i class="fas fa-long-arrow-alt-left"></i> Back</button>*@
+                            @*<button type="button" name="next" class="next action-button btn btn-dark continue ">CONTINUE</button>*@
+                            <input type="submit" id="btnReviewHRManual" class="next action-button btn btn-dark continue" value="CONTINUE" />
+
+
+                        </fieldset>
+                    </form>
+
+                </div>
+            </div>
+            @Html.HiddenFor(model => model.SignImage)
+            @Html.HiddenFor(model => model.Dwn_Letter)
+
+        </div>
+    }
+    @if (@Model.Dwn_Letter)
+    {
+        <script type="text/javascript">
+
+
+           // $("#btnReviewHRManual").before("<br><p><span style=color:red;font-family:muliregular;>Appointment Letter is not Exist Please contact to HR!</span></p>");
+            //$("#btnReviewHRManual").before("<h6><span style=color:red;>only word and pdf file acceptable</span></h6>");
+
+        </script>
+    }
+    @*<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment.min.js"></script>
+        <script src="~/Scripts/bootstrap.bundle.min.js"></script>
+        <script src="~/Scripts/project_js.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>*@
+    <script type="text/javascript">
+
+        let introductioncheck = document.getElementById("introductioncheck").checked;
+        document.getElementById("introductioncheck").disabled = true;
+
+        if (introductioncheck) {
+            document.getElementById('btnReviewHRManual').disabled = false;
+        }
+        else {
+            document.getElementById('btnReviewHRManual').disabled = true;
+        }
+        addEventListener("change", function () {
+            introductioncheck = document.getElementById("introductioncheck").checked;
+            if (introductioncheck) {
+                document.getElementById('btnReviewHRManual').disabled = true;
+            }
+            else {
+                document.getElementById('btnReviewHRManual').disabled = true;
+
+            }
+
+        });
+        if (introductioncheck) {
+            document.getElementById("introductioncheck").disabled = true;
+        }
+        if (!introductioncheck) {
+            $("#btnReviewHRManual").before("<br><h6><span style=color:red;> @ViewData["MessageForUpload"]</span></h6>");
+
+            }
+
+       @*var x = document.getElementById('SignImage').value;
+
+        if (x=="") {
+            $("#btnReviewHRManual").after("<br><br><h6><span style=color:red;> @ViewData["MessageForCorrectUpload"]</span></h6>");
+        }*@
+
+
+    </script>
+</body>
+</html>

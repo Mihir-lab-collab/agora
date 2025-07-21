@@ -1,0 +1,152 @@
+﻿@using Agora.Onboarding.Models
+@{
+    Layout = null;
+}
+@{
+    EmployeeMaster employee = ViewBag.getNameById;
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta name="robots" content="noindex">
+    <title>Emp-On-boarding</title>
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/carousel/">
+    <!-- Bootstrap core CSS -->
+    <link href="~/sass/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/sass/css/fonts.css" rel="stylesheet" />
+    <link href="~/sass/css/style.css" rel="stylesheet" />
+    <link href="~/sass/css/custom.css" rel="stylesheet" />
+    <link href="~/sass/css/coadcss.css" rel="stylesheet" />
+    <link href="~/sass/css/stylesheet.css" rel="stylesheet" />
+    <link href="~/sass/sass/style.scss" />
+    <script src="https://kit.fontawesome.com/49fd075556.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="confetti">
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+
+    </div>
+
+    <div>
+        @using (Html.BeginForm("Index", "Landing", null, FormMethod.Post))
+        {
+        <main role="main" class="indexpage">
+            <div class="home-bgs">
+         
+                <div class="col-lg-12">
+                    <a href="https://www.intelegain.com/"><img src="~/images/intelegain-logo.png" class="logo" alt="Intelegain Technologies" /></a>
+                </div>
+                <div class="container text-center showpage">
+                    <div class="col-lg-12">
+                        <div class="row pt-4 pb-4">
+                            @if (@employee != null)
+                            {<h1 id="empname">@employee.EmpName</h1> }
+                        else
+                        {
+                            <h1>Guest</h1>
+                        }
+
+
+
+                            <h5 class="text-white">
+                                Welcome on-board Intelegain
+                            </h5>
+                            <p class="text-grey">
+                                We at Intelegain Technologies are happy to have you on board. Intelegians has been developing software solutions for businesses worldwide for over 20 years. We have a global presence in Sydney, Singapore, Dallas and Mumbai as Headquarters. Do visit www.intelegain.com to know more about the company, the team and the projects undertaken.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 greybgs mb-5">
+                        <p class="text-white">
+                            A few steps to on-boarding, and you will be ready to get started
+                        </p>
+
+                        <div class="row blackblock">
+
+                            <div class="col greyblock">
+                                <img src="~/images/icon-1.png" class="box-icons" alt="icon" />
+                                <h5 class="text-white sec-title"> Employee Handbook</h5>
+                                <p class="text-grey">
+                                    The employee handbook gives you a peek into the team, the processes and more
+                                </p>
+                            </div>
+                            <div class="col greyblock">
+                                <img src="~/images/icon-2.png" class="box-icons" alt="icon" />
+                                <h5 class="text-white sec-title"> Compliance</h5>
+                                <p class="text-grey">
+                                    A complete guide to process that needs to be followed at Intelegain
+                                </p>
+                            </div>
+                            <div class="col greyblock">
+                                <img src="~/images/icon-2.png" class="box-icons" alt="icon" />
+                                <h5 class="text-white sec-title"> Check List</h5>
+                                <p class="text-grey">
+                                    Review the checklist to complete the enablement process on Agora
+                                </p>
+                            </div>
+                        </div>
+
+                        @*<button type="button" class="btn btn-dark continue showpagebtn">CONTINUE</button>*@
+                        @*<input type="submit" id="landingpagebtn" style="opacity:1" value="CONTINUE" class="btn btn-dark continue showpagebtn" />*@
+                        @*@Html.ActionLink("CONTINUE","index", new {employee.EmpId}, new
+            {
+                @class = "btn btn-dark continue showpagebtn"
+            })*@
+
+                    </div>
+                    <button type="submit" id="landingpagebtn" value="CONTINUE" class="btn btn-orange continue showpagebtn">CONTINUE</button>
+                </div>
+            </div>
+
+
+        </main>
+
+        }
+    </div>
+    @*document.getElementById('btnAgoraPortal').disabled = true;
+        document.getElementById('btnAgoraPortal').setAttribute('title', 'All FAQ must be remembered.')*@
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment.min.js"></script>
+    <script src="~/Scripts/bootstrap.bundle.min.js"></script>
+    <script src="~/Scripts/project_js.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+        var checkempid = document.getElementById('empname') ? document.getElementById('empname').textContent : "";
+        if (checkempid == "") {
+            $("#landingpagebtn").prop("disabled", true);
+            $("#landingpagebtn").after("<br><br><p><span style=color:red;>Invalid Employee Id</span></p>");
+
+        }
+
+    </script>
+</body>
+</html>

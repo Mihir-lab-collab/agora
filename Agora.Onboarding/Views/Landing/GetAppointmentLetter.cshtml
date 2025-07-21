@@ -1,0 +1,34 @@
+﻿<div id="my_pdf_viewer" class="center">
+    <div id="canvas_container">
+        <canvas id="pdf_rendered"></canvas>
+
+    </div>
+</div>
+@Html.Hidden(@System.Configuration.ConfigurationManager.AppSettings["AppointmentLetterFilePath"], "", new { @id = "HrManual" })
+<script>
+
+    var myState = {
+        pdf: null,
+        currentPage: 1,
+        zoom: 1
+    }
+    pdfjsLib.getDocument("/Hr_Manual/HR_Manual_October_2020.pdf").then(pdf => {
+        myState.pdf = pdf
+        render()
+    })
+    function render() {
+        myState.pdf.getPage(myState.currentPage).then(page => {
+            var canvas = document.getElementById("pdf_rendered")
+            var ctx = canvas.getContext("2d")
+            var viewport = page.getViewport(myState.zoom)
+            canvas.width = viewport.width;
+            canvas.height = viewport.height;
+
+            //rendering the page
+            page.render({
+                canvasContext: ctx,
+                viewport: viewport
+            })
+        })
+    }
+</script>

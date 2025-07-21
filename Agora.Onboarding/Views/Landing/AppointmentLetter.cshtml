@@ -1,0 +1,343 @@
+﻿@model Agora.Onboarding.Models.Onboardings
+@using Agora.Onboarding.Encryption
+@{
+    Layout = null;
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v4.1.1">
+    <title>Emp-On-boarding</title>
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/carousel/">
+    <!-- Bootstrap core CSS -->
+    <link href="~/sass/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/sass/css/fonts.css" rel="stylesheet" />
+    <link href="~/sass/css/style.css" rel="stylesheet" />
+    <link href="~/sass/css/custom.css" rel="stylesheet" />
+    <link href="~/sass/css/coadcss.css" rel="stylesheet" />
+    <link href="~/sass/css/stylesheet.css" rel="stylesheet" />
+    <link href="~/sass/sass/style.scss" />
+    <script src="https://kit.fontawesome.com/49fd075556.js" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.3.200/pdf.min.js"></script>
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+    <style type="text/css">
+        #canvas_container {
+            width: 938px;
+            height: 500px;
+            overflow: auto;
+            text-align: center;
+        }
+
+        #DownloadAppointmentLetter {
+            color: black;
+            text-decoration: none;
+        }
+
+        .btn-color {
+            background-color: #343a40;
+        }
+
+        .addheight {
+            min-height: 1100px !important;
+        }
+    </style>
+</head>
+<body>
+
+    @using (Html.BeginForm("AppointmentLetter", "Landing", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @Html.AntiForgeryToken()
+        <div role="main" class="showcontent">
+            <div class="home-bgs">
+                <div class="col-lg-12">
+                    <a href="https://www.intelegain.com/"><img src="~/images/intelegain-logo.png" class="logo" alt="Intelegain Technologies" /></a>
+                </div>
+
+                <div class="container text-center">
+
+                    <div class="col-lg-12">
+                        <div class="bg_progress pt-2">
+                            <ul id="progressbar">
+                                <li class="active" id="portal">
+                                    <div class="icon ">
+                                        <img src="~/images/icon-1.png" class="box-icons2" alt="icon" />
+                                    </div>
+                                    <h5 class="pro-title">Employee Handbook</h5>
+                                </li>
+                                <li id="hr" class="hr active">
+                                    <div class="icon">
+                                        <img src="~/images/grey-icon-2.png" class="box-icons2 greydisc" alt="icon" />
+                                        <img src="~/images/icon-2.png" class="box-icons2 yellowdisc" alt="icon" />
+                                    </div>
+                                    <h5 class="pro-title">Compliance</h5>
+                                </li>
+                                <li id="appointment" class="hr active">
+                                    <div class="icon">
+                                        <img src="~/images/grey-icon-3.png" class="box-icons2 greydisc" alt="icon" />
+                                        <img src="~/images/icon-3.png" class="box-icons2 yellowdisc" alt="icon" />
+                                    </div>
+                                    <h5 class="pro-title">Check List </h5>
+                                </li>
+
+                            </ul>
+
+
+                        </div>
+
+
+                        <form id="msform">
+
+                            <fieldset>
+
+                                <div class="wrapme">
+                                    <h6 class="text-left text-orange orangetext">Final Requisites </h6>
+                                    <div class="accordion text-left" id="accordionExample">
+                                        <div class="card greybgss">
+
+                                            <div id="collapseOne" class="collapse show">
+                                                <div class="card-body text-white cardpadd">
+                                                    <ul>
+
+                                                        <li>
+                                                            <label class="container-check">
+                                                                @Html.CheckBoxFor(model => model.ITInduction_check, new { id = "induction_check" }) IT Induction Completed.
+                                                                <span class="checkmark"></span>
+                                                            </label>
+                                                        </li>
+
+                                                        <li>
+                                                            <label class="container-check">
+                                                                @Html.CheckBoxFor(model => model.SkypeAccount_check, new { id = "skypeAccount_check" }) Skype account Created.
+                                                                <span class="checkmark"></span>
+                                                            </label>
+                                                        </li>
+
+                                                        <li>
+                                                            <label class="container-check">
+                                                                @Html.CheckBoxFor(model => model.MS365_check, new { id = "MS365_check" })Microsoft 365 portal explanation received.
+                                                                <span class="checkmark"></span>
+                                                            </label>
+                                                        </li>
+
+                                                        <li>
+                                                            <label class="container-check">
+                                                                @Html.CheckBoxFor(model => model.SkypeInvite_check, new { id = "skypeInvite_check" }) Skype invite sent to Core Team members.
+                                                                <span class="checkmark"></span>
+                                                            </label>
+                                                        </li>
+
+                                                        <li>
+                                                            <label class="container-check">
+                                                                @Html.CheckBoxFor(model => model.Registration_check, new { id = "registration_check" }) Registration of Multi factor authentication completed by yourself.
+                                                                <span class="checkmark"></span>
+                                                            </label>
+                                                        </li>
+
+                                                        <li>
+                                                            <label class="container-check">
+                                                                @Html.CheckBoxFor(model => model.Form_check, new { id = "form_check" }) Employee Information Form.Please click below link and fill the form
+                                                                <span class="checkmark"></span>
+                                                            </label>
+                                                        </li>
+                                                        <li>
+                                                            <p style="margin-left:25px;">URL:</p><a href="@System.Configuration.ConfigurationManager.AppSettings["OfficeURL"]" target="_blank">https://forms.office.com/</a>
+                                                        </li>
+
+                                                        <li>
+                                                            <label class="container-check">
+                                                                @Html.CheckBoxFor(model => model.PI_check, new { id = "PI_check" }) New Employee personal information form completed.
+                                                                <span class="checkmark"></span>
+                                                            </label>
+                                                        </li>
+
+                                                    </ul>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="dwnletter mt-4">
+                                        <!--<div class="left">
+                                        <label class="container-check  ">
+                                            <input type="checkbox" checked="checked" value="remember-me">I agree-->
+                                        @*@Html.CheckBoxFor(model => model.CheckList_check, new { id = "CheckList_check" }) Done*@
+                                        <!--<span class="checkmark"></span>
+                                            </label>
+
+                                        </div>-->
+                                        @*<div class="right">*@
+                                        @*<i class="fas fa-download" onclick="window.location.href='/Landing/DownloadAppointmentLetter/'+@Model.EmpId"></i>
+                                            @Html.ActionLink("Download Appointment Letter", "DownloadAppointmentLetter", new { @Emp_id = Utility.Encrypt(@Model.EmpId.ToString()) }, new { @Id = "DownloadAppointmentLetter" })*@
+                                        @*<input type="url" onclick="window.location.href='/Landing/DownloadAppointmentLetter/'+@Model.EmpId" id="DownloadAppointmentLetter" class="" value="Download Appointment Letter"/>*@
+                                        @*</div>*@
+                                    </div>
+
+                                    <!--<label class="filelabel mt-4">
+                                    <i class="fas fa-cloud-upload-alt"></i>
+                                    <span class="title">
+                                        Drag & Drop OR Select to upload signed file
+                                    </span>-->
+                                    @*<input class="FileUpload1" id="FileInput" name="booking_attachment" type="file" />*@
+                                    @*@Html.TextBox("file", null, new { @class = "FileUpload1", @id = "FileInput", @type = "file" })*@
+                                    @*@Html.ValidationMessageFor(model => model.SignImage, "", new { @class = "text-danger" })*@
+                                    <!--</label>-->
+
+
+
+                                </div>
+                                <div class="col-lg-12 text-left mb-5">
+                                    <p id="message"><span style="color: #FF774D;font-family: muliregular;">@System.Configuration.ConfigurationManager.AppSettings["AgoraLoginPortalMessage"]</span></p>
+                                </div>
+                                @*@Html.ActionLink("Back", "AgoraLoginPortal", null, new { @class = "previous action-button-previous fas fa-long-arrow-alt-left" })*@
+                                @*<button type="button" name="previous" class="previous action-button-previous afterremove"> <i class="fas fa-long-arrow-alt-left"></i> Back</button>*@
+                                @*<button type="button" name="next" class="next action-button btn btn-dark continue ">CONTINUE</button>*@
+                            <div class="col-lg-12 text-left">
+                                @*<input type="button" value="BACK" class="previoussec action-button-previous btn btn-trans" />*@
+                                @Html.ActionLink("Back", "AgoraLoginPortal", null, new { @class = "previoussec action-button-previous btn btn-trans" })
+                                <input type="submit" id="btnCheckList_check" class="next action-button btn btn-orange continue ml-4" value="CONTINUE" />
+                            </div>
+                                @*<br><br><p id="message"><span style="color: red; font-family:muliregular; ">@System.Configuration.ConfigurationManager.AppSettings["AppointmentLetterMessage"]</span></p>*@
+
+                            </fieldset>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+            <input type="hidden" value="false" id="isFlag" />
+            @Html.HiddenFor(model => model.Dwn_Letter)
+        </div>
+    }
+    @*<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment.min.js"></script>
+        <script src="~/Scripts/bootstrap.bundle.min.js"></script>
+        <script src="~/Scripts/project_js.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>*@
+    <script type="text/javascript">
+
+    @*let introductioncheck = document.getElementById("introductioncheck").checked;
+        if (document.getElementById("Dwn_Letter").value == "True") {
+            var parentElement = document.getElementById('message');
+
+            // Get the <span> element within the parent element
+            var spanElement = parentElement.getElementsByTagName('span')[0];
+
+            // Set the text-decoration property to "none"
+            spanElement.style.display = "none";
+        }
+        if (introductioncheck) {
+            document.getElementById('btnReviewHRManual').disabled = false;
+        }
+        else {
+            document.getElementById('btnReviewHRManual').disabled = true;
+            document.getElementById('btnReviewHRManual').classList.remove("btn-color");
+            let checkAppointmentLetterDown = document.getElementById("Dwn_Letter").value;
+            if (checkAppointmentLetterDown == "True") {
+                $("#message").html("<p><span style=color:red;>@System.Configuration.ConfigurationManager.AppSettings["AppointmentLetterNotDownloadMessage"]</p>");
+            }
+
+        }
+        addEventListener("change", function () {
+            introductioncheck = document.getElementById("introductioncheck").checked;
+           // let checkAppointmentLetter = document.getElementById("isFlag").value;
+            let checkAppointmentLetterDown = document.getElementById("Dwn_Letter").value;
+            if (introductioncheck && (checkAppointmentLetter == "true" || checkAppointmentLetterDown == "True")) {
+                document.getElementById('btnReviewHRManual').disabled = false;
+                document.getElementById('btnReviewHRManual').classList.add("btn-color");
+                var parentElement = document.getElementById('message');
+
+                // Get the <span> element within the parent element
+                var spanElement = parentElement.getElementsByTagName('span')[0];
+
+                // Set the text-decoration property to "none"
+                spanElement.style.display = "none";
+            }
+            else {
+                document.getElementById('btnReviewHRManual').disabled = true;
+                var parentElement = document.getElementById('message');
+
+                // Get the <span> element within the parent element
+                var spanElement = parentElement.getElementsByTagName('span')[0];
+
+                // Set the text-decoration property to "none"
+                spanElement.style.display = "";
+                let checkAppointmentLetterDown = document.getElementById("Dwn_Letter").value;
+                if (checkAppointmentLetterDown == "True") {
+                    $("#message").html("<p><span style=color:red;>@System.Configuration.ConfigurationManager.AppSettings["AppointmentLetterNotDownloadMessage"]</span></p>");
+                }
+            }
+
+        });
+        if (introductioncheck) {
+            document.getElementById("introductioncheck").disabled = true;
+        }
+        $("#DownloadAppointmentLetter").click(function () {
+            checkAppointmentLetter = document.getElementById("isFlag").value = true;
+            $("#message").html("<p><span style=color:red;>@System.Configuration.ConfigurationManager.AppSettings["AppointmentLetterNotDownloadMessage"]</span></p>");
+            let check = document.getElementById("introductioncheck").checked;
+            if (check) {
+                document.getElementById('btnReviewHRManual').disabled = false;
+                var parentElement = document.getElementById('message');
+
+                // Get the <span> element within the parent element
+                var spanElement = parentElement.getElementsByTagName('span')[0];
+
+                // Set the text-decoration property to "none"
+                spanElement.style.display = "none";
+            }
+        });*@
+
+    </script>
+    <script>
+       
+        let induction_check = document.getElementById("induction_check").checked;
+        let skypeAccount_check = document.getElementById("skypeAccount_check").checked;
+        let MS365_check = document.getElementById("MS365_check").checked;
+        let skypeInvite_check = document.getElementById("skypeInvite_check").checked;
+        let registration_check = document.getElementById("registration_check").checked;
+        let PI_check = document.getElementById("PI_check").checked;
+        let form_check = document.getElementById("form_check").checked;
+        if (induction_check && skypeAccount_check && MS365_check && skypeInvite_check && registration_check && PI_check&& form_check) {
+            document.getElementById('btnCheckList_check').disabled = false;
+            document.getElementById('induction_check').disabled = true;
+            document.getElementById('skypeAccount_check').disabled = true;
+            document.getElementById('MS365_check').disabled = true;
+            document.getElementById('skypeInvite_check').disabled = true;
+            document.getElementById('registration_check').disabled = true;
+            document.getElementById('PI_check').disabled = true;
+            document.getElementById('form_check').disabled = true;
+            $("#message").html("");
+        }
+        else {
+            document.getElementById('btnCheckList_check').disabled = true;
+            document.getElementById('btnCheckList_check').classList.remove("btn-color");
+        }
+            addEventListener("change", function () {
+             induction_check = document.getElementById("induction_check").checked;
+             skypeAccount_check = document.getElementById("skypeAccount_check").checked;
+             MS365_check = document.getElementById("MS365_check").checked;
+             skypeInvite_check = document.getElementById("skypeInvite_check").checked;
+             registration_check = document.getElementById("registration_check").checked;
+             PI_check = document.getElementById("PI_check").checked;
+             form_check = document.getElementById("form_check").checked;
+            if (induction_check && skypeAccount_check && MS365_check && skypeInvite_check && registration_check && PI_check && form_check) {
+                document.getElementById('btnCheckList_check').disabled = false;
+                document.getElementById('btnCheckList_check').classList.add("btn-color")
+                $("#message").html("");
+            }
+            else {
+                document.getElementById('btnCheckList_check').disabled = true;
+                $("#message").html("<span style='color: #FF774D; font-family:muliregular;'>@System.Configuration.ConfigurationManager.AppSettings["AgoraLoginPortalMessage"]</span></p>");
+            }
+
+        });
+    </script>
+</body>
+</html>

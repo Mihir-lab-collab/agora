@@ -1,0 +1,954 @@
+﻿﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Admin.master.cs" Inherits="Admin" %>
+
+
+<%@ Register TagPrefix="asp" Namespace="AjaxControlToolkit" Assembly="AjaxControlToolkit" %>
+<%--<%@ Register Src="~/Member/controls/SkillHihglight.ascx" TagName="ucHSkill" TagPrefix="UC" %>--%>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Agora - Intelegain Connect</title>
+    <link href="css/layout.css" rel="stylesheet" type="text/css" />
+    <script src="js/jquery.min.1.9.1.js" type="text/javascript"></script>
+    <script src="js/jquery.accordion.source.js" type="text/javascript"></script>
+    <script type="text/javascript" src="js/jquery.popup.js"></script>
+    <script type="text/javascript" src="js/jquery.tooltip.js"></script>
+
+
+    <link href="css/tooltipster.css" rel="stylesheet" />
+    <script type="text/javascript" src="js/jquery.tooltipster.js"></script>
+
+    <%-- Start  Skill Matrix  Remainder--%>
+    <script type="text/javascript" src="js/SkillMatrixRemainder.js"></script>
+
+    <style>
+        .chzn-container {
+            vertical-align: middle;
+        }
+
+        .chzn-container-single .chzn-single {
+            border-radius: 0 !important;
+            height: 26px !important;
+            line-height: 28px !important;
+        }
+
+        a img {
+            border: none;
+        }
+
+        ol li {
+            list-style: decimal outside;
+        }
+
+        div#container {
+            width: 780px;
+            margin: 0 auto;
+            padding: 1em 0;
+        }
+
+        div.side-by-side {
+            width: 100%;
+            margin-bottom: 1em;
+        }
+
+            div.side-by-side > div {
+                float: left;
+                width: 50%;
+            }
+
+                div.side-by-side > div > em {
+                    margin-bottom: 10px;
+                    display: block;
+                }
+
+        .clearfix:after {
+            content: "\0020";
+            display: block;
+            height: 0;
+            clear: both;
+            overflow: hidden;
+            visibility: hidden;
+        }
+
+        .popup_block_session.timeout {
+            width: 600px !important; /* 2x width */
+            height: auto;
+            padding: 40px !important; /* 2x padding */
+            font-size: 1.5em !important; /* 2x font size */
+            top: 50% !important;
+            left: 50% !important;
+            transform: translate(-50%, -50%) !important; /* Center it */
+            position: fixed !important;
+            background: #fff;
+            border: 20px solid #ddd;
+            box-shadow: 0px 0px 20px #000;
+            border-radius: 10px;
+            z-index: 1001;
+            text-align: center;
+            display: none;
+        }
+
+            .popup_block_session.timeout .small_button {
+                font-size: 1.2em;
+                padding: 12px 24px;
+                margin: 10px;
+                white-space: nowrap; /* Prevent text wrapping */
+                min-width: 220px; /* Ensure enough width */
+                display: inline-block;
+                text-align: center;
+                box-sizing: border-box;
+            }
+
+        .overlayPopup {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background: rgba(0, 0, 0, 0.7);
+            z-index: 1000;
+        }
+
+        .session-popup-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+
+        .popup-button {
+            padding: 12px 28px;
+            font-size: 1.1em;
+            min-width: 200px;
+            text-transform: capitalize;
+            border-radius: 8px;
+            cursor: pointer;
+            border: 2px solid #ccc;
+            background-color: white;
+            color: #333;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+        }
+
+        .popup-button:hover {
+            background-color: #f2f2f2;
+            border-color: #999;
+            color: #111;
+            transform: translateY(-1px);
+        }
+
+        .popup-button:focus {
+            outline: none;
+            border-color: #007BFF;
+            box-shadow: 0 0 0 3px rgba(0,123,255,0.25);
+        }
+    </style>
+
+
+    <link rel="stylesheet" href="../styles/chosen.css" type="text/css" />
+
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .popup {
+            background: none repeat scroll 0 0 #fff;
+            box-shadow: 0 0 5px #3d3d4f;
+            position: fixed;
+            z-index: 1000000000;
+            display: none;
+            width: 550px;
+            top: 20%;
+            left: 50%;
+            margin-left: -275px;
+            box-shadow: 0 7px 20px rgba(0, 0, 0, 0.45);
+        }
+
+        .overlay {
+            position: fixed;
+            background-color: rgba(0, 0, 0,0.5 );
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 99999999;
+            display: none;
+        }
+
+        .popupCont {
+            background-color: #f0f0f0;
+            border-top: 1px solid #CCC;
+        }
+
+        .popup_head {
+            padding: 0 15px;
+        }
+
+            .popup_head h2 {
+                font-size: 40px;
+                padding: 30px 15px;
+            }
+
+        .close {
+            background: #2b2d2d;
+            color: #fff;
+            display: block;
+            float: right;
+            padding: 9px 12px;
+            text-align: center;
+        }
+
+        .loginfoot {
+            border-top: 1px solid #ccc; /*padding:20px 16px;*/
+            text-align: center;
+            margin-top: 35px;
+            padding: 25px 0;
+            background: #fff;
+            position: relative;
+        }
+
+        .or {
+            margin-left: -24.5px;
+            left: 50%;
+            position: absolute;
+            top: -24.5px;
+        }
+
+        .popupCont .row {
+            overflow: visible;
+        }
+
+            .popupCont .row .col1 {
+                float: none;
+            }
+
+        .border {
+            border-top: 1px solid #ccc;
+            padding: 10px 0;
+            background: #fff;
+            margin: 0 !important;
+        }
+
+        .popupCont .gray {
+            padding: 12px 44px;
+            behavior: url(../pie/PIE.htc);
+            -webkit-border-radius: 5px;
+            border-radius: 5px;
+            -moz-border-radius: 5px;
+            position: relative;
+        }
+
+            .popupCont .gray:hover {
+                background: #7f7d7d;
+            }
+
+
+        /*-- ========================== subscription popup 
+===============================================-- */
+        /*model_popup*/
+        .model_popup {
+            padding: 0 !important;
+            background: #fff;
+            border-radius: 5px 5px 0 0;
+            overflow: hidden;
+            border-radius: 5px 5px 0 0;
+            position: relative;
+            behavior: url(../pie/PIE.htc);
+            -webkit-border-radius: 5px 5px 0 0;
+            -moz-border-radius: 5px 5px 0 0;
+            margin-bottom: 1%;
+            left: 50%;
+            top: 30%;
+            position: absolute;
+        }
+
+        .sub_popup .left_panel {
+            min-height: 630px;
+        }
+
+        .pricing th, .subp_cont th {
+            position: relative;
+        }
+
+        .subp_cont .price {
+            margin-top: 0;
+        }
+
+        .closePopup_btn {
+            color: #fff;
+            text-decoration: none;
+            display: block;
+            float: right;
+            font-family: Arial, Helvetica, sans-serif;
+            position: absolute;
+            right: 0;
+            top: 0;
+            padding: 15px 15px;
+            background: rgba(0,0,0,0.5);
+        }
+
+            .closePopup_btn:hover {
+                text-decoration: none;
+            }
+
+        /* Buzz Out */
+        @-webkit-keyframes hvr-buzz-out {
+            10% {
+                -webkit-transform: translateX(3px) rotate(2deg);
+                transform: translateX(3px) rotate(2deg);
+            }
+
+            20% {
+                -webkit-transform: translateX(-3px) rotate(-2deg);
+                transform: translateX(-3px) rotate(-2deg);
+            }
+
+            30% {
+                -webkit-transform: translateX(3px) rotate(2deg);
+                transform: translateX(3px) rotate(2deg);
+            }
+
+            40% {
+                -webkit-transform: translateX(-3px) rotate(-2deg);
+                transform: translateX(-3px) rotate(-2deg);
+            }
+
+            50% {
+                -webkit-transform: translateX(2px) rotate(1deg);
+                transform: translateX(2px) rotate(1deg);
+            }
+
+            60% {
+                -webkit-transform: translateX(-2px) rotate(-1deg);
+                transform: translateX(-2px) rotate(-1deg);
+            }
+
+            70% {
+                -webkit-transform: translateX(2px) rotate(1deg);
+                transform: translateX(2px) rotate(1deg);
+            }
+
+            80% {
+                -webkit-transform: translateX(-2px) rotate(-1deg);
+                transform: translateX(-2px) rotate(-1deg);
+            }
+
+            90% {
+                -webkit-transform: translateX(1px) rotate(0);
+                transform: translateX(1px) rotate(0);
+            }
+
+            100% {
+                -webkit-transform: translateX(-1px) rotate(0);
+                transform: translateX(-1px) rotate(0);
+            }
+        }
+
+        @keyframes hvr-buzz-out {
+            10% {
+                -webkit-transform: translateX(3px) rotate(2deg);
+                transform: translateX(3px) rotate(2deg);
+            }
+
+            20% {
+                -webkit-transform: translateX(-3px) rotate(-2deg);
+                transform: translateX(-3px) rotate(-2deg);
+            }
+
+            30% {
+                -webkit-transform: translateX(3px) rotate(2deg);
+                transform: translateX(3px) rotate(2deg);
+            }
+
+            40% {
+                -webkit-transform: translateX(-3px) rotate(-2deg);
+                transform: translateX(-3px) rotate(-2deg);
+            }
+
+            50% {
+                -webkit-transform: translateX(2px) rotate(1deg);
+                transform: translateX(2px) rotate(1deg);
+            }
+
+            60% {
+                -webkit-transform: translateX(-2px) rotate(-1deg);
+                transform: translateX(-2px) rotate(-1deg);
+            }
+
+            70% {
+                -webkit-transform: translateX(2px) rotate(1deg);
+                transform: translateX(2px) rotate(1deg);
+            }
+
+            80% {
+                -webkit-transform: translateX(-2px) rotate(-1deg);
+                transform: translateX(-2px) rotate(-1deg);
+            }
+
+            90% {
+                -webkit-transform: translateX(1px) rotate(0);
+                transform: translateX(1px) rotate(0);
+            }
+
+            100% {
+                -webkit-transform: translateX(-1px) rotate(0);
+                transform: translateX(-1px) rotate(0);
+            }
+        }
+
+        .hvr-buzz-out {
+            display: inline-block;
+            vertical-align: middle;
+            -webkit-transform: translateZ(0);
+            transform: translateZ(0);
+            box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        .animated.hvr-buzz-out, .animated.hvr-buzz-out:active {
+            -webkit-animation-name: hvr-buzz-out;
+            animation-name: hvr-buzz-out;
+            -webkit-animation-duration: 1.75s;
+            animation-duration: 0.75s;
+            -webkit-animation-timing-function: linear;
+            animation-timing-function: linear;
+            -webkit-animation-iteration-count: 1;
+            animation-iteration-count: 1;
+        }
+        /*-------------------------------start css here
+------------------------------------------*/
+        .md-content > div.title_MD {
+            background: #e69503;
+            border-radius: 5px 5px 0 0;
+            font-weight: 600;
+            padding: 15px 10px 15px 30px;
+            font-size: 1.80em;
+            color: #fff;
+        }
+
+        .window_content {
+            padding: 10px 30px;
+            font-weight: 300;
+            font-size: 15px;
+        }
+
+        .remind_later {
+            padding: 20px 30px 0;
+            border-top: #d4d4d4 1px solid;
+            text-align: right;
+        }
+
+        .selectS1 {
+            height: 30px;
+            line-height: 30px;
+            padding: 5px;
+            width: 100px;
+        }
+
+        .overlayPopup {
+            display: block;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.7);
+            z-index: 1000;
+        }
+    </style>
+
+    <%-- End Skill Matrix  Remainder--%>
+    <%-- start Skill highlight  --%>
+    <style type="text/css">
+        .divCheader {
+            float: left;
+            width: 380px;
+            height: 33px;
+            text-align: center;
+            background-image: url(images/header_bg.png);
+            color: white;
+            font-size: medium;
+            cursor: pointer;
+            border-radius: 0 0 120px 0;
+        }
+
+        .divContent {
+            float: left;
+        }
+
+        .divEmpty {
+            width: 50px;
+        }
+
+        .nweskill_head {
+            position: relative;
+        }
+
+        /*.nweskill_head:after {
+                width: 0;
+                content: '';
+                height: 0;
+                border-style: solid;
+                border-width: 0px 0 24px 24px;
+                position: absolute;
+                right: -24px;
+                top: 0;
+                border-color: transparent transparent transparent #e69503;  /*orange;
+            }*/
+    </style>
+
+    <style type="text/css">
+        input[type=checkbox].css-checkbox, input[type=radio].css-checkbox {
+            position: absolute;
+            z-index: -1000;
+            left: -1000px;
+            overflow: hidden;
+            clip: rect(0 0 0 0);
+            height: 1px;
+            width: 1px;
+            margin: -1px;
+            padding: 0;
+            border: 0;
+        }
+
+            input[type=checkbox].css-checkbox + label.css-label2, input[type=checkbox].css-checkbox + label.css-label2.clr, input[type=radio].css-checkbox + label.css-label {
+                padding-left: 30px;
+                height: 23px;
+                display: inline-block;
+                line-height: 23px;
+                background-repeat: no-repeat;
+                background-position: 0 0px;
+                font-size: 23px;
+                vertical-align: middle;
+                cursor: pointer;
+            }
+
+                input[type=checkbox].css-checkbox + label.css-label2:hover {
+                    background-position: 0 -23px !important;
+                }
+
+        label.css-label2 {
+            background-image: url(images/checkbox.png);
+            -webkit-touch-callout: none;
+            -webkit-user-select: none;
+            -khtml-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+        /*label.css-label2:hover{ background-position: 0 -23px;}*/
+    </style>
+
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.tooltip1').tooltipster();
+
+        });
+    </script>
+    <%-- new --%>
+    <link href="css/slider-style.css" rel="stylesheet" />
+
+    <%-- start carousel slider --%>
+
+    <%-- End Skill highlight --%>
+
+    <script type="text/javascript">
+        var curSecs = 59;
+        var curMins = 2;
+        var curTotalSecs = 179;
+        var sessionTimeout = 0;
+        let inactivityTimer;
+        var timeoutWarningInSeconds = 0;
+
+        let originalTitle = 'Agora - Intelegain Connect';
+        let blinkInterval;
+        let isBlinking = false;
+
+        $(document).ready(function () {
+            if (sessionTimeout == 0)
+                sessionTimeout = $("[id$='spnTimeout']").text(); // This timeout is in minutes
+            if (sessionTimeout == "") {
+                sessionTimeout = 15;
+            }
+            var timeoutWarning = sessionTimeout;
+            var sessionTimeoutInSeconds = (parseInt(sessionTimeout) * 60 * 1000) - 10000;
+            timeoutWarningInSeconds = (parseInt(timeoutWarning) * 60 * 1000) - 10000;
+            var UrlValue = window.location.href.substring(window.location.href.lastIndexOf('/'));
+            if (!(UrlValue != null && UrlValue.toLowerCase().indexOf("batchprocess") >= 0)) {
+                inactivityTimer = setTimeout('ExpiryWarning()', timeoutWarningInSeconds);
+            }
+            $('[id$="Btn11"]').click(function () {
+                __doPostBack('ctl00$Btn11', '');
+            });
+        });
+        function startTitleBlinking(message) {
+            if (isBlinking) return;
+            isBlinking = true;
+
+            let showingOriginal = false;
+            blinkInterval = setInterval(function () {
+                document.title = showingOriginal ? originalTitle : message;
+                showingOriginal = !showingOriginal;
+            }, 1000);
+        }
+
+        function stopTitleBlinking() {
+            clearInterval(blinkInterval);
+            document.title = originalTitle;
+            isBlinking = false;
+        }
+
+        function resetTimer() {
+            clearTimeout(inactivityTimer);
+            inactivityTimer = setTimeout('ExpiryWarning()', timeoutWarningInSeconds);
+        }
+        function ShowLoading() {
+            $('body').css('cursor', 'wait');
+            $("#divloading").show();
+            $(".black_cover").show();
+        }
+        function HideLoading() {
+            $('body').css('cursor', 'pointer');
+            $("#divloading").hide();
+            $(".black_cover").hide();
+        }
+        function ExpiryWarning() {
+            ShowOverlay();
+            $("[id$='divTimeoutWarning']").show();
+            setInterval(countDown, 1000);
+            startTitleBlinking("⚠ Session Expiring ⚠");
+        }
+        function RedirectLogin() {
+            HideOverlay();
+        }
+        document.addEventListener('click', resetTimer);
+        document.addEventListener('keydown', resetTimer);
+
+        function countDown() {
+            if (curTotalSecs > 0) {
+                //console.log(curTotalSecs);
+                $("[id$='countdown']").text(new Date(curTotalSecs * 1000).toISOString().substr(14, 5));
+                curTotalSecs--;
+                if (curTotalSecs < 1) {
+                    window.location.href = "/Member/Login.aspx?Exp=true"
+                }
+
+            }
+        }
+        function ShowOverlay() {
+            //$(".overlayPopup").css("display", "none");
+            $("[id$='divoverlayPopup']").show();
+            $("[id$='divoverlayPopup']").css('display', 'block !important');
+        }
+        function HideOverlay() {
+            $("[id$='divoverlayPopup']").hide();
+            $("[id$='divoverlayPopup']").css('display', 'none !important');
+            stopTitleBlinking();
+        }
+    </script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+
+</head>
+<body>
+    <div class="black_cover" style="display: none"></div>
+    <div id="divloading" class="black_coverLoading" style="display: none">
+        <center>
+            <img alt="" src="images/loading-image.gif" /><br />
+        </center>
+    </div>
+    <span id="spnTimeout" style="display: none;"><%=System.Web.Configuration.WebConfigurationManager.AppSettings["Logout_time"]%></span>
+    <!--======================== Start wrapper-->
+    <div id="wrapper">
+        <form id="form1" runat="server">
+            <div id="divTimeoutWarning" runat="server" class="popup_block_session timeout" style="display: none;">
+                <b>Your session is about to expire!</b><br />
+                <br />
+                You will be logged out in <span id="countdown">03:00</span><br />
+                <br />
+                Would you like to remain logged in?<br />
+                <br />
+                <div class="session-popup-buttons">
+                    <asp:Button ID="btnContinueSession" CssClass="popup-button white-button"
+                        Text="Yes, keep me logged in" OnClick="btnContinueSession_Click" runat="server" />
+
+                    <asp:Button ID="btnEndSession" CssClass="popup-button white-button"
+                        Text="No, log me out" OnClick="btnSessionLogout_Click" runat="server" />
+                </div>
+
+
+                <asp:HiddenField ID="hfSessionID" Value="" runat="server" />
+                <asp:HiddenField ID="hfPublicKey" Value="" runat="server" />
+            </div>
+
+            <div id="divoverlayPopup" class="overlayPopup" runat="server" style="display: none">
+            </div>
+            <!--======================== Start Main-->
+            <div id="main">
+                <!--======================== Start left panel-->
+                <div id="left_panel">
+                    <div class="logo">
+                        <img src="images/logo.png" alt="logo" />
+                    </div>
+                    <asp:Panel ID="Panel1" runat="server"></asp:Panel>
+                </div>
+                <!--End left panel-->
+                <!--=================== Start Right panel-->
+                <div id="right_panel">
+                    <div id="left_menu_slide_wrap">
+                        <a href="#" id="left_menu_slide">
+                            <img src="images/left_menu.png" alt="Menu" />
+                        </a>
+                        <a href="#" id="left_menu_slide_b">
+                            <img src="images/right_menu.png" alt="Rmenu" />
+                        </a>
+                    </div>
+                    <!--================ start header-->
+                    <div id="header">
+                        <div class="head">Agora - Intelegain Connect</div>
+                        <div class="top_nav">
+                            <asp:LinkButton ID="btnOldVersion" runat="server" OnClick="btnOldVersion_Click">Switch To Old Version</asp:LinkButton>
+                            <asp:LinkButton ID="btnLogout" runat="server" OnClick="btnLogout_Click">Logout</asp:LinkButton>
+                        </div>
+                    </div>
+                    <!--End Header-->
+                    <!--======== Start main Menu-->
+                    <div class="menu_wrap" style="height: 42px">
+                        <div class="main_menu" style="height: 30px">
+                            <asp:Label ID="Label1" runat="server" Text="Welcome" CssClass="head" ForeColor="Orange" Font-Size="Medium"></asp:Label>
+                            <asp:Label ID="lblUserName" runat="server" CssClass="head" ForeColor="White" Font-Size="Medium"> </asp:Label>
+
+
+
+
+                            <div id="pnldrp" style="float: right; width: 520px; text-align: right" runat="server">
+                                <asp:Label ID="Label2" runat="server" Text="" Visible="false"></asp:Label>
+                                <asp:DropDownList ID="drpprojects" Width="10px" runat="server" Visible="false">
+                                </asp:DropDownList>
+                                <div runat="server" id="DivProject" visible="false" style="float: left">
+
+                                    <asp:Label ID="LBLProjects" runat="server" Text="Project" CssClass="head" ForeColor="Orange" Font-Size="Medium" vertical-align="middle"></asp:Label>
+
+                                    <asp:DropDownList ID="DDProjects" Width="250px" runat="server" class="chzn-select" DataTextField="ProjName"
+                                        DataValueField="projId" AutoPostBack="true" OnSelectedIndexChanged="DDProjects_SelectedIndexChanged">
+                                    </asp:DropDownList>
+
+                                </div>
+                                <div runat="server" id="DivLocation" visible="false">
+                                    <asp:Label ID="LblLocations" runat="server" Text="Location" CssClass="head" ForeColor="Orange" Font-Size="Medium"></asp:Label>
+                                    <asp:DropDownList ID="DDLocations" Width="120px" runat="server" DataTextField="Name"
+                                        DataValueField="LocationID" AutoPostBack="true" OnSelectedIndexChanged="DDLocations_SelectedIndexChanged">
+                                    </asp:DropDownList>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End main Menu-->
+                    <!--======== Start Skill Highlight-->
+                    <div class="menu_wrap" style="height: auto; padding: 0; margin-top: -3px; overflow: hidden;">
+                        <%--<UC:ucHSkill ID="ucHSkill" runat="server"></UC:ucHSkill>--%>
+
+                        <%--Start scroll div container --%>
+                        <div id="divSkillRotator" runat="server" visible="false" class="main_menu" style="padding: 0 5px 0 0;">
+                            <%-- /*height: 35px; */--%>
+                            <div class="divCheader nweskill_head" style="padding: 3px 15px; height: 18px; margin-top: 0px; cursor: default; width: 370px;">Hey, did you acquire a new Skill? share it with us. </div>
+                            <div class="divContent slider_box" style="width: 82%; margin-left: 4%;">
+
+                                <%--<marquee onmouseover="this.stop();" onmouseout="this.start();">--%>
+                                <div id="divContainer" style="color: white; font-size: medium;" runat="server">
+                                    <div id="divSkilldata" runat="server">
+                                        <%--<ul id="flexiselDemo3" >
+                                        
+                                            <li><div>
+                                                 <input type="checkbox" name="checkboxG0" id="checkboxG0" class="css-checkbox" />
+                                                 <label for="checkboxG0" class="css-label2 radGroup1"></label>
+                                                slider content1</div></li>
+                                            <li><div>slider contehfrtyr tertnt2</div></li>
+                                            <li><div>slider content3</div></li>
+                                            <li><div>slider content4</div></li>                                                 
+                                       
+                                    </ul>--%>
+                                    </div>
+                                </div>
+                                <%--</marquee>--%>
+                            </div>
+                            <div class="divContent" style="width: 70px; float: right; padding-top: 18px;">
+                                <a href="EmpSkillMatrix.aspx?view=all">View All</a>
+                            </div>
+
+                            <%-- below is Paging  control --%>
+                            <%-- <div class="divContent" style="float:left"> 
+                                <img src="images/left_menu.png" onclick="LeftSidePaging()" />
+                                <img src="images/right_menu.png" onclick="RightSidePaging()" />
+                            </div>--%>
+                            Panel1
+                       
+                        </div>
+                        <%--End scroll div container --%>
+                        <div id="divAddPopupOverlay" runat="server"></div>
+                        <div class="k-widget k-windowAdd" id="divOpenPopup" style="display: none; background-color: white; padding-top: 10px; padding-right: 10px; min-width: 600px; min-height: 50px; top: 1%; left: 350px; z-index: 10003; opacity: 1; transform: scale(1); border: solid">
+                            <div class="popup_head">
+                                <table width="100%">
+                                    <tr>
+                                        <td colspan="2" align="center">
+                                            <span id="span2" style="font-size: large; font-weight: 100">Skill Matrix</span>
+                                            <img src="Images/delete_ic.png" class="close-button" alt="Close" onclick="ClosePopUp()" />
+                                        </td>
+                                    </tr>
+                                </table>
+                                <div class="clear">
+                                </div>
+                            </div>
+                            <table cellpadding="0" cellspacing="0" border="0" width="100%" class="manage_form">
+                                <tr>
+                                    <td>Category</td>
+                                    <td>Skill</td>
+                                    <td style="width: 55px;">Year</td>
+                                    <td style="width: 55px;">Month</td>
+                                    <td style="width: 100px;">Level</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <label id="lblcategory"></label>
+                                    </td>
+                                    <td>
+                                        <label id="lblSkill"></label>
+                                    </td>
+                                    <td>
+                                        <input type="number" id="txtYear" value="0" min="0" max="99" style="height: 20px; width: 80px;" />
+                                    </td>
+                                    <td>
+                                        <select id="ddlMnth">
+                                            <option value="1">1</option>
+                                            <option value="2">2</option>
+                                            <option value="3">3</option>
+                                            <option value="4">4</option>
+                                            <option value="5">5</option>
+                                            <option value="6">6</option>
+                                            <option value="7">7</option>
+                                            <option value="8">8</option>
+                                            <option value="9">9</option>
+                                            <option value="10">10</option>
+                                            <option value="11">11</option>
+                                        </select>
+                                    </td>
+                                    <td>
+                                        <select id="ddlLevel">
+                                            <option value="Beginner">Beginner</option>
+                                            <option value="Intermediate">Intermediate</option>
+                                            <option value="Expert">Expert</option>
+                                        </select></td>
+                                </tr>
+                                <tr>
+                                    <td colspan="4">
+
+                                        <div style="padding-left: 250px;">
+                                            <input type="button" id="btnSaveStatus" onclick="SaveSkillHighlight()" value="Save" style="width: 100px; height: 30px">
+                                        </div>
+
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+
+                        <asp:HiddenField ID="hdnLoginID" runat="server" />
+                        <asp:HiddenField ID="hdnSkillID" runat="server" />
+                        <asp:HiddenField ID="hdnPageNum" runat="server" Value="1" />
+
+                    </div>
+                    <!--======== End Skill Highlight-->
+
+                    <!--======== Start Skill Remainder-->
+                    <div id="divOverlay" class="overlay"></div>
+                    <div class="popup model_popup hvr-buzz-out" id="divRemainderPopup" style="display: none; z-index: 1000000000;">
+                        <a href="#" class="closePopup_btn" onclick="RestCookieTime();">X</a>
+                        <div runat="server" class="md-content">
+                            <div class="title_MD">Notice</div>
+
+                            <div id="divMatter" runat="server" class="window_content">
+                            </div>
+                            <div class="remind_later">
+                                Remind Me After :
+                                   
+                                <asp:DropDownList ID="ddlRemainder" runat="server">
+                                    <asp:ListItem>1 hour</asp:ListItem>
+                                    <asp:ListItem>2 hour</asp:ListItem>
+                                    <asp:ListItem>4 hour</asp:ListItem>
+                                    <asp:ListItem>8 hour</asp:ListItem>
+                                    <asp:ListItem>Never</asp:ListItem>
+                                </asp:DropDownList>
+
+                            </div>
+                            <div>&nbsp;</div>
+                        </div>
+
+                    </div>
+
+                    <asp:HiddenField ID="hdnEmpID" runat="server" />
+                    <!--======== End Skill Remainder-->
+
+                    <!--======== Start content wrap-->
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+
+                    <!--End content wrap-->
+                    <div class="clear"></div>
+                </div>
+                <!-- End right panel-->
+                <div class="clear"></div>
+            </div>
+            <!--======= End Main-->
+            <div class="clear"></div>
+            <!--End wrapper-->
+
+        </form>
+    </div>
+    <!--============== Start footer-->
+    <div id="footer"></div>
+    <!--End footer-->
+
+
+    <script src="../js/chosen.jquery.js" type="text/javascript"></script>
+    <script type="text/javascript"> $(".chzn-select").chosen(); $(".chzn-select-deselect").chosen({ allow_single_deselect: true }); </script>
+
+    <script type="text/javascript" src="js/jquery.flexisel.js"></script>
+
+    <script type="text/javascript">
+
+        $(window).load(function () {
+
+            $("#flexiselDemo3").flexisel({
+                visibleItems: 4,
+                animationSpeed: 1000,
+                autoPlay: true,
+                autoPlaySpeed: 3000,
+                pauseOnHover: true,
+                enableResponsiveBreakpoints: true,
+                responsiveBreakpoints: {
+                    portrait: {
+                        changePoint: 480,
+                        visibleItems: 1
+                    },
+                    landscape: {
+                        changePoint: 640,
+                        visibleItems: 2
+                    },
+                    tablet: {
+                        changePoint: 768,
+                        visibleItems: 3
+                    }
+                }
+            });
+
+
+        });
+    </script>
+</body>
+</html>

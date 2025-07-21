@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Add Task</title>
+    <style type="text/css">
+        .style1
+        {
+            height: 21px;
+             text-align:left;
+        }
+        .ulr_link {	text-decoration: none;color:Blue;}
+         .ulr_link:hover {text-decoration: underline;color:Blue;}
+
+	
+}
+    </style>
+</head>
+<body>
+<table style="font-family:Arial;font-size:12px; font-weight: normal; color: black;" width="100%" cellpadding="2">
+	<tr>
+	    
+		<td align="left" style="background-color: blue; font-weight: bold;color: white;width:100%; white-space:nowrap" colspan="2">Task 
+            Alert - {priorityHeading}</td>
+		
+	</tr>
+	<tr>
+	<td colspan="2">&nbsp;</td>
+	</tr>
+	<tr>
+		<td nowrap="nowrap"><b>Project Name:</b></td>
+		<td style="width:90%">{projname}</td>
+	</tr>
+	<tr>
+		<td nowrap="nowrap">&nbsp;</td>
+		<td >&nbsp;</td>
+	</tr>
+	<tr>
+		<td nowrap="nowrap"><b>Task No:</b></td>
+		<td>{taskno} &nbsp;&nbsp; {URL}</td>
+	</tr>
+	<tr>
+		<td nowrap="nowrap"><b>Priority:</b></td>
+		<td>{priority}</td>
+	</tr>
+	
+	<tr>
+		<td nowrap="nowrap"><b>Posted on:</b></td>
+	    <td>{modifieddate}</td>
+	</tr>
+	
+	<tr>
+		<td nowrap="nowrap"><b>Status:</b></td>
+		<td><span style="color:Blue;font-weight:bold;">{status}</span></td>
+	</tr>
+	<tr>
+		<td nowrap="nowrap"><b>Assigned To:</b></td>
+		<td>{assign_to}</td>
+	</tr>
+	
+	
+	<tr>
+		<td nowrap="nowrap">&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td  nowrap="nowrap"> <b>Task Name:</b> </td>
+		<td>{taskname}</td>
+	</tr>
+	<tr>
+		<td nowrap="nowrap"  style="vertical-align:top" class="style1"><b>Task Description:</b></td>
+		<td class="style1"  style="vertical-align:top">{desc}</td>
+	</tr>
+	
+	<tr>
+		<td nowrap="nowrap">&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	
+	
+</table>
+</body>
+</html>

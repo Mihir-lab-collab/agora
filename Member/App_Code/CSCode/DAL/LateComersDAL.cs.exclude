@@ -1,0 +1,175 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Globalization;
+using System.Data;
+using System.Data.SqlClient;
+using System.Data.Sql;
+using System.Web.Configuration;
+
+/// <summary>
+/// Summary description for LateComersDAL
+/// </summary>
+public class LateComersDAL
+{
+    public string _strConnection = WebConfigurationManager.ConnectionStrings["conString"].ConnectionString;
+    DataTable dt = null;
+    public LateComersDAL()
+    {
+        //
+        // TODO: Add constructor logic here
+        //
+    }
+    public DataTable GetLateComersData(string mode)
+    {
+        SqlConnection con = new SqlConnection(_strConnection);
+        SqlCommand cmd = new SqlCommand("Sp_LateComersData", con);
+        cmd.CommandType = CommandType.StoredProcedure;
+        cmd.Parameters.AddWithValue("@Mode", mode);
+        using (con)
+        {
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            return dt;
+        }
+    }
+
+
+    //added by trupti dandekar for InsertLateComerData
+    public LateCommersBLL InsertLateComerData(int empId, DateTime LateComingDate, DateTime ExpectedTime)
+    {
+        LateCommersBLL objLateComer = new LateCommersBLL();
+        string Message = string.Empty;
+        try
+        {
+            //objLateComer = VerifyUserByEmpid(empId);
+            //if (objLateComer != null & !string.IsNullOrEmpty(objLateComer.EmailID))
+            //{
+
+            SaveLateComingData(empId, LateComingDate, ExpectedTime);
+                    //{
+                        //SendMailForChangepassword(objLateComer.Name, objLateComer.EmailID);
+                        //objLateComer.Message = "your Data has been Saved successfully.";
+                        //objLateComer.status = true;
+                    //}
+                    //else
+                    //{
+                    //   // objLateComer.Message = "Change password operation failed";
+                    //    //objLateComer.status = false;
+                    //}
+             
+                //else
+                //{
+                //    //objLateComer.Message = "Old password is not correct.";
+                //    //objLateComer.status = false;
+                //}
+           // }
+            //else
+            //{
+            //    objLateComer.Message = "Change password operation failed";
+            //    objLateComer.status = false;
+            //}
+        }
+        catch (Exception ex)
+        {
+            throw new ApplicationException(ex.Message);
+        }
+        return objLateComer;
+    }
+
+
+    public bool SaveLateComingData(int empId, DateTime LateComingDate, DateTime ExpectedTime)
+    {
+        try
+        {
+            SqlConnection con = new SqlConnection(_strConnection);
+            SqlCommand cmd = new SqlCommand("Sp_LateComersData", con);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("@Mode", "Insert");
+            cmd.Parameters.AddWithValue("@EmpID", empId);
+            cmd.Parameters.AddWithValue("@LateComingDate", LateComingDate);
+            cmd.Parameters.AddWithValue("@ExpectedTime", ExpectedTime);
+            using (con)
+            {
+                con.Open();
+                int i = cmd.ExecuteNonQuery();
+                if (i > 0)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+
+            }
+        }
+        catch (Exception)
+        {
+            ////throw new ApplicationException(ex.Message);
+            return false;
+        }
+    }
+
+
+    //Added for getting data as per search
+    public List<LateComing> GetLateComeData(int Empid, int Status, string StartDate, string EndDate, int LocationID)
+    {
+        //Nullable<DateTime> dt = null;
+
+        string strstartdate = string.Empty;
+        string strenddate = string.Empty;
+
+        if (StartDate != "")
+        {
+            DateTime temp = DateTime.ParseExact(StartDate, "dd/MM/yyyy", CultureInfo.InvariantCulture);
+            strstartdate = temp.ToString("yyyy/MM/dd");
+        }
+
+        if (EndDate != "")
+        {
+            DateTime temp1 = DateTime.ParseExact(EndDate, "dd/MM/yyyy", CultureInfo.InvariantCulture);
+            strenddate = temp1.ToString("yyyy/MM/dd");
+        }
+
+        List<LateComing> lstLateComing = new List<LateComing>();
+        SqlConnection con = new SqlConnection(_strConnection);
+        SqlCommand cmd = new SqlCommand("Sp_LateComersData", con);
+        cmd.Parameters.AddWithValue("@mode", "GetLateComing");
+        cmd.Parameters.AddWithValue("@EmpCode", Empid);
+        cmd.Parameters.AddWithValue("@IsApproveStatus", Status);
+
+        if (StartDate != "" && EndDate != "")
+        {
+            cmd.Parameters.AddWithValue("@StartDate", strstartdate);
+            cmd.Parameters.AddWithValue("@EndDate", EndDate == "" ? EndDate : strenddate);
+        }
+
+        cmd.Parameters.AddWithValue("@locationId", LocationID);
+        cmd.CommandType = CommandType.StoredProcedure;
+        SqlDataReader reader = null;
+        using (con)
+        {
+            con.Open();
+            reader = cmd.ExecuteReader();
+            while (reader.Read())
+            {
+                lstLateComing.Add(new LateComing(
+                    Convert.ToInt32(reader["ID"].ToString()),
+                       reader["empName"].ToString(),
+                Convert.ToDateTime(reader["ApplyDate"].ToString()),
+                Convert.ToInt32(reader["EmpCode"].ToString()),
+                reader["ExpectedInTime"].ToString(),
+                reader["LateCommingReason"].ToString(),
+                reader["ApprovalComment"].ToString()
+                    ));
+            }
+        }
+        return lstLateComing;
+    }
+
+
+   
+}

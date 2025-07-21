@@ -1,0 +1,116 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true"  Inherits="System.Web.UI.MobileControls.MobilePage" %>
+<%@ Register TagPrefix="mobile" 
+    Namespace="System.Web.UI.MobileControls"
+    Assembly="System.Web.Mobile" %>
+
+<script runat="server">
+    
+    protected void Page_Load(object sender, EventArgs e)
+    {
+       
+        if (Request.QueryString["UserID"] != null)
+        {
+
+            lblID.Text = Convert.ToInt16(Request.QueryString["UserID"]).ToString();
+            pnlMain.Visible = true;
+
+        }
+        else
+        {
+            // frmWelcome.Visible = false;
+            pnlMain.Visible = false;
+        }
+        
+    }
+  
+   
+    protected void GoCommand_OnClick(Object sender, CommandEventArgs e)
+    {
+        System.Data.Odbc.OdbcConnection conn = new System.Data.Odbc.OdbcConnection(System.Configuration.ConfigurationManager.AppSettings["conString"]);
+        String strQuery = "";
+        int _intUserID = Convert.ToInt16(lblID.Text);
+
+        strQuery = "SELECT Count(*) AS Cnt FROM tbllabelcheck where pin='" + txtPIN.Text + "' and userID='" + _intUserID + "'";
+        if (conn.State == System.Data.ConnectionState.Open)
+        {
+            conn.Close();
+        }
+        System.Data.Odbc.OdbcCommand cmd = new System.Data.Odbc.OdbcCommand(strQuery, conn);
+        conn.Open();
+        System.Data.Odbc.OdbcDataReader myReader;
+        cmd.Connection = conn;
+        cmd.CommandType = System.Data.CommandType.Text;
+        myReader = cmd.ExecuteReader();
+        int instate = 0;
+        if (myReader.HasRows)
+        {
+            if (myReader.Read())
+            {
+                if (Convert.ToInt16(myReader["Cnt"]) > 0)
+                {
+                    instate = 1;
+                }
+                else
+                {
+                    instate = 0;
+                }
+            }
+            {
+                lblError.Text = "Please enter valid pin no.";
+            }
+        }
+        myReader.Close();
+        myReader.Dispose();
+        conn.Close();
+        if (instate == 1)
+        {
+
+            ActiveForm = frmCheckpallete;
+        }
+        else
+        {
+            lblError.Text = "Please enter valid pin no.";
+        }
+    }
+    protected void cmdCheckPallete_OnClick(Object sender, CommandEventArgs e)
+    {
+        ActiveForm = frmCheckPin;
+    }
+
+    
+    
+
+</script>
+<html>
+<body>
+    <mobile:StyleSheet ID="StyleSheet1" runat="server">
+    <Style name="Error"  Font-Name="Verdana" Font-Size="Small" ForeColor="Red"  />
+    <Style name="BlueForm"  BackColor="#336699"  ForeColor="#ffffff" />
+    <Style name="Title" Font-Size="small" Font-Name="Verdana" ForeColor="#393939" />
+    <Style name="SmallLink" Font-Size="Small" />
+ 
+</mobile:StyleSheet>
+     <mobile:Form    id="frmCheckPin" runat="server" EnableViewState="true" >
+      <mobile:Panel Runat="server" StyleReference="BlueForm" ID="pnlMain" Alignment="Center"  >
+        <mobile:Label ID="lblError" runat="server" StyleReference="Error">
+        </mobile:Label>
+         <mobile:Label ID="lblID" runat="server" Visible="false" StyleReference="Error"></mobile:Label>
+        <mobile:Label ID="lblTitle" runat="server"  StyleReference="Title">
+           PIN:
+        </mobile:Label>
+     <mobile:TextBox ID="txtPIN" MaxLength="4" Password="true"   Runat="server"></mobile:TextBox><mobile:RequiredFieldValidator  Display="Dynamic" Runat="server" ControlToValidate="txtPIN" ErrorMessage="Required" StyleReference="Error"></mobile:RequiredFieldValidator>
+     <mobile:Command ID="cmd" Runat="server" OnItemCommand="GoCommand_OnClick"  CommandName="Validate" >Validate</mobile:Command>
+   </mobile:Panel>
+    </mobile:Form>
+     <mobile:Form    id="frmCheckpallete" runat="server" EnableViewState="true" >
+     <mobile:Panel Runat="server" StyleReference="BlueForm" ID="PnlCheckLabel" Alignment="Center"  >
+     <mobile:Label ID="lblCheckLabelError" runat="server" StyleReference="Error"></mobile:Label>
+      <mobile:Label ID="lblCheckLabelTitle" runat="server"  StyleReference="Title">Enter 6-digit Pallet Code.</mobile:Label>
+      <mobile:TextBox ID="txtPalleteNo" MaxLength="6" Numeric="true"  Runat="server"></mobile:TextBox><mobile:RequiredFieldValidator   Display="Dynamic" Runat="server" ControlToValidate="txtPalleteNo" ErrorMessage="Required" StyleReference="Error"></mobile:RequiredFieldValidator>
+      <mobile:Command ID="cmdCheckPallete" Runat="server" OnItemCommand="cmdCheckPallete_OnClick">Check Label</mobile:Command>
+      </mobile:Panel>
+    </mobile:Form>
+    
+
+</body>
+</html>

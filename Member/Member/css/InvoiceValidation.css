@@ -1,0 +1,18 @@
+﻿
+div.validation-error-grid{
+    color: red;
+    font-weight: bold;
+     border-color: red;
+    width: 300px;
+    text-align: left;
+}
+
+
+
+span.validation-error {
+    color: red;
+    font-weight: bolder;
+    border-color: red;
+    width: 300px;
+    text-align: left;
+}

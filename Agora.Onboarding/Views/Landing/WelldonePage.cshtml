@@ -1,0 +1,118 @@
+﻿@model Agora.Onboarding.Models.Onboardings
+@using Agora.Onboarding.Encryption
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AgoraLoginPortal</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v4.1.1">
+    <title>Emp-On-boarding</title>
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/carousel/">
+    <!-- Bootstrap core CSS -->
+    <link href="~/sass/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/sass/css/fonts.css" rel="stylesheet" />
+    <link href="~/sass/css/style.css" rel="stylesheet" />
+    <link href="~/sass/css/custom.css" rel="stylesheet" />
+    <link href="~/sass/css/coadcss.css" rel="stylesheet" />
+    <link href="~/sass/css/stylesheet.css" rel="stylesheet" />
+    <link href="~/sass/sass/style.scss" />
+    <script src="https://kit.fontawesome.com/49fd075556.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    @using (Html.BeginForm("WelldonePage", "Landing", FormMethod.Post, null))
+    {
+    <div role="main" class="showcontent">
+        <div class="home-bgs">
+            <div class="col-lg-12">
+                <a href="https://www.intelegain.com/"><img src="~/images/intelegain-logo.png" class="logo" alt="Intelegain Technologies" /></a>
+            </div>
+            <div class="container text-center">
+
+                <div class="col-lg-12">
+                    <div class="bg_progress pt-2">
+                        <ul id="progressbar">
+                            <li class="active" id="portal">
+                                <div class="icon ">
+                                    <img src="~/images/icon-1.png" class="box-icons2" alt="icon" />
+                                </div>
+                                <h5 class="pro-title">Employee Handbook</h5>
+                            </li>
+                            <li id="hr" class="hr active">
+                                <div class="icon">
+                                    <img src="~/images/grey-icon-2.png" class="box-icons2 greydisc" alt="icon" />
+                                    <img src="~/images/icon-2.png" class="box-icons2 yellowdisc" alt="icon" />
+                                </div>
+                                <h5 class="pro-title">Compliance</h5>
+                            </li>
+                            <li id="appointment" class="hr active">
+                                <div class="icon">
+                                    <img src="~/images/grey-icon-3.png" class="box-icons2 greydisc" alt="icon" />
+                                    <img src="~/images/icon-3.png" class="box-icons2 yellowdisc" alt="icon" />
+                                </div>
+                                <h5 class="pro-title">Check List </h5>
+                            </li>
+
+                        </ul>
+
+
+                    </div>
+                    <form id="msform">
+                       
+                        <fieldset>
+
+                            <div class="wrapme mb-5">
+
+                                <div class="well-done greybg">
+                                    <img src="~/images/welldone.png" alt="welldone" width="120"/>
+                                    <h4>
+                                        Well Done !
+                                    </h4>
+                                    <h5 class="text-white mt-4">
+                                        Your Enrolment is completed
+                                    </h5>
+
+                                    <p class="text-grey mt-4">
+                                        You can now start using Agora !
+                                    </p>
+                                </div>
+                            </div>
+
+                            <button type="submit" id="btnSubmit" name="next" class=" btn btn-orange continue">CONTINUE</button>
+
+                        </fieldset>
+                    </form>
+
+                </div>
+            </div>
+            </div>
+        </div>
+        }
+        @*<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment.min.js"></script>
+        <script src="~/Scripts/bootstrap.bundle.min.js"></script>
+        <script src="~/Scripts/project_js.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>*@
+
+        @*@if (@Model.CheckList_check)
+        {
+            <script>
+                document.getElementById('btnSubmit').disabled = false;
+            </script>
+        }
+        else
+        {
+            <script>
+                document.getElementById('btnSubmit').disabled = true;
+            </script>
+        }*@
+</body>
+</html>

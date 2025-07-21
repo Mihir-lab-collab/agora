@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Member", "http://localhost:51174", "{E662D99D-CDF0-410D-94DD-5B5B2C6D4172}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		ProjectReferences = "{aa5cf3fb-2b52-49c4-af58-2bdfcfb41ea5}|AgoraBL.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51174"
+		Debug.AspNetCompiler.PhysicalPath = "Member\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51174\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51174"
+		Release.AspNetCompiler.PhysicalPath = "Member\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51174\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Member\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agora.Onboarding", "Agora.Onboarding\Agora.Onboarding.csproj", "{AACEF0CE-13A2-4012-B02D-CB7D13671D9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI.API", "AI.API\AI.API.csproj", "{13637EEF-52EE-425E-99A9-E2EB03C08B80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgoraBL", "AgoraBL\AgoraBL.csproj", "{AA5CF3FB-2B52-49C4-AF58-2BDFCFB41EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E662D99D-CDF0-410D-94DD-5B5B2C6D4172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E662D99D-CDF0-410D-94DD-5B5B2C6D4172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E662D99D-CDF0-410D-94DD-5B5B2C6D4172}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E662D99D-CDF0-410D-94DD-5B5B2C6D4172}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{AACEF0CE-13A2-4012-B02D-CB7D13671D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AACEF0CE-13A2-4012-B02D-CB7D13671D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AACEF0CE-13A2-4012-B02D-CB7D13671D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AACEF0CE-13A2-4012-B02D-CB7D13671D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13637EEF-52EE-425E-99A9-E2EB03C08B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13637EEF-52EE-425E-99A9-E2EB03C08B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13637EEF-52EE-425E-99A9-E2EB03C08B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13637EEF-52EE-425E-99A9-E2EB03C08B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA5CF3FB-2B52-49C4-AF58-2BDFCFB41EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA5CF3FB-2B52-49C4-AF58-2BDFCFB41EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA5CF3FB-2B52-49C4-AF58-2BDFCFB41EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA5CF3FB-2B52-49C4-AF58-2BDFCFB41EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CC2708C-1394-4A52-B39C-56FBDDF64E6D}
+	EndGlobalSection
+EndGlobal

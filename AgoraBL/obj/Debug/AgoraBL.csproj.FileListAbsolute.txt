@@ -1,0 +1,738 @@
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\AgoraBL.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\AgoraBL.pdb
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\AgoraLib.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\System.Memory.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\System.Text.Json.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\System.Buffers.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\System.Spatial.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\System.Spatial.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\obj\Debug\AgoraBL.csproj.AssemblyReference.cache
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\obj\Debug\AgoraBL.csproj.CoreCompileInputs.cache
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\obj\Debug\AgoraBL.csproj.CopyComplete
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\obj\Debug\AgoraBL.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AgoraBL\obj\Debug\AgoraBL.pdb
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\AgoraBL.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\AgoraBL.pdb
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\AgoraLib.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\Newtonsoft.Json.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\System.Text.Json.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\System.Memory.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\System.Text.Encodings.Web.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\System.Buffers.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\System.Numerics.Vectors.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\Microsoft.Data.OData.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\Microsoft.Data.Edm.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\System.Spatial.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\Newtonsoft.Json.xml
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\System.Text.Json.xml
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\System.Text.Encodings.Web.xml
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\System.Numerics.Vectors.xml
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\Microsoft.Data.OData.xml
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\Microsoft.Data.Edm.xml
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\System.Spatial.xml
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\de\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\es\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\fr\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\it\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\ja\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\ko\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\ru\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\obj\Debug\AgoraBL.csproj.AssemblyReference.cache
+C:\WorkingProjects\Agora\New_Development\AgoraBL\obj\Debug\AgoraBL.csproj.CoreCompileInputs.cache
+C:\WorkingProjects\Agora\New_Development\AgoraBL\obj\Debug\AgoraBL.csproj.CopyComplete
+C:\WorkingProjects\Agora\New_Development\AgoraBL\obj\Debug\AgoraBL.dll
+C:\WorkingProjects\Agora\New_Development\AgoraBL\obj\Debug\AgoraBL.pdb
+C:\Agora AI\AgoraBL\bin\Debug\AgoraBL.dll
+C:\Agora AI\AgoraBL\bin\Debug\AgoraBL.pdb
+C:\Agora AI\AgoraBL\bin\Debug\AgoraLib.dll
+C:\Agora AI\AgoraBL\bin\Debug\Newtonsoft.Json.dll
+C:\Agora AI\AgoraBL\bin\Debug\System.Text.Json.dll
+C:\Agora AI\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Agora AI\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Agora AI\AgoraBL\bin\Debug\System.Memory.dll
+C:\Agora AI\AgoraBL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Agora AI\AgoraBL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Agora AI\AgoraBL\bin\Debug\System.Buffers.dll
+C:\Agora AI\AgoraBL\bin\Debug\System.Numerics.Vectors.dll
+C:\Agora AI\AgoraBL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Agora AI\AgoraBL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Agora AI\AgoraBL\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Agora AI\AgoraBL\bin\Debug\Microsoft.Data.OData.dll
+C:\Agora AI\AgoraBL\bin\Debug\Microsoft.Data.Edm.dll
+C:\Agora AI\AgoraBL\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Agora AI\AgoraBL\bin\Debug\System.Spatial.dll
+C:\Agora AI\AgoraBL\bin\Debug\Newtonsoft.Json.xml
+C:\Agora AI\AgoraBL\bin\Debug\System.Text.Json.xml
+C:\Agora AI\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Agora AI\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Agora AI\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Agora AI\AgoraBL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Agora AI\AgoraBL\bin\Debug\System.Numerics.Vectors.xml
+C:\Agora AI\AgoraBL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Agora AI\AgoraBL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Agora AI\AgoraBL\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Agora AI\AgoraBL\bin\Debug\Microsoft.Data.OData.xml
+C:\Agora AI\AgoraBL\bin\Debug\Microsoft.Data.Edm.xml
+C:\Agora AI\AgoraBL\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Agora AI\AgoraBL\bin\Debug\System.Spatial.xml
+C:\Agora AI\AgoraBL\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\de\System.Spatial.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\es\System.Spatial.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\fr\System.Spatial.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\it\System.Spatial.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\ja\System.Spatial.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\ko\System.Spatial.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\ru\System.Spatial.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Agora AI\AgoraBL\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Agora AI\AgoraBL\obj\Debug\AgoraBL.csproj.AssemblyReference.cache
+C:\Agora AI\AgoraBL\obj\Debug\AgoraBL.csproj.CoreCompileInputs.cache
+C:\Agora AI\AgoraBL\obj\Debug\AgoraBL.csproj.Up2Date
+C:\Agora AI\AgoraBL\obj\Debug\AgoraBL.dll
+C:\Agora AI\AgoraBL\obj\Debug\AgoraBL.pdb
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\AgoraBL.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\AgoraBL.pdb
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\AgoraLib.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\Newtonsoft.Json.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\System.Text.Json.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\System.Memory.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\System.Buffers.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\System.Numerics.Vectors.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\Microsoft.Data.OData.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\Microsoft.Data.Edm.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\System.Spatial.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\Newtonsoft.Json.xml
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\System.Text.Json.xml
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\System.Numerics.Vectors.xml
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\Microsoft.Data.OData.xml
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\Microsoft.Data.Edm.xml
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\System.Spatial.xml
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\de\System.Spatial.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\es\System.Spatial.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\fr\System.Spatial.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\it\System.Spatial.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\ja\System.Spatial.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\ko\System.Spatial.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\ru\System.Spatial.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Agora_19_06_2024\agora\AgoraBL\obj\Debug\AgoraBL.csproj.AssemblyReference.cache
+C:\Agora_19_06_2024\agora\AgoraBL\obj\Debug\AgoraBL.csproj.CoreCompileInputs.cache
+C:\Agora_19_06_2024\agora\AgoraBL\obj\Debug\AgoraBL.csproj.CopyComplete
+C:\Agora_19_06_2024\agora\AgoraBL\obj\Debug\AgoraBL.dll
+C:\Agora_19_06_2024\agora\AgoraBL\obj\Debug\AgoraBL.pdb
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\AgoraBL.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\AgoraBL.pdb
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\AgoraLib.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\Newtonsoft.Json.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\System.Text.Json.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\System.Memory.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\System.Buffers.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\System.Numerics.Vectors.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\Microsoft.Data.OData.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\Microsoft.Data.Edm.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\System.Spatial.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\Newtonsoft.Json.xml
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\System.Text.Json.xml
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\System.Numerics.Vectors.xml
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\Microsoft.Data.OData.xml
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\Microsoft.Data.Edm.xml
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\System.Spatial.xml
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\de\System.Spatial.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\es\System.Spatial.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\fr\System.Spatial.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\it\System.Spatial.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\ja\System.Spatial.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\ko\System.Spatial.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\ru\System.Spatial.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Agora_19_09_2024\agora\AgoraBL\obj\Debug\AgoraBL.csproj.AssemblyReference.cache
+C:\Agora_19_09_2024\agora\AgoraBL\obj\Debug\AgoraBL.csproj.CoreCompileInputs.cache
+C:\Agora_19_09_2024\agora\AgoraBL\obj\Debug\AgoraBL.csproj.CopyComplete
+C:\Agora_19_09_2024\agora\AgoraBL\obj\Debug\AgoraBL.dll
+C:\Agora_19_09_2024\agora\AgoraBL\obj\Debug\AgoraBL.pdb
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\AgoraBL.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\AgoraBL.pdb
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\AgoraLib.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\Newtonsoft.Json.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\System.Text.Json.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\System.Memory.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\System.Buffers.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\System.Numerics.Vectors.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\Microsoft.Data.OData.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\Microsoft.Data.Edm.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\System.Spatial.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\Newtonsoft.Json.xml
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\System.Text.Json.xml
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\System.Numerics.Vectors.xml
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\Microsoft.Data.OData.xml
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\Microsoft.Data.Edm.xml
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\System.Spatial.xml
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\de\System.Spatial.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\es\System.Spatial.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\fr\System.Spatial.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\it\System.Spatial.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\ja\System.Spatial.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\ko\System.Spatial.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\ru\System.Spatial.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Agora_18_11_2024\AgoraBL\obj\Debug\AgoraBL.csproj.AssemblyReference.cache
+C:\Agora_18_11_2024\AgoraBL\obj\Debug\AgoraBL.csproj.CoreCompileInputs.cache
+C:\Agora_18_11_2024\AgoraBL\obj\Debug\AgoraBL.csproj.CopyComplete
+C:\Agora_18_11_2024\AgoraBL\obj\Debug\AgoraBL.dll
+C:\Agora_18_11_2024\AgoraBL\obj\Debug\AgoraBL.pdb
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\AgoraBL.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\AgoraBL.pdb
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\AgoraLib.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\Newtonsoft.Json.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\System.Text.Json.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\System.Memory.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\System.Text.Encodings.Web.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\System.Buffers.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\System.Numerics.Vectors.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\Microsoft.Data.OData.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\Microsoft.Data.Edm.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\System.Spatial.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\Newtonsoft.Json.xml
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\System.Text.Json.xml
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\System.Text.Encodings.Web.xml
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\System.Numerics.Vectors.xml
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\Microsoft.Data.OData.xml
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\Microsoft.Data.Edm.xml
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\System.Spatial.xml
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\de\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\es\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\fr\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\it\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\ja\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\ko\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\ru\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\obj\Debug\AgoraBL.csproj.AssemblyReference.cache
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\obj\Debug\AgoraBL.csproj.CoreCompileInputs.cache
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\obj\Debug\AgoraBL.csproj.CopyComplete
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\obj\Debug\AgoraBL.dll
+C:\WorkingProjects\Agora\Manoj_Development\AgoraBL\obj\Debug\AgoraBL.pdb
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\AgoraBL.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\AgoraBL.pdb
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\AgoraLib.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\Newtonsoft.Json.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\System.Text.Json.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\System.Memory.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\System.Buffers.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\System.Numerics.Vectors.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\Microsoft.Data.OData.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\Microsoft.Data.Edm.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\System.Spatial.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\Newtonsoft.Json.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\System.Text.Json.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\System.Numerics.Vectors.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\Microsoft.Data.OData.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\Microsoft.Data.Edm.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\System.Spatial.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\de\System.Spatial.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\es\System.Spatial.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\fr\System.Spatial.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\it\System.Spatial.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\ja\System.Spatial.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\ko\System.Spatial.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\ru\System.Spatial.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\obj\Debug\AgoraBL.csproj.AssemblyReference.cache
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\obj\Debug\AgoraBL.csproj.CoreCompileInputs.cache
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\obj\Debug\AgoraBL.csproj.CopyComplete
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\obj\Debug\AgoraBL.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AgoraBL\obj\Debug\AgoraBL.pdb
+C:\Agora\AgoraBL\bin\Debug\AgoraBL.dll
+C:\Agora\AgoraBL\bin\Debug\AgoraBL.pdb
+C:\Agora\AgoraBL\bin\Debug\AgoraLib.dll
+C:\Agora\AgoraBL\bin\Debug\Newtonsoft.Json.dll
+C:\Agora\AgoraBL\bin\Debug\System.Text.Json.dll
+C:\Agora\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Agora\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Agora\AgoraBL\bin\Debug\System.Memory.dll
+C:\Agora\AgoraBL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Agora\AgoraBL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Agora\AgoraBL\bin\Debug\System.Buffers.dll
+C:\Agora\AgoraBL\bin\Debug\System.Numerics.Vectors.dll
+C:\Agora\AgoraBL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Agora\AgoraBL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Agora\AgoraBL\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Agora\AgoraBL\bin\Debug\Microsoft.Data.OData.dll
+C:\Agora\AgoraBL\bin\Debug\Microsoft.Data.Edm.dll
+C:\Agora\AgoraBL\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Agora\AgoraBL\bin\Debug\System.Spatial.dll
+C:\Agora\AgoraBL\bin\Debug\Newtonsoft.Json.xml
+C:\Agora\AgoraBL\bin\Debug\System.Text.Json.xml
+C:\Agora\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Agora\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Agora\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Agora\AgoraBL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Agora\AgoraBL\bin\Debug\System.Numerics.Vectors.xml
+C:\Agora\AgoraBL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Agora\AgoraBL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Agora\AgoraBL\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Agora\AgoraBL\bin\Debug\Microsoft.Data.OData.xml
+C:\Agora\AgoraBL\bin\Debug\Microsoft.Data.Edm.xml
+C:\Agora\AgoraBL\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Agora\AgoraBL\bin\Debug\System.Spatial.xml
+C:\Agora\AgoraBL\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Agora\AgoraBL\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Agora\AgoraBL\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Agora\AgoraBL\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Agora\AgoraBL\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Agora\AgoraBL\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Agora\AgoraBL\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Agora\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Agora\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Agora\AgoraBL\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Agora\AgoraBL\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Agora\AgoraBL\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Agora\AgoraBL\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Agora\AgoraBL\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Agora\AgoraBL\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Agora\AgoraBL\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Agora\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Agora\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Agora\AgoraBL\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Agora\AgoraBL\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Agora\AgoraBL\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Agora\AgoraBL\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Agora\AgoraBL\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Agora\AgoraBL\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Agora\AgoraBL\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Agora\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Agora\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Agora\AgoraBL\bin\Debug\de\System.Spatial.resources.dll
+C:\Agora\AgoraBL\bin\Debug\es\System.Spatial.resources.dll
+C:\Agora\AgoraBL\bin\Debug\fr\System.Spatial.resources.dll
+C:\Agora\AgoraBL\bin\Debug\it\System.Spatial.resources.dll
+C:\Agora\AgoraBL\bin\Debug\ja\System.Spatial.resources.dll
+C:\Agora\AgoraBL\bin\Debug\ko\System.Spatial.resources.dll
+C:\Agora\AgoraBL\bin\Debug\ru\System.Spatial.resources.dll
+C:\Agora\AgoraBL\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Agora\AgoraBL\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Agora\AgoraBL\obj\Debug\AgoraBL.csproj.AssemblyReference.cache
+C:\Agora\AgoraBL\obj\Debug\AgoraBL.csproj.CoreCompileInputs.cache
+C:\Agora\AgoraBL\obj\Debug\AgoraBL.csproj.Up2Date
+C:\Agora\AgoraBL\obj\Debug\AgoraBL.dll
+C:\Agora\AgoraBL\obj\Debug\AgoraBL.pdb
+C:\Agora_18_11_2024\AgoraBL\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\AgoraBL.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\AgoraBL.pdb
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\AgoraLib.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\System.Text.Json.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\System.Memory.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\System.Buffers.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\System.Spatial.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\System.Text.Json.xml
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\System.Spatial.xml
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\obj\Debug\AgoraBL.csproj.AssemblyReference.cache
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\obj\Debug\AgoraBL.csproj.CoreCompileInputs.cache
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\obj\Debug\AgoraBL.csproj.Up2Date
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\obj\Debug\AgoraBL.dll
+C:\Users\vikash\source\repos\Agora Module\AgoraBL\obj\Debug\AgoraBL.pdb

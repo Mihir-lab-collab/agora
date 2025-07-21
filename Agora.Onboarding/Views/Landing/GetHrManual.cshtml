@@ -1,0 +1,170 @@
+﻿
+<div id="my_pdf_viewer" class="center">
+    <div id="canvas_container" style="overflow:auto !important">
+        <div id="navigation_controls" style="padding-top:15px;padding-bottom:5px;text-align:center;padding-right:8px" ; class="fontFamily">
+            <button type="button" id="go_previous" style="background-color:black;color:white;border-radius:5px;font-size:small;text-align:center;width:90px; margin:5px;font-family:'Times New Roman', Times, serif"> Previous </button>
+            <input id="current_page" value="Page no.1  " class="item" type="text" style="background-color:black;color:white;border-radius:5px;font-size:small;text-align:center;width:90px;margin:5px;font-family:'Times New Roman', Times, serif">
+            <button type="button" id="go_next" style="background-color:black;color:white;border-radius:5px;font-size:small;text-align:center;width:90px;margin:5px;font-family:'Times New Roman', Times, serif"> Next </button>
+            <button type="button" id="zoom_out" class="font-button minus" style="background-color:black;color:white;border-radius:5px;font-size:small;text-align:center;width:30px;margin:5px;font-family:'Times New Roman', Times, serif"> - </button>
+            <button type="button" id="zoom_in" class="font-button plus" style="background-color:black;color:white;border-radius:5px;font-size:small;text-align:center;width:30px;margin:5px;font-family:'Times New Roman', Times, serif"> + </button>
+        </div>
+        <canvas id="pdf_rendered" style="pointer-events:none"></canvas>
+    </div>
+</div>
+@Html.Hidden(@System.Configuration.ConfigurationManager.AppSettings["HrManualpdf"], "", new { @id = "HrManualpath" })
+<input type="hidden" name="HrManual" id="HrManual" value="@ViewBag.FilePath" />
+<div id="my_pdf_viewer" class="center">
+        <div id="navigation_controls" style="padding-top:15px;padding-bottom:5px;text-align:center;padding-right:8px" ; class="fontFamily">
+            <button type="button" id="go_previous_1" style="background-color:black;color:white;border-radius:5px;font-size:small;text-align:center;width:90px; margin:5px;font-family:'Times New Roman', Times, serif"> Previous </button>
+            <input id="current_page_1" value="Page no.1 " class="item" type="text" style="background-color:black;color:white;border-radius:5px;font-size:small;text-align:center;width:90px;margin:5px;font-family:'Times New Roman', Times, serif">
+            <button type="button" id="go_next_1" style="background-color:black;color:white;border-radius:5px;font-size:small;text-align:center;width:90px;margin:5px;font-family:'Times New Roman', Times, serif"> Next </button>
+            <button type="button" id="zoom_out_1" class="font-button minus" style="background-color:black;color:white;border-radius:5px;font-size:small;text-align:center;width:30px;margin:5px;font-family:'Times New Roman', Times, serif"> - </button>
+            <button type="button" id="zoom_in_1" class="font-button plus" style="background-color:black;color:white;border-radius:5px;font-size:small;text-align:center;width:30px;margin:5px;font-family:'Times New Roman', Times, serif"> + </button>
+        </div>
+      
+    </div>
+<script>
+    // for hide and show checkbox
+    $(document).ready(function () {
+        let reviewManual = document.getElementById("checkReviewManual").checked;
+        if (reviewManual) {
+            //document.getElementById('reviewManual').style.cssText = "display:block;margin-right:63%";
+            document.getElementById("checkReviewManual").disabled = true;
+
+        }
+
+    });
+    var myState = {
+        pdf: null,
+        currentPage: 1,
+        zoom: 1
+    }
+   // pdfjsLib.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/2.0.943/pdf.worker.js`;
+    var getHrManual = document.getElementById("HrManualpath").name  + document.getElementById("HrManual").value;
+    pdfjsLib.getDocument(getHrManual).then(pdf => {
+        myState.pdf = pdf
+        render()
+    })
+    function render() {
+        myState.pdf.getPage(myState.currentPage).then(page => {
+            var canvas = document.getElementById("pdf_rendered")
+            var ctx = canvas.getContext("2d")
+            var viewport = page.getViewport(myState.zoom)
+            canvas.width = viewport.width;
+            canvas.height = viewport.height;
+
+            //rendering the page
+            page.render({
+                canvasContext: ctx,
+                viewport: viewport
+            })
+        })
+    }
+    //go_previous
+    document.getElementById('go_previous').addEventListener('click', (e) => {
+
+        if (myState.pdf == null || myState.currentPage == 1)
+            return;
+        myState.currentPage -= 1;
+        document.getElementById("current_page").value = "Page no. " + myState.currentPage  ;
+        document.getElementById("current_page_1").value = "Page no. " + myState.currentPage ;
+        render();
+    });
+    //go_next
+    document.getElementById('go_next').addEventListener('click', (e) => {
+
+        if (myState.pdf == null || myState.currentPage > myState.pdf._pdfInfo.numPages)
+            return;
+        myState.currentPage += 1;
+        document.getElementById("current_page").value = "Page no. " + myState.currentPage ;
+        document.getElementById("current_page_1").value = "Page no. " + myState.currentPage ;
+        render();
+    });
+    //current_page
+    document.getElementById('current_page').addEventListener('keypress', (e) => {
+        e.preventDefault();
+        if (myState.pdf == null) return;
+
+        // Get key code
+        var code = (e.keyCode ? e.keyCode : e.which);
+
+        // If key code matches that of the Enter key
+        if (code == 13) {
+            var desiredPage = document.getElementById('current_page').valueAsNumber;
+
+            if (desiredPage >= 1 && desiredPage <= myState.pdf._pdfInfo.numPages) {
+                myState.currentPage = desiredPage;
+                document.getElementById("current_page").value = desiredPage;
+                render();
+            }
+        }
+    });
+    //zoom_in
+    document.getElementById('zoom_in').addEventListener('click', (e) => {
+
+        if (myState.pdf == null) return;
+        myState.zoom += 0.5;
+        render();
+    });
+    //zoom_out
+    document.getElementById('zoom_out').addEventListener('click', (e) => {
+
+        if (myState.pdf == null) return;
+        myState.zoom -= 0.5;
+        render();
+    });
+
+    // for second button
+    document.getElementById('go_previous_1').addEventListener('click', (e) => {
+
+        if (myState.pdf == null || myState.currentPage == 1)
+            return;
+        myState.currentPage -= 1;
+        document.getElementById("current_page_1").value = "Page no. " + myState.currentPage ;
+        document.getElementById("current_page").value = "Page no. " + myState.currentPage ;
+        render();
+    });
+    //go_next
+    document.getElementById('go_next_1').addEventListener('click', (e) => {
+
+        if (myState.pdf == null || myState.currentPage > myState.pdf._pdfInfo.numPages)
+            return;
+        myState.currentPage += 1;
+        document.getElementById("current_page_1").value = "Page no. " + myState.currentPage ;
+        document.getElementById("current_page").value = "Page no. " + myState.currentPage ;
+        render();
+    });
+    //current_page
+    document.getElementById('current_page_1').addEventListener('keypress', (e) => {
+        e.preventDefault();
+        if (myState.pdf == null) return;
+
+        // Get key code
+        var code = (e.keyCode ? e.keyCode : e.which);
+
+        // If key code matches that of the Enter key
+        if (code == 13) {
+            var desiredPage = document.getElementById('current_page_1').valueAsNumber;
+
+            if (desiredPage >= 1 && desiredPage <= myState.pdf._pdfInfo.numPages) {
+                myState.currentPage = desiredPage;
+                document.getElementById("current_page_1").value = desiredPage;
+                render();
+            }
+        }
+    });
+    //zoom_in
+    document.getElementById('zoom_in_1').addEventListener('click', (e) => {
+
+        if (myState.pdf == null) return;
+        myState.zoom += 0.5;
+        render();
+    });
+    //zoom_out
+    document.getElementById('zoom_out_1').addEventListener('click', (e) => {
+
+        if (myState.pdf == null) return;
+        myState.zoom -= 0.5;
+        render();
+    });
+</script>

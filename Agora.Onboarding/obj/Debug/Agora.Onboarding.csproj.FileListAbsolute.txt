@@ -1,0 +1,1025 @@
+C:\AgoraProject\Member\Agora.Onboarding\bin\Agora.Onboarding.dll.config
+C:\AgoraProject\Member\Agora.Onboarding\bin\Agora.Onboarding.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\Agora.Onboarding.pdb
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\csc.exe
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\csc.exe.config
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\csc.rsp
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\csi.exe
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\csi.exe.config
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\csi.rsp
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\Microsoft.Managed.Core.targets
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.AppContext.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.Collections.Immutable.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.Console.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.Globalization.Calendars.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.IO.Compression.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.Net.Http.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.Net.Sockets.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.Reflection.Metadata.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.ValueTuple.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.Xml.XmlDocument.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.Xml.XPath.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\vbc.exe
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\vbc.exe.config
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\vbc.rsp
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe
+C:\AgoraProject\Member\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe.config
+C:\AgoraProject\Member\Agora.Onboarding\bin\Antlr3.Runtime.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\Microsoft.Web.Infrastructure.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\Newtonsoft.Json.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\System.Web.Helpers.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\System.Web.Mvc.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\System.Web.Optimization.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\System.Web.Razor.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\System.Web.WebPages.Deployment.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\System.Web.WebPages.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\System.Web.WebPages.Razor.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\WebGrease.dll
+C:\AgoraProject\Member\Agora.Onboarding\bin\System.Web.Helpers.xml
+C:\AgoraProject\Member\Agora.Onboarding\bin\System.Web.Mvc.xml
+C:\AgoraProject\Member\Agora.Onboarding\bin\System.Web.Optimization.xml
+C:\AgoraProject\Member\Agora.Onboarding\bin\System.Web.Razor.xml
+C:\AgoraProject\Member\Agora.Onboarding\bin\System.Web.WebPages.xml
+C:\AgoraProject\Member\Agora.Onboarding\bin\System.Web.WebPages.Deployment.xml
+C:\AgoraProject\Member\Agora.Onboarding\bin\System.Web.WebPages.Razor.xml
+C:\AgoraProject\Member\Agora.Onboarding\bin\Newtonsoft.Json.xml
+C:\AgoraProject\Member\Agora.Onboarding\bin\Antlr3.Runtime.pdb
+C:\AgoraProject\Member\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\AgoraProject\Member\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CoreCompileInputs.cache
+C:\AgoraProject\Member\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CopyComplete
+C:\AgoraProject\Member\Agora.Onboarding\obj\Debug\Agora.Onboarding.dll
+C:\AgoraProject\Member\Agora.Onboarding\obj\Debug\Agora.Onboarding.pdb
+C:\AgoraProject\Agora.Onboarding\bin\Agora.Onboarding.dll.config
+C:\AgoraProject\Agora.Onboarding\bin\Agora.Onboarding.dll
+C:\AgoraProject\Agora.Onboarding\bin\Agora.Onboarding.pdb
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\csc.exe
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\csc.exe.config
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\csc.rsp
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\csi.exe
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\csi.exe.config
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\csi.rsp
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\Microsoft.Managed.Core.targets
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.AppContext.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.Collections.Immutable.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.Console.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.Globalization.Calendars.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.IO.Compression.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.Net.Http.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.Net.Sockets.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.Reflection.Metadata.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.ValueTuple.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.Xml.XmlDocument.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.Xml.XPath.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\vbc.exe
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\vbc.exe.config
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\vbc.rsp
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe
+C:\AgoraProject\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe.config
+C:\AgoraProject\Agora.Onboarding\bin\Antlr3.Runtime.dll
+C:\AgoraProject\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\AgoraProject\Agora.Onboarding\bin\Microsoft.Web.Infrastructure.dll
+C:\AgoraProject\Agora.Onboarding\bin\Newtonsoft.Json.dll
+C:\AgoraProject\Agora.Onboarding\bin\System.Web.Helpers.dll
+C:\AgoraProject\Agora.Onboarding\bin\System.Web.Mvc.dll
+C:\AgoraProject\Agora.Onboarding\bin\System.Web.Optimization.dll
+C:\AgoraProject\Agora.Onboarding\bin\System.Web.Razor.dll
+C:\AgoraProject\Agora.Onboarding\bin\System.Web.WebPages.Deployment.dll
+C:\AgoraProject\Agora.Onboarding\bin\System.Web.WebPages.dll
+C:\AgoraProject\Agora.Onboarding\bin\System.Web.WebPages.Razor.dll
+C:\AgoraProject\Agora.Onboarding\bin\WebGrease.dll
+C:\AgoraProject\Agora.Onboarding\bin\System.Web.Helpers.xml
+C:\AgoraProject\Agora.Onboarding\bin\System.Web.Mvc.xml
+C:\AgoraProject\Agora.Onboarding\bin\System.Web.Optimization.xml
+C:\AgoraProject\Agora.Onboarding\bin\System.Web.Razor.xml
+C:\AgoraProject\Agora.Onboarding\bin\System.Web.WebPages.xml
+C:\AgoraProject\Agora.Onboarding\bin\System.Web.WebPages.Deployment.xml
+C:\AgoraProject\Agora.Onboarding\bin\System.Web.WebPages.Razor.xml
+C:\AgoraProject\Agora.Onboarding\bin\Newtonsoft.Json.xml
+C:\AgoraProject\Agora.Onboarding\bin\Antlr3.Runtime.pdb
+C:\AgoraProject\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\AgoraProject\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.AssemblyReference.cache
+C:\AgoraProject\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CoreCompileInputs.cache
+C:\AgoraProject\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CopyComplete
+C:\AgoraProject\Agora.Onboarding\obj\Debug\Agora.Onboarding.dll
+C:\AgoraProject\Agora.Onboarding\obj\Debug\Agora.Onboarding.pdb
+C:\AgoraWFH\Agora.Onboarding\bin\Agora.Onboarding.dll.config
+C:\AgoraWFH\Agora.Onboarding\bin\Agora.Onboarding.dll
+C:\AgoraWFH\Agora.Onboarding\bin\Agora.Onboarding.pdb
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\csc.exe
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\csc.exe.config
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\csc.rsp
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\csi.exe
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\csi.exe.config
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\csi.rsp
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\Microsoft.Managed.Core.targets
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.AppContext.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.Collections.Immutable.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.Console.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.Globalization.Calendars.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.IO.Compression.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.Net.Http.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.Net.Sockets.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.Reflection.Metadata.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.ValueTuple.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.Xml.XmlDocument.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.Xml.XPath.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\vbc.exe
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\vbc.exe.config
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\vbc.rsp
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe
+C:\AgoraWFH\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe.config
+C:\AgoraWFH\Agora.Onboarding\bin\Antlr3.Runtime.dll
+C:\AgoraWFH\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\AgoraWFH\Agora.Onboarding\bin\Microsoft.Web.Infrastructure.dll
+C:\AgoraWFH\Agora.Onboarding\bin\Newtonsoft.Json.dll
+C:\AgoraWFH\Agora.Onboarding\bin\System.Web.Helpers.dll
+C:\AgoraWFH\Agora.Onboarding\bin\System.Web.Mvc.dll
+C:\AgoraWFH\Agora.Onboarding\bin\System.Web.Optimization.dll
+C:\AgoraWFH\Agora.Onboarding\bin\System.Web.Razor.dll
+C:\AgoraWFH\Agora.Onboarding\bin\System.Web.WebPages.Deployment.dll
+C:\AgoraWFH\Agora.Onboarding\bin\System.Web.WebPages.dll
+C:\AgoraWFH\Agora.Onboarding\bin\System.Web.WebPages.Razor.dll
+C:\AgoraWFH\Agora.Onboarding\bin\WebGrease.dll
+C:\AgoraWFH\Agora.Onboarding\bin\System.Web.Helpers.xml
+C:\AgoraWFH\Agora.Onboarding\bin\System.Web.Mvc.xml
+C:\AgoraWFH\Agora.Onboarding\bin\System.Web.Optimization.xml
+C:\AgoraWFH\Agora.Onboarding\bin\System.Web.Razor.xml
+C:\AgoraWFH\Agora.Onboarding\bin\System.Web.WebPages.xml
+C:\AgoraWFH\Agora.Onboarding\bin\System.Web.WebPages.Deployment.xml
+C:\AgoraWFH\Agora.Onboarding\bin\System.Web.WebPages.Razor.xml
+C:\AgoraWFH\Agora.Onboarding\bin\Newtonsoft.Json.xml
+C:\AgoraWFH\Agora.Onboarding\bin\Antlr3.Runtime.pdb
+C:\AgoraWFH\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\AgoraWFH\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CoreCompileInputs.cache
+C:\AgoraWFH\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CopyComplete
+C:\AgoraWFH\Agora.Onboarding\obj\Debug\Agora.Onboarding.dll
+C:\AgoraWFH\Agora.Onboarding\obj\Debug\Agora.Onboarding.pdb
+C:\Agora_project\Agora.Onboarding\bin\Agora.Onboarding.dll.config
+C:\Agora_project\Agora.Onboarding\bin\Agora.Onboarding.dll
+C:\Agora_project\Agora.Onboarding\bin\Agora.Onboarding.pdb
+C:\Agora_project\Agora.Onboarding\bin\roslyn\csc.exe
+C:\Agora_project\Agora.Onboarding\bin\roslyn\csc.exe.config
+C:\Agora_project\Agora.Onboarding\bin\roslyn\csc.rsp
+C:\Agora_project\Agora.Onboarding\bin\roslyn\csi.exe
+C:\Agora_project\Agora.Onboarding\bin\roslyn\csi.exe.config
+C:\Agora_project\Agora.Onboarding\bin\roslyn\csi.rsp
+C:\Agora_project\Agora.Onboarding\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Agora_project\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Agora_project\Agora.Onboarding\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Agora_project\Agora.Onboarding\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.AppContext.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.Collections.Immutable.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.Console.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.Globalization.Calendars.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.IO.Compression.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.Net.Http.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.Net.Sockets.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.Reflection.Metadata.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.ValueTuple.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.Xml.XPath.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Agora_project\Agora.Onboarding\bin\roslyn\vbc.exe
+C:\Agora_project\Agora.Onboarding\bin\roslyn\vbc.exe.config
+C:\Agora_project\Agora.Onboarding\bin\roslyn\vbc.rsp
+C:\Agora_project\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe
+C:\Agora_project\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe.config
+C:\Agora_project\Agora.Onboarding\bin\Antlr3.Runtime.dll
+C:\Agora_project\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Agora_project\Agora.Onboarding\bin\Microsoft.Web.Infrastructure.dll
+C:\Agora_project\Agora.Onboarding\bin\Newtonsoft.Json.dll
+C:\Agora_project\Agora.Onboarding\bin\System.Web.Helpers.dll
+C:\Agora_project\Agora.Onboarding\bin\System.Web.Mvc.dll
+C:\Agora_project\Agora.Onboarding\bin\System.Web.Optimization.dll
+C:\Agora_project\Agora.Onboarding\bin\System.Web.Razor.dll
+C:\Agora_project\Agora.Onboarding\bin\System.Web.WebPages.Deployment.dll
+C:\Agora_project\Agora.Onboarding\bin\System.Web.WebPages.dll
+C:\Agora_project\Agora.Onboarding\bin\System.Web.WebPages.Razor.dll
+C:\Agora_project\Agora.Onboarding\bin\WebGrease.dll
+C:\Agora_project\Agora.Onboarding\bin\System.Web.Helpers.xml
+C:\Agora_project\Agora.Onboarding\bin\System.Web.Mvc.xml
+C:\Agora_project\Agora.Onboarding\bin\System.Web.Optimization.xml
+C:\Agora_project\Agora.Onboarding\bin\System.Web.Razor.xml
+C:\Agora_project\Agora.Onboarding\bin\System.Web.WebPages.xml
+C:\Agora_project\Agora.Onboarding\bin\System.Web.WebPages.Deployment.xml
+C:\Agora_project\Agora.Onboarding\bin\System.Web.WebPages.Razor.xml
+C:\Agora_project\Agora.Onboarding\bin\Newtonsoft.Json.xml
+C:\Agora_project\Agora.Onboarding\bin\Antlr3.Runtime.pdb
+C:\Agora_project\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Agora_project\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.AssemblyReference.cache
+C:\Agora_project\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CoreCompileInputs.cache
+C:\Agora_project\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CopyComplete
+C:\Agora_project\Agora.Onboarding\obj\Debug\Agora.Onboarding.dll
+C:\Agora_project\Agora.Onboarding\obj\Debug\Agora.Onboarding.pdb
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\Agora.Onboarding.dll.config
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\Agora.Onboarding.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\Agora.Onboarding.pdb
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\csc.exe
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\csc.exe.config
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\csc.rsp
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\csi.exe
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\csi.exe.config
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\csi.rsp
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.AppContext.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.Collections.Immutable.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.Console.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.Globalization.Calendars.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.IO.Compression.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.Net.Http.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.Net.Sockets.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.Reflection.Metadata.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.ValueTuple.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.Xml.XPath.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\vbc.exe
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\vbc.exe.config
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\vbc.rsp
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe.config
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\Antlr3.Runtime.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\Microsoft.Web.Infrastructure.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\Newtonsoft.Json.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\System.Web.Helpers.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\System.Web.Mvc.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\System.Web.Optimization.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\System.Web.Razor.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\System.Web.WebPages.Deployment.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\System.Web.WebPages.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\System.Web.WebPages.Razor.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\WebGrease.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\System.Web.Helpers.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\System.Web.Mvc.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\System.Web.Optimization.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\System.Web.Razor.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\System.Web.WebPages.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\System.Web.WebPages.Deployment.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\System.Web.WebPages.Razor.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\Newtonsoft.Json.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\Antlr3.Runtime.pdb
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.AssemblyReference.cache
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CoreCompileInputs.cache
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CopyComplete
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\obj\Debug\Agora.Onboarding.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\Agora.Onboarding\obj\Debug\Agora.Onboarding.pdb
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\Agora.Onboarding.dll.config
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\Agora.Onboarding.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\Agora.Onboarding.pdb
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\csc.exe
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\csc.exe.config
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\csc.rsp
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\csi.exe
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\csi.exe.config
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\csi.rsp
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.AppContext.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.Console.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.IO.Compression.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.Net.Http.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.ValueTuple.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\vbc.exe
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\vbc.exe.config
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\vbc.rsp
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\Antlr3.Runtime.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\Newtonsoft.Json.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\System.Web.Helpers.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\System.Web.Mvc.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\System.Web.Optimization.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\System.Web.Razor.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\System.Web.WebPages.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\System.Web.WebPages.Razor.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\WebGrease.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\System.Web.Helpers.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\System.Web.Mvc.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\System.Web.Optimization.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\System.Web.Razor.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\System.Web.WebPages.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\System.Web.WebPages.Razor.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\Newtonsoft.Json.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\Antlr3.Runtime.pdb
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.AssemblyReference.cache
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CoreCompileInputs.cache
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CopyComplete
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\obj\Debug\Agora.Onboarding.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\Agora.Onboarding\obj\Debug\Agora.Onboarding.pdb
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\Agora.Onboarding.dll.config
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\Agora.Onboarding.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\Agora.Onboarding.pdb
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\csc.exe
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\csc.exe.config
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\csc.rsp
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\csi.exe
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\csi.exe.config
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\csi.rsp
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\Microsoft.Managed.Core.targets
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.AppContext.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.Collections.Immutable.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.Console.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.Globalization.Calendars.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.IO.Compression.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.Net.Http.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.Net.Sockets.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.Reflection.Metadata.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.ValueTuple.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.Xml.XmlDocument.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.Xml.XPath.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\vbc.exe
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\vbc.exe.config
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\vbc.rsp
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe.config
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\Antlr3.Runtime.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\Microsoft.Web.Infrastructure.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\Newtonsoft.Json.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\System.Web.Helpers.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\System.Web.Mvc.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\System.Web.Optimization.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\System.Web.Razor.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\System.Web.WebPages.Deployment.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\System.Web.WebPages.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\System.Web.WebPages.Razor.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\WebGrease.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\System.Web.Helpers.xml
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\System.Web.Mvc.xml
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\System.Web.Optimization.xml
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\System.Web.Razor.xml
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\System.Web.WebPages.xml
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\System.Web.WebPages.Deployment.xml
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\System.Web.WebPages.Razor.xml
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\Newtonsoft.Json.xml
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\Antlr3.Runtime.pdb
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.AssemblyReference.cache
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CoreCompileInputs.cache
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CopyComplete
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\obj\Debug\Agora.Onboarding.dll
+C:\WorkingProjects\Agora\New_Development\Agora.Onboarding\obj\Debug\Agora.Onboarding.pdb
+C:\Agora AI\Agora.Onboarding\bin\Agora.Onboarding.dll.config
+C:\Agora AI\Agora.Onboarding\bin\Agora.Onboarding.dll
+C:\Agora AI\Agora.Onboarding\bin\Agora.Onboarding.pdb
+C:\Agora AI\Agora.Onboarding\bin\roslyn\csc.exe
+C:\Agora AI\Agora.Onboarding\bin\roslyn\csc.exe.config
+C:\Agora AI\Agora.Onboarding\bin\roslyn\csc.rsp
+C:\Agora AI\Agora.Onboarding\bin\roslyn\csi.exe
+C:\Agora AI\Agora.Onboarding\bin\roslyn\csi.exe.config
+C:\Agora AI\Agora.Onboarding\bin\roslyn\csi.rsp
+C:\Agora AI\Agora.Onboarding\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Agora AI\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Agora AI\Agora.Onboarding\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Agora AI\Agora.Onboarding\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.AppContext.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.Collections.Immutable.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.Console.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.Globalization.Calendars.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.IO.Compression.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.Net.Http.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.Net.Sockets.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.Reflection.Metadata.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.ValueTuple.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.Xml.XPath.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Agora AI\Agora.Onboarding\bin\roslyn\vbc.exe
+C:\Agora AI\Agora.Onboarding\bin\roslyn\vbc.exe.config
+C:\Agora AI\Agora.Onboarding\bin\roslyn\vbc.rsp
+C:\Agora AI\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe
+C:\Agora AI\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe.config
+C:\Agora AI\Agora.Onboarding\bin\Antlr3.Runtime.dll
+C:\Agora AI\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Agora AI\Agora.Onboarding\bin\Microsoft.Web.Infrastructure.dll
+C:\Agora AI\Agora.Onboarding\bin\Newtonsoft.Json.dll
+C:\Agora AI\Agora.Onboarding\bin\System.Web.Helpers.dll
+C:\Agora AI\Agora.Onboarding\bin\System.Web.Mvc.dll
+C:\Agora AI\Agora.Onboarding\bin\System.Web.Optimization.dll
+C:\Agora AI\Agora.Onboarding\bin\System.Web.Razor.dll
+C:\Agora AI\Agora.Onboarding\bin\System.Web.WebPages.Deployment.dll
+C:\Agora AI\Agora.Onboarding\bin\System.Web.WebPages.dll
+C:\Agora AI\Agora.Onboarding\bin\System.Web.WebPages.Razor.dll
+C:\Agora AI\Agora.Onboarding\bin\WebGrease.dll
+C:\Agora AI\Agora.Onboarding\bin\System.Web.Helpers.xml
+C:\Agora AI\Agora.Onboarding\bin\System.Web.Mvc.xml
+C:\Agora AI\Agora.Onboarding\bin\System.Web.Optimization.xml
+C:\Agora AI\Agora.Onboarding\bin\System.Web.Razor.xml
+C:\Agora AI\Agora.Onboarding\bin\System.Web.WebPages.xml
+C:\Agora AI\Agora.Onboarding\bin\System.Web.WebPages.Deployment.xml
+C:\Agora AI\Agora.Onboarding\bin\System.Web.WebPages.Razor.xml
+C:\Agora AI\Agora.Onboarding\bin\Newtonsoft.Json.xml
+C:\Agora AI\Agora.Onboarding\bin\Antlr3.Runtime.pdb
+C:\Agora AI\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Agora AI\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.AssemblyReference.cache
+C:\Agora AI\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CoreCompileInputs.cache
+C:\Agora AI\Agora.Onboarding\obj\Debug\Agora.On.CC54CAE5.Up2Date
+C:\Agora AI\Agora.Onboarding\obj\Debug\Agora.Onboarding.dll
+C:\Agora AI\Agora.Onboarding\obj\Debug\Agora.Onboarding.pdb
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\Agora.Onboarding.dll.config
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\Agora.Onboarding.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\Agora.Onboarding.pdb
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\csc.exe
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\csc.exe.config
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\csc.rsp
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\csi.exe
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\csi.exe.config
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\csi.rsp
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.AppContext.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.Collections.Immutable.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.Console.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.Globalization.Calendars.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.IO.Compression.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.Net.Http.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.Net.Sockets.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.Reflection.Metadata.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.ValueTuple.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.Xml.XPath.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\vbc.exe
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\vbc.exe.config
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\vbc.rsp
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe.config
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\Antlr3.Runtime.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\Microsoft.Web.Infrastructure.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\Newtonsoft.Json.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\System.Web.Helpers.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\System.Web.Mvc.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\System.Web.Optimization.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\System.Web.Razor.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\System.Web.WebPages.Deployment.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\System.Web.WebPages.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\System.Web.WebPages.Razor.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\WebGrease.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\System.Web.Helpers.xml
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\System.Web.Mvc.xml
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\System.Web.Optimization.xml
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\System.Web.Razor.xml
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\System.Web.WebPages.xml
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\System.Web.WebPages.Deployment.xml
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\System.Web.WebPages.Razor.xml
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\Newtonsoft.Json.xml
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\Antlr3.Runtime.pdb
+C:\Agora_19_06_2024\agora\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Agora_19_06_2024\agora\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.AssemblyReference.cache
+C:\Agora_19_06_2024\agora\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CoreCompileInputs.cache
+C:\Agora_19_06_2024\agora\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CopyComplete
+C:\Agora_19_06_2024\agora\Agora.Onboarding\obj\Debug\Agora.Onboarding.dll
+C:\Agora_19_06_2024\agora\Agora.Onboarding\obj\Debug\Agora.Onboarding.pdb
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\Agora.Onboarding.dll.config
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\Agora.Onboarding.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\Agora.Onboarding.pdb
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\csc.exe
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\csc.exe.config
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\csc.rsp
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\csi.exe
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\csi.exe.config
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\csi.rsp
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\Microsoft.Managed.Core.targets
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.AppContext.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.Collections.Immutable.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.Console.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.Globalization.Calendars.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.IO.Compression.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.Net.Http.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.Net.Sockets.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.Reflection.Metadata.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.ValueTuple.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.Xml.XmlDocument.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.Xml.XPath.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\vbc.exe
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\vbc.exe.config
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\vbc.rsp
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe.config
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\Antlr3.Runtime.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\Microsoft.Web.Infrastructure.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\Newtonsoft.Json.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\System.Web.Helpers.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\System.Web.Mvc.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\System.Web.Optimization.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\System.Web.Razor.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\System.Web.WebPages.Deployment.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\System.Web.WebPages.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\System.Web.WebPages.Razor.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\WebGrease.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\System.Web.Helpers.xml
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\System.Web.Mvc.xml
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\System.Web.Optimization.xml
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\System.Web.Razor.xml
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\System.Web.WebPages.xml
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\System.Web.WebPages.Deployment.xml
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\System.Web.WebPages.Razor.xml
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\Newtonsoft.Json.xml
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\Antlr3.Runtime.pdb
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.AssemblyReference.cache
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CoreCompileInputs.cache
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CopyComplete
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\obj\Debug\Agora.Onboarding.dll
+C:\WorkingProjects\Agora\Manoj_Development\Agora.Onboarding\obj\Debug\Agora.Onboarding.pdb
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\Agora.Onboarding.dll.config
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\Agora.Onboarding.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\Agora.Onboarding.pdb
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\csc.exe
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\csc.exe.config
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\csc.rsp
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\csi.exe
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\csi.exe.config
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\csi.rsp
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.AppContext.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.Collections.Immutable.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.Console.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.Globalization.Calendars.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.IO.Compression.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.Net.Http.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.Net.Sockets.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.Reflection.Metadata.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.ValueTuple.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.Xml.XPath.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\vbc.exe
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\vbc.exe.config
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\vbc.rsp
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe.config
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\Antlr3.Runtime.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\Microsoft.Web.Infrastructure.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\Newtonsoft.Json.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\System.Web.Helpers.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\System.Web.Mvc.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\System.Web.Optimization.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\System.Web.Razor.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\System.Web.WebPages.Deployment.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\System.Web.WebPages.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\System.Web.WebPages.Razor.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\WebGrease.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\System.Web.Helpers.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\System.Web.Mvc.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\System.Web.Optimization.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\System.Web.Razor.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\System.Web.WebPages.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\System.Web.WebPages.Deployment.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\System.Web.WebPages.Razor.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\Newtonsoft.Json.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\Antlr3.Runtime.pdb
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.AssemblyReference.cache
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CoreCompileInputs.cache
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CopyComplete
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\obj\Debug\Agora.Onboarding.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\Agora.Onboarding\obj\Debug\Agora.Onboarding.pdb
+C:\Agora\Agora.Onboarding\bin\Agora.Onboarding.dll.config
+C:\Agora\Agora.Onboarding\bin\Agora.Onboarding.dll
+C:\Agora\Agora.Onboarding\bin\Agora.Onboarding.pdb
+C:\Agora\Agora.Onboarding\bin\roslyn\csc.exe
+C:\Agora\Agora.Onboarding\bin\roslyn\csc.exe.config
+C:\Agora\Agora.Onboarding\bin\roslyn\csc.rsp
+C:\Agora\Agora.Onboarding\bin\roslyn\csi.exe
+C:\Agora\Agora.Onboarding\bin\roslyn\csi.exe.config
+C:\Agora\Agora.Onboarding\bin\roslyn\csi.rsp
+C:\Agora\Agora.Onboarding\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Agora\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Agora\Agora.Onboarding\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Agora\Agora.Onboarding\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.AppContext.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.Collections.Immutable.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.Console.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.Globalization.Calendars.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.IO.Compression.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.Net.Http.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.Net.Sockets.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.Reflection.Metadata.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.ValueTuple.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.Xml.XPath.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Agora\Agora.Onboarding\bin\roslyn\vbc.exe
+C:\Agora\Agora.Onboarding\bin\roslyn\vbc.exe.config
+C:\Agora\Agora.Onboarding\bin\roslyn\vbc.rsp
+C:\Agora\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe
+C:\Agora\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe.config
+C:\Agora\Agora.Onboarding\bin\Antlr3.Runtime.dll
+C:\Agora\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Agora\Agora.Onboarding\bin\Microsoft.Web.Infrastructure.dll
+C:\Agora\Agora.Onboarding\bin\Newtonsoft.Json.dll
+C:\Agora\Agora.Onboarding\bin\System.Web.Helpers.dll
+C:\Agora\Agora.Onboarding\bin\System.Web.Mvc.dll
+C:\Agora\Agora.Onboarding\bin\System.Web.Optimization.dll
+C:\Agora\Agora.Onboarding\bin\System.Web.Razor.dll
+C:\Agora\Agora.Onboarding\bin\System.Web.WebPages.Deployment.dll
+C:\Agora\Agora.Onboarding\bin\System.Web.WebPages.dll
+C:\Agora\Agora.Onboarding\bin\System.Web.WebPages.Razor.dll
+C:\Agora\Agora.Onboarding\bin\WebGrease.dll
+C:\Agora\Agora.Onboarding\bin\System.Web.Helpers.xml
+C:\Agora\Agora.Onboarding\bin\System.Web.Mvc.xml
+C:\Agora\Agora.Onboarding\bin\System.Web.Optimization.xml
+C:\Agora\Agora.Onboarding\bin\System.Web.Razor.xml
+C:\Agora\Agora.Onboarding\bin\System.Web.WebPages.xml
+C:\Agora\Agora.Onboarding\bin\System.Web.WebPages.Deployment.xml
+C:\Agora\Agora.Onboarding\bin\System.Web.WebPages.Razor.xml
+C:\Agora\Agora.Onboarding\bin\Newtonsoft.Json.xml
+C:\Agora\Agora.Onboarding\bin\Antlr3.Runtime.pdb
+C:\Agora\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Agora\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.AssemblyReference.cache
+C:\Agora\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CoreCompileInputs.cache
+C:\Agora\Agora.Onboarding\obj\Debug\Agora.On.CC54CAE5.Up2Date
+C:\Agora\Agora.Onboarding\obj\Debug\Agora.Onboarding.dll
+C:\Agora\Agora.Onboarding\obj\Debug\Agora.Onboarding.pdb
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\Agora.Onboarding.dll.config
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\Agora.Onboarding.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\Agora.Onboarding.pdb
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\csc.exe
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\csc.exe.config
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\csc.rsp
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\csi.exe
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\csi.exe.config
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\csi.rsp
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.AppContext.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.Console.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.IO.Compression.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.Net.Http.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.ValueTuple.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\vbc.exe
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\vbc.exe.config
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\vbc.rsp
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\Antlr3.Runtime.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\Newtonsoft.Json.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\System.Web.Helpers.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\System.Web.Mvc.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\System.Web.Optimization.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\System.Web.Razor.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\System.Web.WebPages.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\System.Web.WebPages.Razor.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\WebGrease.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\System.Web.Helpers.xml
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\System.Web.Mvc.xml
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\System.Web.Optimization.xml
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\System.Web.Razor.xml
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\System.Web.WebPages.xml
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\System.Web.WebPages.Razor.xml
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\Newtonsoft.Json.xml
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\Antlr3.Runtime.pdb
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.AssemblyReference.cache
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\obj\Debug\Agora.Onboarding.csproj.CoreCompileInputs.cache
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\obj\Debug\Agora.On.CC54CAE5.Up2Date
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\obj\Debug\Agora.Onboarding.dll
+C:\Users\vikash\source\repos\Agora Module\Agora.Onboarding\obj\Debug\Agora.Onboarding.pdb

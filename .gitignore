@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Member/.vs/AgoraMember/v15/Server/sqlite3
+/Member/.vs/AgoraMember/v15
+/Temp
+/Member/.vs/AgoraMember/v16
+<<<<<<< HEAD
+/.vs
+=======
+/.vs/New_Development All/v16
+/Member/App_Data/PublishProfiles

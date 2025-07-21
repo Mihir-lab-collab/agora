@@ -1,0 +1,1896 @@
+C:\Agora_project\AI.API\bin\AI.API.dll.config
+C:\Agora_project\AI.API\bin\AI.API.dll
+C:\Agora_project\AI.API\bin\AI.API.pdb
+C:\Agora_project\AI.API\bin\roslyn\csc.exe
+C:\Agora_project\AI.API\bin\roslyn\csc.exe.config
+C:\Agora_project\AI.API\bin\roslyn\csc.rsp
+C:\Agora_project\AI.API\bin\roslyn\csi.exe
+C:\Agora_project\AI.API\bin\roslyn\csi.exe.config
+C:\Agora_project\AI.API\bin\roslyn\csi.rsp
+C:\Agora_project\AI.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Agora_project\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Agora_project\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Agora_project\AI.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Agora_project\AI.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Agora_project\AI.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Agora_project\AI.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Agora_project\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Agora_project\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Agora_project\AI.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Agora_project\AI.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Agora_project\AI.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Agora_project\AI.API\bin\roslyn\System.AppContext.dll
+C:\Agora_project\AI.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Agora_project\AI.API\bin\roslyn\System.Console.dll
+C:\Agora_project\AI.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Agora_project\AI.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Agora_project\AI.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Agora_project\AI.API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Agora_project\AI.API\bin\roslyn\System.IO.Compression.dll
+C:\Agora_project\AI.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Agora_project\AI.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Agora_project\AI.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Agora_project\AI.API\bin\roslyn\System.Net.Http.dll
+C:\Agora_project\AI.API\bin\roslyn\System.Net.Sockets.dll
+C:\Agora_project\AI.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Agora_project\AI.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Agora_project\AI.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Agora_project\AI.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Agora_project\AI.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Agora_project\AI.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Agora_project\AI.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Agora_project\AI.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Agora_project\AI.API\bin\roslyn\System.ValueTuple.dll
+C:\Agora_project\AI.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Agora_project\AI.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Agora_project\AI.API\bin\roslyn\System.Xml.XPath.dll
+C:\Agora_project\AI.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Agora_project\AI.API\bin\roslyn\vbc.exe
+C:\Agora_project\AI.API\bin\roslyn\vbc.exe.config
+C:\Agora_project\AI.API\bin\roslyn\vbc.rsp
+C:\Agora_project\AI.API\bin\roslyn\VBCSCompiler.exe
+C:\Agora_project\AI.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Agora_project\AI.API\bin\Antlr3.Runtime.dll
+C:\Agora_project\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Agora_project\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Agora_project\AI.API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Agora_project\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Agora_project\AI.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Agora_project\AI.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Agora_project\AI.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Agora_project\AI.API\bin\Newtonsoft.Json.dll
+C:\Agora_project\AI.API\bin\System.Buffers.dll
+C:\Agora_project\AI.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Agora_project\AI.API\bin\System.Memory.dll
+C:\Agora_project\AI.API\bin\System.Net.Http.Formatting.dll
+C:\Agora_project\AI.API\bin\System.Numerics.Vectors.dll
+C:\Agora_project\AI.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Agora_project\AI.API\bin\System.Text.Encodings.Web.dll
+C:\Agora_project\AI.API\bin\System.Text.Json.dll
+C:\Agora_project\AI.API\bin\System.Threading.Tasks.Extensions.dll
+C:\Agora_project\AI.API\bin\System.ValueTuple.dll
+C:\Agora_project\AI.API\bin\System.Web.Helpers.dll
+C:\Agora_project\AI.API\bin\System.Web.Http.dll
+C:\Agora_project\AI.API\bin\System.Web.Http.WebHost.dll
+C:\Agora_project\AI.API\bin\System.Web.Mvc.dll
+C:\Agora_project\AI.API\bin\System.Web.Optimization.dll
+C:\Agora_project\AI.API\bin\System.Web.Razor.dll
+C:\Agora_project\AI.API\bin\System.Web.WebPages.Deployment.dll
+C:\Agora_project\AI.API\bin\System.Web.WebPages.dll
+C:\Agora_project\AI.API\bin\System.Web.WebPages.Razor.dll
+C:\Agora_project\AI.API\bin\WebGrease.dll
+C:\Agora_project\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Agora_project\AI.API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Agora_project\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Agora_project\AI.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Agora_project\AI.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Agora_project\AI.API\bin\System.Buffers.xml
+C:\Agora_project\AI.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Agora_project\AI.API\bin\System.Memory.xml
+C:\Agora_project\AI.API\bin\System.Numerics.Vectors.xml
+C:\Agora_project\AI.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Agora_project\AI.API\bin\System.Text.Encodings.Web.xml
+C:\Agora_project\AI.API\bin\System.Text.Json.xml
+C:\Agora_project\AI.API\bin\System.Threading.Tasks.Extensions.xml
+C:\Agora_project\AI.API\bin\System.ValueTuple.xml
+C:\Agora_project\AI.API\bin\Newtonsoft.Json.xml
+C:\Agora_project\AI.API\bin\System.Net.Http.Formatting.xml
+C:\Agora_project\AI.API\bin\System.Web.Helpers.xml
+C:\Agora_project\AI.API\bin\System.Web.Http.xml
+C:\Agora_project\AI.API\bin\System.Web.Http.WebHost.xml
+C:\Agora_project\AI.API\bin\System.Web.Mvc.xml
+C:\Agora_project\AI.API\bin\System.Web.Optimization.xml
+C:\Agora_project\AI.API\bin\System.Web.Razor.xml
+C:\Agora_project\AI.API\bin\System.Web.WebPages.xml
+C:\Agora_project\AI.API\bin\System.Web.WebPages.Deployment.xml
+C:\Agora_project\AI.API\bin\System.Web.WebPages.Razor.xml
+C:\Agora_project\AI.API\bin\Antlr3.Runtime.pdb
+C:\Agora_project\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Agora_project\AI.API\obj\Debug\AI.API.csproj.AssemblyReference.cache
+C:\Agora_project\AI.API\obj\Debug\AI.API.csproj.CoreCompileInputs.cache
+C:\Agora_project\AI.API\obj\Debug\AI.API.csproj.CopyComplete
+C:\Agora_project\AI.API\obj\Debug\AI.API.dll
+C:\Agora_project\AI.API\obj\Debug\AI.API.pdb
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\AI.API.dll.config
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\AI.API.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\AI.API.pdb
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\csc.exe
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\csc.exe.config
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\csc.rsp
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\csi.exe
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\csi.exe.config
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\csi.rsp
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.AppContext.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.Console.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.IO.Compression.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.Net.Http.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.Net.Sockets.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.ValueTuple.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.Xml.XPath.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\vbc.exe
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\vbc.exe.config
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\vbc.rsp
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\VBCSCompiler.exe
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\Antlr3.Runtime.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\Newtonsoft.Json.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Buffers.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Memory.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Net.Http.Formatting.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Numerics.Vectors.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Text.Encodings.Web.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Text.Json.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Threading.Tasks.Extensions.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.ValueTuple.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Web.Helpers.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Web.Http.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Web.Http.WebHost.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Web.Mvc.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Web.Optimization.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Web.Razor.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Web.WebPages.Deployment.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Web.WebPages.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Web.WebPages.Razor.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\WebGrease.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Buffers.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Memory.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Numerics.Vectors.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Text.Encodings.Web.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Text.Json.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Threading.Tasks.Extensions.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.ValueTuple.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\Newtonsoft.Json.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Net.Http.Formatting.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Web.Helpers.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Web.Http.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Web.Http.WebHost.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Web.Mvc.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Web.Optimization.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Web.Razor.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Web.WebPages.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Web.WebPages.Deployment.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\System.Web.WebPages.Razor.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\Antlr3.Runtime.pdb
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\obj\Debug\AI.API.csproj.AssemblyReference.cache
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\obj\Debug\AI.API.csproj.CoreCompileInputs.cache
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\obj\Debug\AI.API.csproj.CopyComplete
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\obj\Debug\AI.API.dll
+C:\Agora_User_Story\US_1564_API Get Employee Experience Details\agora\AI.API\obj\Debug\AI.API.pdb
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\AI.API.dll.config
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\AI.API.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\AI.API.pdb
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\csc.exe
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\csc.exe.config
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\csc.rsp
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\csi.exe
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\csi.exe.config
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\csi.rsp
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.AppContext.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.Console.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.IO.Compression.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.Net.Http.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.ValueTuple.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\vbc.exe
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\vbc.exe.config
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\vbc.rsp
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\AgoraBL.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Antlr3.Runtime.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Newtonsoft.Json.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Buffers.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Memory.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Net.Http.Formatting.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Numerics.Vectors.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Text.Encodings.Web.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Text.Json.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.ValueTuple.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Web.Helpers.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Web.Http.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Web.Http.WebHost.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Web.Mvc.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Web.Optimization.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Web.Razor.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Web.WebPages.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\WebGrease.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\AgoraLib.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.Data.Services.Client.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.Data.OData.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.Data.Edm.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Spatial.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\AgoraBL.pdb
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Buffers.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Memory.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Numerics.Vectors.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Text.Encodings.Web.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Text.Json.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.ValueTuple.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Newtonsoft.Json.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Net.Http.Formatting.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Web.Helpers.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Web.Http.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Web.Http.WebHost.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Web.Mvc.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Web.Optimization.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Web.Razor.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Web.WebPages.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Antlr3.Runtime.pdb
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.Data.Services.Client.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.Data.OData.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.Data.Edm.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\System.Spatial.xml
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\de\System.Spatial.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\es\System.Spatial.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\fr\System.Spatial.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\it\System.Spatial.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\ja\System.Spatial.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\ko\System.Spatial.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\ru\System.Spatial.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\obj\Debug\AI.API.csproj.AssemblyReference.cache
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\obj\Debug\AI.API.csproj.CoreCompileInputs.cache
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\obj\Debug\AI.API.csproj.CopyComplete
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\obj\Debug\AI.API.dll
+C:\Users\dinesh.kumar\OneDrive - Intelegain Technologies\Dinesh\agora\AI.API\obj\Debug\AI.API.pdb
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\AI.API.dll.config
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\AI.API.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\AI.API.pdb
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\csc.exe
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\csc.exe.config
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\csc.rsp
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\csi.exe
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\csi.exe.config
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\csi.rsp
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.AppContext.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.Collections.Immutable.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.Console.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.Globalization.Calendars.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.IO.Compression.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.IO.FileSystem.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.Net.Http.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.Net.Sockets.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.ValueTuple.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.Xml.XPath.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\vbc.exe
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\vbc.exe.config
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\vbc.rsp
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\VBCSCompiler.exe
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\roslyn\VBCSCompiler.exe.config
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\AgoraBL.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Antlr3.Runtime.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.Web.Infrastructure.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Newtonsoft.Json.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Buffers.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Memory.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Net.Http.Formatting.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Numerics.Vectors.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Text.Encodings.Web.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Text.Json.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Threading.Tasks.Extensions.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.ValueTuple.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Web.Helpers.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Web.Http.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Web.Http.WebHost.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Web.Mvc.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Web.Optimization.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Web.Razor.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Web.WebPages.Deployment.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Web.WebPages.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Web.WebPages.Razor.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\WebGrease.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\AgoraLib.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.WindowsAzure.Storage.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.Data.Services.Client.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.Data.OData.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.Data.Edm.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Spatial.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\AgoraBL.pdb
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Buffers.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Memory.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Numerics.Vectors.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Text.Encodings.Web.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Text.Json.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Threading.Tasks.Extensions.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.ValueTuple.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Newtonsoft.Json.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Net.Http.Formatting.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Web.Helpers.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Web.Http.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Web.Http.WebHost.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Web.Mvc.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Web.Optimization.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Web.Razor.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Web.WebPages.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Web.WebPages.Deployment.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Web.WebPages.Razor.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Antlr3.Runtime.pdb
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.WindowsAzure.Storage.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.Data.Services.Client.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.Data.OData.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.Data.Edm.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\System.Spatial.xml
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\de\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\es\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\fr\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\it\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\ja\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\ko\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\ru\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\de\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\es\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\it\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\de\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\es\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\fr\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\it\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\ja\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\ko\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\ru\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\zh-Hans\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\bin\zh-Hant\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\obj\Debug\AI.API.csproj.AssemblyReference.cache
+C:\WorkingProjects\Agora\New_Development\AI.API\obj\Debug\AI.API.csproj.CoreCompileInputs.cache
+C:\WorkingProjects\Agora\New_Development\AI.API\obj\Debug\AI.API.csproj.CopyComplete
+C:\WorkingProjects\Agora\New_Development\AI.API\obj\Debug\AI.API.dll
+C:\WorkingProjects\Agora\New_Development\AI.API\obj\Debug\AI.API.pdb
+C:\Agora AI\AI.API\bin\AI.API.dll.config
+C:\Agora AI\AI.API\bin\AI.API.dll
+C:\Agora AI\AI.API\bin\AI.API.pdb
+C:\Agora AI\AI.API\bin\roslyn\csc.exe
+C:\Agora AI\AI.API\bin\roslyn\csc.exe.config
+C:\Agora AI\AI.API\bin\roslyn\csc.rsp
+C:\Agora AI\AI.API\bin\roslyn\csi.exe
+C:\Agora AI\AI.API\bin\roslyn\csi.exe.config
+C:\Agora AI\AI.API\bin\roslyn\csi.rsp
+C:\Agora AI\AI.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Agora AI\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Agora AI\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Agora AI\AI.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Agora AI\AI.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Agora AI\AI.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Agora AI\AI.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Agora AI\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Agora AI\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Agora AI\AI.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Agora AI\AI.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Agora AI\AI.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Agora AI\AI.API\bin\roslyn\System.AppContext.dll
+C:\Agora AI\AI.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Agora AI\AI.API\bin\roslyn\System.Console.dll
+C:\Agora AI\AI.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Agora AI\AI.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Agora AI\AI.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Agora AI\AI.API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Agora AI\AI.API\bin\roslyn\System.IO.Compression.dll
+C:\Agora AI\AI.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Agora AI\AI.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Agora AI\AI.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Agora AI\AI.API\bin\roslyn\System.Net.Http.dll
+C:\Agora AI\AI.API\bin\roslyn\System.Net.Sockets.dll
+C:\Agora AI\AI.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Agora AI\AI.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Agora AI\AI.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Agora AI\AI.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Agora AI\AI.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Agora AI\AI.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Agora AI\AI.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Agora AI\AI.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Agora AI\AI.API\bin\roslyn\System.ValueTuple.dll
+C:\Agora AI\AI.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Agora AI\AI.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Agora AI\AI.API\bin\roslyn\System.Xml.XPath.dll
+C:\Agora AI\AI.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Agora AI\AI.API\bin\roslyn\vbc.exe
+C:\Agora AI\AI.API\bin\roslyn\vbc.exe.config
+C:\Agora AI\AI.API\bin\roslyn\vbc.rsp
+C:\Agora AI\AI.API\bin\roslyn\VBCSCompiler.exe
+C:\Agora AI\AI.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Agora AI\AI.API\bin\AgoraBL.dll
+C:\Agora AI\AI.API\bin\Antlr3.Runtime.dll
+C:\Agora AI\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Agora AI\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Agora AI\AI.API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Agora AI\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Agora AI\AI.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Agora AI\AI.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Agora AI\AI.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Agora AI\AI.API\bin\Newtonsoft.Json.dll
+C:\Agora AI\AI.API\bin\System.Buffers.dll
+C:\Agora AI\AI.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Agora AI\AI.API\bin\System.Memory.dll
+C:\Agora AI\AI.API\bin\System.Net.Http.Formatting.dll
+C:\Agora AI\AI.API\bin\System.Numerics.Vectors.dll
+C:\Agora AI\AI.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Agora AI\AI.API\bin\System.Text.Encodings.Web.dll
+C:\Agora AI\AI.API\bin\System.Text.Json.dll
+C:\Agora AI\AI.API\bin\System.Threading.Tasks.Extensions.dll
+C:\Agora AI\AI.API\bin\System.ValueTuple.dll
+C:\Agora AI\AI.API\bin\System.Web.Helpers.dll
+C:\Agora AI\AI.API\bin\System.Web.Http.dll
+C:\Agora AI\AI.API\bin\System.Web.Http.WebHost.dll
+C:\Agora AI\AI.API\bin\System.Web.Mvc.dll
+C:\Agora AI\AI.API\bin\System.Web.Optimization.dll
+C:\Agora AI\AI.API\bin\System.Web.Razor.dll
+C:\Agora AI\AI.API\bin\System.Web.WebPages.Deployment.dll
+C:\Agora AI\AI.API\bin\System.Web.WebPages.dll
+C:\Agora AI\AI.API\bin\System.Web.WebPages.Razor.dll
+C:\Agora AI\AI.API\bin\WebGrease.dll
+C:\Agora AI\AI.API\bin\AgoraLib.dll
+C:\Agora AI\AI.API\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Agora AI\AI.API\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Agora AI\AI.API\bin\Microsoft.Data.Services.Client.dll
+C:\Agora AI\AI.API\bin\Microsoft.Data.OData.dll
+C:\Agora AI\AI.API\bin\Microsoft.Data.Edm.dll
+C:\Agora AI\AI.API\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Agora AI\AI.API\bin\System.Spatial.dll
+C:\Agora AI\AI.API\bin\AgoraBL.pdb
+C:\Agora AI\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Agora AI\AI.API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Agora AI\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Agora AI\AI.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Agora AI\AI.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Agora AI\AI.API\bin\System.Buffers.xml
+C:\Agora AI\AI.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Agora AI\AI.API\bin\System.Memory.xml
+C:\Agora AI\AI.API\bin\System.Numerics.Vectors.xml
+C:\Agora AI\AI.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Agora AI\AI.API\bin\System.Text.Encodings.Web.xml
+C:\Agora AI\AI.API\bin\System.Text.Json.xml
+C:\Agora AI\AI.API\bin\System.Threading.Tasks.Extensions.xml
+C:\Agora AI\AI.API\bin\System.ValueTuple.xml
+C:\Agora AI\AI.API\bin\Newtonsoft.Json.xml
+C:\Agora AI\AI.API\bin\System.Net.Http.Formatting.xml
+C:\Agora AI\AI.API\bin\System.Web.Helpers.xml
+C:\Agora AI\AI.API\bin\System.Web.Http.xml
+C:\Agora AI\AI.API\bin\System.Web.Http.WebHost.xml
+C:\Agora AI\AI.API\bin\System.Web.Mvc.xml
+C:\Agora AI\AI.API\bin\System.Web.Optimization.xml
+C:\Agora AI\AI.API\bin\System.Web.Razor.xml
+C:\Agora AI\AI.API\bin\System.Web.WebPages.xml
+C:\Agora AI\AI.API\bin\System.Web.WebPages.Deployment.xml
+C:\Agora AI\AI.API\bin\System.Web.WebPages.Razor.xml
+C:\Agora AI\AI.API\bin\Antlr3.Runtime.pdb
+C:\Agora AI\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Agora AI\AI.API\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Agora AI\AI.API\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Agora AI\AI.API\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Agora AI\AI.API\bin\Microsoft.Data.Services.Client.xml
+C:\Agora AI\AI.API\bin\Microsoft.Data.OData.xml
+C:\Agora AI\AI.API\bin\Microsoft.Data.Edm.xml
+C:\Agora AI\AI.API\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Agora AI\AI.API\bin\System.Spatial.xml
+C:\Agora AI\AI.API\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Agora AI\AI.API\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Agora AI\AI.API\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Agora AI\AI.API\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Agora AI\AI.API\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Agora AI\AI.API\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Agora AI\AI.API\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Agora AI\AI.API\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Agora AI\AI.API\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Agora AI\AI.API\bin\de\Microsoft.Data.OData.resources.dll
+C:\Agora AI\AI.API\bin\es\Microsoft.Data.OData.resources.dll
+C:\Agora AI\AI.API\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Agora AI\AI.API\bin\it\Microsoft.Data.OData.resources.dll
+C:\Agora AI\AI.API\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Agora AI\AI.API\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Agora AI\AI.API\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Agora AI\AI.API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Agora AI\AI.API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Agora AI\AI.API\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Agora AI\AI.API\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Agora AI\AI.API\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Agora AI\AI.API\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Agora AI\AI.API\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Agora AI\AI.API\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Agora AI\AI.API\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Agora AI\AI.API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Agora AI\AI.API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Agora AI\AI.API\bin\de\System.Spatial.resources.dll
+C:\Agora AI\AI.API\bin\es\System.Spatial.resources.dll
+C:\Agora AI\AI.API\bin\fr\System.Spatial.resources.dll
+C:\Agora AI\AI.API\bin\it\System.Spatial.resources.dll
+C:\Agora AI\AI.API\bin\ja\System.Spatial.resources.dll
+C:\Agora AI\AI.API\bin\ko\System.Spatial.resources.dll
+C:\Agora AI\AI.API\bin\ru\System.Spatial.resources.dll
+C:\Agora AI\AI.API\bin\zh-Hans\System.Spatial.resources.dll
+C:\Agora AI\AI.API\bin\zh-Hant\System.Spatial.resources.dll
+C:\Agora AI\AI.API\obj\Debug\AI.API.csproj.AssemblyReference.cache
+C:\Agora AI\AI.API\obj\Debug\AI.API.csproj.CoreCompileInputs.cache
+C:\Agora AI\AI.API\obj\Debug\AI.API.csproj.Up2Date
+C:\Agora AI\AI.API\obj\Debug\AI.API.dll
+C:\Agora AI\AI.API\obj\Debug\AI.API.pdb
+C:\Agora_19_06_2024\agora\AI.API\bin\AI.API.dll.config
+C:\Agora_19_06_2024\agora\AI.API\bin\AI.API.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\AI.API.pdb
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\csc.exe
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\csc.exe.config
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\csc.rsp
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\csi.exe
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\csi.exe.config
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\csi.rsp
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.AppContext.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.Console.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.IO.Compression.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.Net.Http.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.Net.Sockets.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.ValueTuple.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.Xml.XPath.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\vbc.exe
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\vbc.exe.config
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\vbc.rsp
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\VBCSCompiler.exe
+C:\Agora_19_06_2024\agora\AI.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Agora_19_06_2024\agora\AI.API\bin\AgoraBL.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\Antlr3.Runtime.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\Newtonsoft.Json.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Buffers.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Memory.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Net.Http.Formatting.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Numerics.Vectors.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Text.Encodings.Web.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Text.Json.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Threading.Tasks.Extensions.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\System.ValueTuple.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Web.Helpers.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Web.Http.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Web.Http.WebHost.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Web.Mvc.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Web.Optimization.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Web.Razor.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Web.WebPages.Deployment.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Web.WebPages.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Web.WebPages.Razor.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\WebGrease.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\AgoraLib.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.Data.Services.Client.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.Data.OData.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.Data.Edm.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Spatial.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\AgoraBL.pdb
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Buffers.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Memory.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Numerics.Vectors.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Text.Encodings.Web.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Text.Json.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Threading.Tasks.Extensions.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\System.ValueTuple.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\Newtonsoft.Json.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Net.Http.Formatting.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Web.Helpers.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Web.Http.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Web.Http.WebHost.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Web.Mvc.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Web.Optimization.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Web.Razor.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Web.WebPages.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Web.WebPages.Deployment.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Web.WebPages.Razor.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\Antlr3.Runtime.pdb
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.Data.Services.Client.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.Data.OData.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.Data.Edm.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\System.Spatial.xml
+C:\Agora_19_06_2024\agora\AI.API\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\de\Microsoft.Data.OData.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\es\Microsoft.Data.OData.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\it\Microsoft.Data.OData.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\de\System.Spatial.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\es\System.Spatial.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\fr\System.Spatial.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\it\System.Spatial.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\ja\System.Spatial.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\ko\System.Spatial.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\ru\System.Spatial.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\zh-Hans\System.Spatial.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\bin\zh-Hant\System.Spatial.resources.dll
+C:\Agora_19_06_2024\agora\AI.API\obj\Debug\AI.API.csproj.AssemblyReference.cache
+C:\Agora_19_06_2024\agora\AI.API\obj\Debug\AI.API.csproj.CoreCompileInputs.cache
+C:\Agora_19_06_2024\agora\AI.API\obj\Debug\AI.API.csproj.CopyComplete
+C:\Agora_19_06_2024\agora\AI.API\obj\Debug\AI.API.dll
+C:\Agora_19_06_2024\agora\AI.API\obj\Debug\AI.API.pdb
+C:\Agora_19_09_2024\agora\AI.API\bin\AI.API.dll.config
+C:\Agora_19_09_2024\agora\AI.API\bin\AI.API.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\AI.API.pdb
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\csc.exe
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\csc.exe.config
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\csc.rsp
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\csi.exe
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\csi.exe.config
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\csi.rsp
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.AppContext.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.Console.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.IO.Compression.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.Net.Http.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.Net.Sockets.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.ValueTuple.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.Xml.XPath.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\vbc.exe
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\vbc.exe.config
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\vbc.rsp
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\VBCSCompiler.exe
+C:\Agora_19_09_2024\agora\AI.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Agora_19_09_2024\agora\AI.API\bin\AgoraBL.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\Antlr3.Runtime.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\Newtonsoft.Json.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Buffers.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Memory.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Net.Http.Formatting.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Numerics.Vectors.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Text.Encodings.Web.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Text.Json.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Threading.Tasks.Extensions.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\System.ValueTuple.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Web.Helpers.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Web.Http.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Web.Http.WebHost.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Web.Mvc.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Web.Optimization.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Web.Razor.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Web.WebPages.Deployment.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Web.WebPages.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Web.WebPages.Razor.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\WebGrease.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\AgoraLib.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.Data.Services.Client.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.Data.OData.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.Data.Edm.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Spatial.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\AgoraBL.pdb
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Buffers.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Memory.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Numerics.Vectors.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Text.Encodings.Web.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Text.Json.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Threading.Tasks.Extensions.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\System.ValueTuple.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\Newtonsoft.Json.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Net.Http.Formatting.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Web.Helpers.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Web.Http.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Web.Http.WebHost.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Web.Mvc.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Web.Optimization.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Web.Razor.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Web.WebPages.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Web.WebPages.Deployment.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Web.WebPages.Razor.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\Antlr3.Runtime.pdb
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.Data.Services.Client.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.Data.OData.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.Data.Edm.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\System.Spatial.xml
+C:\Agora_19_09_2024\agora\AI.API\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\de\Microsoft.Data.OData.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\es\Microsoft.Data.OData.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\it\Microsoft.Data.OData.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\de\System.Spatial.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\es\System.Spatial.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\fr\System.Spatial.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\it\System.Spatial.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\ja\System.Spatial.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\ko\System.Spatial.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\ru\System.Spatial.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\zh-Hans\System.Spatial.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\bin\zh-Hant\System.Spatial.resources.dll
+C:\Agora_19_09_2024\agora\AI.API\obj\Debug\AI.API.csproj.AssemblyReference.cache
+C:\Agora_19_09_2024\agora\AI.API\obj\Debug\AI.API.csproj.CoreCompileInputs.cache
+C:\Agora_19_09_2024\agora\AI.API\obj\Debug\AI.API.csproj.CopyComplete
+C:\Agora_19_09_2024\agora\AI.API\obj\Debug\AI.API.dll
+C:\Agora_19_09_2024\agora\AI.API\obj\Debug\AI.API.pdb
+C:\Agora_18_11_2024\AI.API\bin\AI.API.dll.config
+C:\Agora_18_11_2024\AI.API\bin\AI.API.dll
+C:\Agora_18_11_2024\AI.API\bin\AI.API.pdb
+C:\Agora_18_11_2024\AI.API\bin\roslyn\csc.exe
+C:\Agora_18_11_2024\AI.API\bin\roslyn\csc.exe.config
+C:\Agora_18_11_2024\AI.API\bin\roslyn\csc.rsp
+C:\Agora_18_11_2024\AI.API\bin\roslyn\csi.exe
+C:\Agora_18_11_2024\AI.API\bin\roslyn\csi.exe.config
+C:\Agora_18_11_2024\AI.API\bin\roslyn\csi.rsp
+C:\Agora_18_11_2024\AI.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Agora_18_11_2024\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Agora_18_11_2024\AI.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Agora_18_11_2024\AI.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.AppContext.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.Console.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.IO.Compression.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.Net.Http.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.Net.Sockets.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.ValueTuple.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.Xml.XPath.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Agora_18_11_2024\AI.API\bin\roslyn\vbc.exe
+C:\Agora_18_11_2024\AI.API\bin\roslyn\vbc.exe.config
+C:\Agora_18_11_2024\AI.API\bin\roslyn\vbc.rsp
+C:\Agora_18_11_2024\AI.API\bin\roslyn\VBCSCompiler.exe
+C:\Agora_18_11_2024\AI.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Agora_18_11_2024\AI.API\bin\AgoraBL.dll
+C:\Agora_18_11_2024\AI.API\bin\Antlr3.Runtime.dll
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Agora_18_11_2024\AI.API\bin\Newtonsoft.Json.dll
+C:\Agora_18_11_2024\AI.API\bin\System.Buffers.dll
+C:\Agora_18_11_2024\AI.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Agora_18_11_2024\AI.API\bin\System.Memory.dll
+C:\Agora_18_11_2024\AI.API\bin\System.Net.Http.Formatting.dll
+C:\Agora_18_11_2024\AI.API\bin\System.Numerics.Vectors.dll
+C:\Agora_18_11_2024\AI.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Agora_18_11_2024\AI.API\bin\System.Text.Encodings.Web.dll
+C:\Agora_18_11_2024\AI.API\bin\System.Text.Json.dll
+C:\Agora_18_11_2024\AI.API\bin\System.Threading.Tasks.Extensions.dll
+C:\Agora_18_11_2024\AI.API\bin\System.ValueTuple.dll
+C:\Agora_18_11_2024\AI.API\bin\System.Web.Helpers.dll
+C:\Agora_18_11_2024\AI.API\bin\System.Web.Http.dll
+C:\Agora_18_11_2024\AI.API\bin\System.Web.Http.WebHost.dll
+C:\Agora_18_11_2024\AI.API\bin\System.Web.Mvc.dll
+C:\Agora_18_11_2024\AI.API\bin\System.Web.Optimization.dll
+C:\Agora_18_11_2024\AI.API\bin\System.Web.Razor.dll
+C:\Agora_18_11_2024\AI.API\bin\System.Web.WebPages.Deployment.dll
+C:\Agora_18_11_2024\AI.API\bin\System.Web.WebPages.dll
+C:\Agora_18_11_2024\AI.API\bin\System.Web.WebPages.Razor.dll
+C:\Agora_18_11_2024\AI.API\bin\WebGrease.dll
+C:\Agora_18_11_2024\AI.API\bin\AgoraLib.dll
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.Data.Services.Client.dll
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.Data.OData.dll
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.Data.Edm.dll
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Agora_18_11_2024\AI.API\bin\System.Spatial.dll
+C:\Agora_18_11_2024\AI.API\bin\AgoraBL.pdb
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Agora_18_11_2024\AI.API\bin\System.Buffers.xml
+C:\Agora_18_11_2024\AI.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Agora_18_11_2024\AI.API\bin\System.Memory.xml
+C:\Agora_18_11_2024\AI.API\bin\System.Numerics.Vectors.xml
+C:\Agora_18_11_2024\AI.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Agora_18_11_2024\AI.API\bin\System.Text.Encodings.Web.xml
+C:\Agora_18_11_2024\AI.API\bin\System.Text.Json.xml
+C:\Agora_18_11_2024\AI.API\bin\System.Threading.Tasks.Extensions.xml
+C:\Agora_18_11_2024\AI.API\bin\System.ValueTuple.xml
+C:\Agora_18_11_2024\AI.API\bin\Newtonsoft.Json.xml
+C:\Agora_18_11_2024\AI.API\bin\System.Net.Http.Formatting.xml
+C:\Agora_18_11_2024\AI.API\bin\System.Web.Helpers.xml
+C:\Agora_18_11_2024\AI.API\bin\System.Web.Http.xml
+C:\Agora_18_11_2024\AI.API\bin\System.Web.Http.WebHost.xml
+C:\Agora_18_11_2024\AI.API\bin\System.Web.Mvc.xml
+C:\Agora_18_11_2024\AI.API\bin\System.Web.Optimization.xml
+C:\Agora_18_11_2024\AI.API\bin\System.Web.Razor.xml
+C:\Agora_18_11_2024\AI.API\bin\System.Web.WebPages.xml
+C:\Agora_18_11_2024\AI.API\bin\System.Web.WebPages.Deployment.xml
+C:\Agora_18_11_2024\AI.API\bin\System.Web.WebPages.Razor.xml
+C:\Agora_18_11_2024\AI.API\bin\Antlr3.Runtime.pdb
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.Data.Services.Client.xml
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.Data.OData.xml
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.Data.Edm.xml
+C:\Agora_18_11_2024\AI.API\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Agora_18_11_2024\AI.API\bin\System.Spatial.xml
+C:\Agora_18_11_2024\AI.API\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\de\Microsoft.Data.OData.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\es\Microsoft.Data.OData.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\it\Microsoft.Data.OData.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\de\System.Spatial.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\es\System.Spatial.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\fr\System.Spatial.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\it\System.Spatial.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\ja\System.Spatial.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\ko\System.Spatial.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\ru\System.Spatial.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\zh-Hans\System.Spatial.resources.dll
+C:\Agora_18_11_2024\AI.API\bin\zh-Hant\System.Spatial.resources.dll
+C:\Agora_18_11_2024\AI.API\obj\Debug\AI.API.csproj.AssemblyReference.cache
+C:\Agora_18_11_2024\AI.API\obj\Debug\AI.API.csproj.CoreCompileInputs.cache
+C:\Agora_18_11_2024\AI.API\obj\Debug\AI.API.csproj.CopyComplete
+C:\Agora_18_11_2024\AI.API\obj\Debug\AI.API.dll
+C:\Agora_18_11_2024\AI.API\obj\Debug\AI.API.pdb
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\AI.API.dll.config
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\AI.API.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\AI.API.pdb
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\csc.exe
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\csc.exe.config
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\csc.rsp
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\csi.exe
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\csi.exe.config
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\csi.rsp
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.AppContext.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.Collections.Immutable.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.Console.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.Globalization.Calendars.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.IO.Compression.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.IO.FileSystem.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.Net.Http.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.Net.Sockets.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.ValueTuple.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.Xml.XPath.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\vbc.exe
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\vbc.exe.config
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\vbc.rsp
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\VBCSCompiler.exe
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\roslyn\VBCSCompiler.exe.config
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\AgoraBL.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Antlr3.Runtime.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.Web.Infrastructure.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Newtonsoft.Json.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Buffers.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Memory.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Net.Http.Formatting.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Numerics.Vectors.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Text.Encodings.Web.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Text.Json.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Threading.Tasks.Extensions.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.ValueTuple.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Web.Helpers.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Web.Http.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Web.Http.WebHost.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Web.Mvc.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Web.Optimization.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Web.Razor.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Web.WebPages.Deployment.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Web.WebPages.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Web.WebPages.Razor.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\WebGrease.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\AgoraLib.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.WindowsAzure.Storage.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.Data.Services.Client.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.Data.OData.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.Data.Edm.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Spatial.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\AgoraBL.pdb
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Buffers.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Memory.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Numerics.Vectors.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Text.Encodings.Web.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Text.Json.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Threading.Tasks.Extensions.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.ValueTuple.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Newtonsoft.Json.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Net.Http.Formatting.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Web.Helpers.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Web.Http.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Web.Http.WebHost.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Web.Mvc.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Web.Optimization.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Web.Razor.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Web.WebPages.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Web.WebPages.Deployment.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Web.WebPages.Razor.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Antlr3.Runtime.pdb
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.WindowsAzure.Storage.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.Data.Services.Client.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.Data.OData.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.Data.Edm.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\System.Spatial.xml
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\de\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\es\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\fr\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\it\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\ja\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\ko\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\ru\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\de\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\es\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\it\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\de\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\es\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\fr\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\it\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\ja\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\ko\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\ru\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\zh-Hans\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\bin\zh-Hant\System.Spatial.resources.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\obj\Debug\AI.API.csproj.AssemblyReference.cache
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\obj\Debug\AI.API.csproj.CoreCompileInputs.cache
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\obj\Debug\AI.API.csproj.CopyComplete
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\obj\Debug\AI.API.dll
+C:\WorkingProjects\Agora\Manoj_Development\AI.API\obj\Debug\AI.API.pdb
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\AI.API.dll.config
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\AI.API.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\AI.API.pdb
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\csc.exe
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\csc.exe.config
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\csc.rsp
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\csi.exe
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\csi.exe.config
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\csi.rsp
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.AppContext.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.Console.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.IO.Compression.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.Net.Http.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.Net.Sockets.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.ValueTuple.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.Xml.XPath.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\vbc.exe
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\vbc.exe.config
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\vbc.rsp
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\VBCSCompiler.exe
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\AgoraBL.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Antlr3.Runtime.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Newtonsoft.Json.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Buffers.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Memory.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Net.Http.Formatting.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Numerics.Vectors.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Text.Encodings.Web.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Text.Json.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Threading.Tasks.Extensions.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.ValueTuple.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Web.Helpers.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Web.Http.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Web.Http.WebHost.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Web.Mvc.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Web.Optimization.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Web.Razor.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Web.WebPages.Deployment.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Web.WebPages.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Web.WebPages.Razor.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\WebGrease.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\AgoraLib.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.Data.Services.Client.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.Data.OData.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.Data.Edm.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Spatial.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\AgoraBL.pdb
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Buffers.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Memory.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Numerics.Vectors.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Text.Encodings.Web.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Text.Json.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Threading.Tasks.Extensions.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.ValueTuple.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Newtonsoft.Json.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Net.Http.Formatting.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Web.Helpers.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Web.Http.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Web.Http.WebHost.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Web.Mvc.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Web.Optimization.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Web.Razor.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Web.WebPages.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Web.WebPages.Deployment.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Web.WebPages.Razor.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Antlr3.Runtime.pdb
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.Data.Services.Client.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.Data.OData.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.Data.Edm.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\System.Spatial.xml
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\de\Microsoft.Data.OData.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\es\Microsoft.Data.OData.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\it\Microsoft.Data.OData.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\de\System.Spatial.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\es\System.Spatial.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\fr\System.Spatial.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\it\System.Spatial.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\ja\System.Spatial.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\ko\System.Spatial.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\ru\System.Spatial.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\zh-Hans\System.Spatial.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\bin\zh-Hant\System.Spatial.resources.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\obj\Debug\AI.API.csproj.AssemblyReference.cache
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\obj\Debug\AI.API.csproj.CoreCompileInputs.cache
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\obj\Debug\AI.API.csproj.CopyComplete
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\obj\Debug\AI.API.dll
+C:\Working_Projects\Agora\AgoraClone_16042025\AI.API\obj\Debug\AI.API.pdb
+C:\Agora\AI.API\bin\AI.API.dll.config
+C:\Agora\AI.API\bin\AI.API.dll
+C:\Agora\AI.API\bin\AI.API.pdb
+C:\Agora\AI.API\bin\roslyn\csc.exe
+C:\Agora\AI.API\bin\roslyn\csc.exe.config
+C:\Agora\AI.API\bin\roslyn\csc.rsp
+C:\Agora\AI.API\bin\roslyn\csi.exe
+C:\Agora\AI.API\bin\roslyn\csi.exe.config
+C:\Agora\AI.API\bin\roslyn\csi.rsp
+C:\Agora\AI.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Agora\AI.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Agora\AI.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Agora\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Agora\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Agora\AI.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Agora\AI.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Agora\AI.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Agora\AI.API\bin\roslyn\System.AppContext.dll
+C:\Agora\AI.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Agora\AI.API\bin\roslyn\System.Console.dll
+C:\Agora\AI.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Agora\AI.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Agora\AI.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Agora\AI.API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Agora\AI.API\bin\roslyn\System.IO.Compression.dll
+C:\Agora\AI.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Agora\AI.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Agora\AI.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Agora\AI.API\bin\roslyn\System.Net.Http.dll
+C:\Agora\AI.API\bin\roslyn\System.Net.Sockets.dll
+C:\Agora\AI.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Agora\AI.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Agora\AI.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Agora\AI.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Agora\AI.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Agora\AI.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Agora\AI.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Agora\AI.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Agora\AI.API\bin\roslyn\System.ValueTuple.dll
+C:\Agora\AI.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Agora\AI.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Agora\AI.API\bin\roslyn\System.Xml.XPath.dll
+C:\Agora\AI.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Agora\AI.API\bin\roslyn\vbc.exe
+C:\Agora\AI.API\bin\roslyn\vbc.exe.config
+C:\Agora\AI.API\bin\roslyn\vbc.rsp
+C:\Agora\AI.API\bin\roslyn\VBCSCompiler.exe
+C:\Agora\AI.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Agora\AI.API\bin\AgoraBL.dll
+C:\Agora\AI.API\bin\Antlr3.Runtime.dll
+C:\Agora\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Agora\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Agora\AI.API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Agora\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Agora\AI.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Agora\AI.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Agora\AI.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Agora\AI.API\bin\Newtonsoft.Json.dll
+C:\Agora\AI.API\bin\System.Buffers.dll
+C:\Agora\AI.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Agora\AI.API\bin\System.Memory.dll
+C:\Agora\AI.API\bin\System.Net.Http.Formatting.dll
+C:\Agora\AI.API\bin\System.Numerics.Vectors.dll
+C:\Agora\AI.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Agora\AI.API\bin\System.Text.Encodings.Web.dll
+C:\Agora\AI.API\bin\System.Text.Json.dll
+C:\Agora\AI.API\bin\System.Threading.Tasks.Extensions.dll
+C:\Agora\AI.API\bin\System.ValueTuple.dll
+C:\Agora\AI.API\bin\System.Web.Helpers.dll
+C:\Agora\AI.API\bin\System.Web.Http.dll
+C:\Agora\AI.API\bin\System.Web.Http.WebHost.dll
+C:\Agora\AI.API\bin\System.Web.Mvc.dll
+C:\Agora\AI.API\bin\System.Web.Optimization.dll
+C:\Agora\AI.API\bin\System.Web.Razor.dll
+C:\Agora\AI.API\bin\System.Web.WebPages.Deployment.dll
+C:\Agora\AI.API\bin\System.Web.WebPages.dll
+C:\Agora\AI.API\bin\System.Web.WebPages.Razor.dll
+C:\Agora\AI.API\bin\WebGrease.dll
+C:\Agora\AI.API\bin\AgoraLib.dll
+C:\Agora\AI.API\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Agora\AI.API\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Agora\AI.API\bin\Microsoft.Data.Services.Client.dll
+C:\Agora\AI.API\bin\Microsoft.Data.OData.dll
+C:\Agora\AI.API\bin\Microsoft.Data.Edm.dll
+C:\Agora\AI.API\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Agora\AI.API\bin\System.Spatial.dll
+C:\Agora\AI.API\bin\AgoraBL.pdb
+C:\Agora\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Agora\AI.API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Agora\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Agora\AI.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Agora\AI.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Agora\AI.API\bin\System.Buffers.xml
+C:\Agora\AI.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Agora\AI.API\bin\System.Memory.xml
+C:\Agora\AI.API\bin\System.Numerics.Vectors.xml
+C:\Agora\AI.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Agora\AI.API\bin\System.Text.Encodings.Web.xml
+C:\Agora\AI.API\bin\System.Text.Json.xml
+C:\Agora\AI.API\bin\System.Threading.Tasks.Extensions.xml
+C:\Agora\AI.API\bin\System.ValueTuple.xml
+C:\Agora\AI.API\bin\Newtonsoft.Json.xml
+C:\Agora\AI.API\bin\System.Net.Http.Formatting.xml
+C:\Agora\AI.API\bin\System.Web.Helpers.xml
+C:\Agora\AI.API\bin\System.Web.Http.xml
+C:\Agora\AI.API\bin\System.Web.Http.WebHost.xml
+C:\Agora\AI.API\bin\System.Web.Mvc.xml
+C:\Agora\AI.API\bin\System.Web.Optimization.xml
+C:\Agora\AI.API\bin\System.Web.Razor.xml
+C:\Agora\AI.API\bin\System.Web.WebPages.xml
+C:\Agora\AI.API\bin\System.Web.WebPages.Deployment.xml
+C:\Agora\AI.API\bin\System.Web.WebPages.Razor.xml
+C:\Agora\AI.API\bin\Antlr3.Runtime.pdb
+C:\Agora\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Agora\AI.API\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Agora\AI.API\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Agora\AI.API\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Agora\AI.API\bin\Microsoft.Data.Services.Client.xml
+C:\Agora\AI.API\bin\Microsoft.Data.OData.xml
+C:\Agora\AI.API\bin\Microsoft.Data.Edm.xml
+C:\Agora\AI.API\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Agora\AI.API\bin\System.Spatial.xml
+C:\Agora\AI.API\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Agora\AI.API\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Agora\AI.API\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Agora\AI.API\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Agora\AI.API\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Agora\AI.API\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Agora\AI.API\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Agora\AI.API\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Agora\AI.API\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Agora\AI.API\bin\de\Microsoft.Data.OData.resources.dll
+C:\Agora\AI.API\bin\es\Microsoft.Data.OData.resources.dll
+C:\Agora\AI.API\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Agora\AI.API\bin\it\Microsoft.Data.OData.resources.dll
+C:\Agora\AI.API\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Agora\AI.API\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Agora\AI.API\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Agora\AI.API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Agora\AI.API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Agora\AI.API\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Agora\AI.API\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Agora\AI.API\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Agora\AI.API\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Agora\AI.API\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Agora\AI.API\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Agora\AI.API\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Agora\AI.API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Agora\AI.API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Agora\AI.API\bin\de\System.Spatial.resources.dll
+C:\Agora\AI.API\bin\es\System.Spatial.resources.dll
+C:\Agora\AI.API\bin\fr\System.Spatial.resources.dll
+C:\Agora\AI.API\bin\it\System.Spatial.resources.dll
+C:\Agora\AI.API\bin\ja\System.Spatial.resources.dll
+C:\Agora\AI.API\bin\ko\System.Spatial.resources.dll
+C:\Agora\AI.API\bin\ru\System.Spatial.resources.dll
+C:\Agora\AI.API\bin\zh-Hans\System.Spatial.resources.dll
+C:\Agora\AI.API\bin\zh-Hant\System.Spatial.resources.dll
+C:\Agora\AI.API\obj\Debug\AI.API.csproj.AssemblyReference.cache
+C:\Agora\AI.API\obj\Debug\AI.API.csproj.CoreCompileInputs.cache
+C:\Agora\AI.API\obj\Debug\AI.API.csproj.Up2Date
+C:\Agora\AI.API\obj\Debug\AI.API.dll
+C:\Agora\AI.API\obj\Debug\AI.API.pdb
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\AI.API.dll.config
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\AI.API.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\AI.API.pdb
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\csc.exe
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\csc.exe.config
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\csc.rsp
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\csi.exe
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\csi.exe.config
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\csi.rsp
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.AppContext.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.Console.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.IO.Compression.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.Net.Http.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.ValueTuple.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\vbc.exe
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\vbc.exe.config
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\vbc.rsp
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\AgoraBL.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Antlr3.Runtime.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Newtonsoft.Json.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Buffers.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Memory.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Net.Http.Formatting.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Numerics.Vectors.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Text.Encodings.Web.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Text.Json.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.ValueTuple.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Web.Helpers.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Web.Http.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Web.Http.WebHost.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Web.Mvc.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Web.Optimization.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Web.Razor.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Web.WebPages.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\WebGrease.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\AgoraLib.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.Data.Services.Client.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.Data.OData.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.Data.Edm.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Spatial.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\AgoraBL.pdb
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Buffers.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Memory.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Numerics.Vectors.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Text.Encodings.Web.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Text.Json.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.ValueTuple.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Newtonsoft.Json.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Net.Http.Formatting.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Web.Helpers.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Web.Http.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Web.Http.WebHost.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Web.Mvc.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Web.Optimization.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Web.Razor.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Web.WebPages.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Antlr3.Runtime.pdb
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.Data.Services.Client.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.Data.OData.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.Data.Edm.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\System.Spatial.xml
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\de\System.Spatial.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\es\System.Spatial.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\fr\System.Spatial.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\it\System.Spatial.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\ja\System.Spatial.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\ko\System.Spatial.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\ru\System.Spatial.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\obj\Debug\AI.API.csproj.AssemblyReference.cache
+C:\Users\vikash\source\repos\Agora Module\AI.API\obj\Debug\AI.API.csproj.CoreCompileInputs.cache
+C:\Users\vikash\source\repos\Agora Module\AI.API\obj\Debug\AI.API.csproj.Up2Date
+C:\Users\vikash\source\repos\Agora Module\AI.API\obj\Debug\AI.API.dll
+C:\Users\vikash\source\repos\Agora Module\AI.API\obj\Debug\AI.API.pdb

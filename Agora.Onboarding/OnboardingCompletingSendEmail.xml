@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+	<!--<xmlConfig value="Dear HR Team,Onborading process has been completed by {employee_name}[{employee_id}]"/>-->
+	<ReceiverWelcome>Dear HR Team,</ReceiverWelcome>
+	<MainBody>Onboarding process has been completed by {employee_name}[{employee_id}]</MainBody>
+	<Signature>Thank You,</Signature>
+	<SenderSignature>Intelegain Technologies Pvt.Ltd</SenderSignature>
+	<EmailSubject>Agora - Onboarding</EmailSubject>
+</config>

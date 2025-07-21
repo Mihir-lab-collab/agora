@@ -1,0 +1,43 @@
+﻿#popupbtn				{ padding: 10px; background: #267E8A; cursor: pointer; color: #FCFCFC; margin: 200px 0px 0px 200px;}
+
+
+.popup-overlay 			{ width: 100%; height: 100%; position: fixed; display:none;  background: rgba(0, 0, 0, .85); top: 0; left: 100%; 
+						  opacity: 0.6; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+						  -webkit-transition: opacity .2s ease-out; -moz-transition: opacity .2s ease-out; -ms-transition: opacity .2s ease-out; 
+						  -o-transition: opacity .2s ease-out; transition: opacity .2s ease-out; z-index:9998; }
+						  
+.overlay .popup-overlay {  left: 0; display:block; background:10px solid rgba(0, 0, 0, .3); }
+
+.popup 					{ position: fixed; top: 10%; left: 50%; z-index:9999; display:none; padding:10px;
+						  -webkit-transition: opacity .2s ease-out; -moz-transition: opacity .2s ease-out; -ms-transition: opacity .2s ease-out; 
+						  -o-transition: opacity .2s ease-out; transition: opacity .2s ease-out;
+						  }
+
+.popup .popup-warp		{ background: #fff; /*opacity: 0; min-height: 150px; width: 500px; margin-left:-260px; */padding: 10px;
+    					  position: relative; border: 1px solid #e9e9e9; 
+						  border-radius:20px; -webkit-border-radius:20px; -moz-border-radius:20px; behavior: url(pie/PIE.htc);
+					      border: 10px solid rgba(0, 0, 0, .3); -webkit-background-clip: padding-box; /* for Safari */ background-clip: padding-box; }
+						  
+.popup.visible, .popup.transitioning 
+						{ z-index: 9999; display:block; }
+.popup.visible .popup-warp
+						{ opacity: 1; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";						
+						  -webkit-transition: opacity .2s ease-out; -moz-transition: opacity .2s ease-out; -ms-transition: opacity .2s ease-out; 
+						  -o-transition: opacity .2s ease-out; transition: opacity .2s ease-out;}
+						 
+.popup .popup-exit 		{ background:url(../Member/images/close-icon.png) no-repeat top; height:18px; width:18px; overflow:hidden; text-indent:-9999px; 
+						  position:absolute; right:10px; cursor:pointer;}
+						  
+.popup .popup-exit:hover	{ background-position:bottom;}
+
+.popup h2				{ font-size:16px; font-weight:600; margin-bottom:5px; color:#292929;}
+.popup p				{ font-weight:400;}
+
+.importlist				{ padding:15px 10px; overflow:auto;}
+.importlist li			{ float:left; padding:10px 0px; min-width:120px; text-align:center;}
+.importlist li > .radiodiv{ overflow:auto; display:inline-block; *display: inline; zoom: 1;}
+.importlist li > .radiodiv input{ margin:2px 3px 0 0; float:left;  }
+.importlist li > .radiodiv label{ display:inline-block; float:left;  }
+.popup .popup-warp > .note{ font-size:11px; margin-top:20px;}	
+.popup .popup-warp > .botbtndiv{ text-align:center; margin:20px 0 10px; }	
+.popup .popup-warp > .botbtndiv .btn{ margin:0 5px;}

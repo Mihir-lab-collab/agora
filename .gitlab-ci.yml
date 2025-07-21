@@ -1,0 +1,75 @@
+---
+variables:
+  SOURCE_FOLDER: C:\Users\Agora\Desktop\Gitlab-Runner\builds\AAN9G_Q1\0\dotnet\agora\Member\*
+  AGORA_AI_SOURCE: C:\Users\Agora\Desktop\Gitlab-Runner\builds\AAN9G_Q1\0\dotnet\agora\AI.API\*
+  AGORA_BOARDING_SOURCE: C:\Users\Agora\Desktop\Gitlab-Runner\builds\AAN9G_Q1\0\dotnet\agora\Agora.Onboarding\*
+  AGORA_DEPLOY_STAGING_FOLDER: C:\inetpub\wwwroot\Agora.Onboarding_Staging
+  AGORA_AI_STAGING_DEPLOY: C:\inetpub\wwwroot\AI_Agora_Staging
+  AGORA_DEPLOY_PROD_FOLDER: C:\inetpub\wwwroot\Agora.Onboarding_Prod
+  AGORA_AI_PROD_DEPLOY: C:\inetpub\wwwroot\AI_Agora_Prod
+  DEPLOY_FOLDER: C:\inetpub\wwwroot\Agora_Staging
+  DEPLOY_FOLDERPRODUCTION: C:\inetpub\wwwroot\Agora_Member
+  NUGET_PATH: C:\Users\Agora\Desktop\MSBuild\Nuget\nuget.exe
+  MSBUILD_PATH: C:\Users\Agora\Desktop\MSBuild\msbuild.exe
+  NUNIT_PATH: C:\Users\Agora\Desktop\MSBuild\nunit-console\bin\nunit3-console.exe
+stages:
+  - build
+  - deploy
+build_job:
+  stage: build
+  script:
+    - '& "$env:NUGET_PATH" restore'
+    - '& "$env:MSBUILD_PATH" "AgoraMember.sln" /p:Configuration=Release
+      /p:PrecompileBeforePublish=true'
+  only:
+    - New_Development
+  artifacts:
+    expire_in: 1 week
+    paths:
+      - C:\Users\Agora\Desktop\Gitlab-Runner\builds\AAN9G_Q1\0\dotnet\agora\Member\Artifacts
+      
+      
+      
+deploy_Staging:
+  stage: deploy
+  script:
+    - Remove-Item -recurse -force C:\Users\Agora\Desktop\Gitlab-Runner\builds\AAN9G_Q1\0\dotnet\agora\Member\Member\AndroidAPK
+    - Remove-Item C:\Users\Agora\Desktop\Gitlab-Runner\builds\AAN9G_Q1\0\dotnet\agora\Agora.Onboarding\Web.config
+    - Remove-Item C:\Users\Agora\Desktop\Gitlab-Runner\builds\AAN9G_Q1\0\dotnet\agora\Member\Web.config
+    - Remove-Item C:\Users\Agora\Desktop\Gitlab-Runner\builds\AAN9G_Q1\0\dotnet\agora\AI.API\Web.config
+    - xcopy  "$AGORA_BOARDING_SOURCE" "$AGORA_DEPLOY_STAGING_FOLDER" /y /E /H /C /I 
+    - xcopy  "$SOURCE_FOLDER" "$DEPLOY_FOLDER" /y /E /H /C /I 
+    - xcopy  "$AGORA_AI_SOURCE" "$AGORA_AI_STAGING_DEPLOY" /y /E /H /C /I  
+    
+  dependencies:
+    - build_job
+  environment:
+    name: Staging
+    url: http://52.172.192.203/Member/Login.aspx
+  only:
+    - New_Development
+    
+    
+
+
+deploy_Production:
+  stage: deploy
+  script:
+    - Remove-Item C:\Users\Agora\Desktop\Gitlab-Runner\builds\AAN9G_Q1\0\dotnet\agora\Member\Web.config
+    - Remove-Item C:\Users\Agora\Desktop\Gitlab-Runner\builds\AAN9G_Q1\0\dotnet\agora\Agora.Onboarding\Web.config
+    - Remove-Item C:\Users\Agora\Desktop\Gitlab-Runner\builds\AAN9G_Q1\0\dotnet\agora\AI.API\Web.config
+    - Remove-Item -recurse -force C:\Users\Agora\Desktop\Gitlab-Runner\builds\AAN9G_Q1\0\dotnet\agora\Member\Member\AndroidAPK
+    - xcopy  "$AGORA_BOARDING_SOURCE" "$AGORA_DEPLOY_PROD_FOLDER" /y /E /H /C /I 
+    - xcopy  "$SOURCE_FOLDER" "$DEPLOY_FOLDERPRODUCTION" /y /E /H /C /I 
+    - xcopy  "$AGORA_AI_SOURCE" "$AGORA_AI_PROD_DEPLOY" /y /E /H /C /I 
+  environment:
+    name: Production
+    url: https://emp.intelegain.com/Member/Login.aspx
+  when: manual
+  only:
+    - New_Development
+    
+
+
+---
+null

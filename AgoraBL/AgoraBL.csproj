@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AA5CF3FB-2B52-49C4-AF58-2BDFCFB41EA5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AgoraBL</RootNamespace>
+    <AssemblyName>AgoraBL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AgoraLib">
+      <HintPath>..\Member\Bin\AgoraLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.JsonWebTokens, Version=7.0.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Logging, Version=7.0.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.IdentityModel.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Tokens">
+      <HintPath>..\AI.API\bin\Microsoft.IdentityModel.Tokens.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Member\Bin\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.IdentityModel.Tokens.Jwt, Version=7.0.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.IdentityModel.Tokens.Jwt.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Text.Json, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Member\Bin\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BAL\EmpLeaveApprovalBAL.cs" />
+    <Compile Include="BAL\EmployeeMasterBAL.cs" />
+    <Compile Include="BAL\EmpTimesheetBAL.cs" />
+    <Compile Include="BAL\EmpWFHApprovalBAL.cs" />
+    <Compile Include="BAL\EmpWFHBAL.cs" />
+    <Compile Include="BAL\ProjectBAL.cs" />
+    <Compile Include="Common\ClsCommon.cs" />
+    <Compile Include="Common\ClsConstant.cs" />
+    <Compile Include="DAL\EmpLeaveApprovalDAL.cs" />
+    <Compile Include="DAL\EmployeeMasterDAL.cs" />
+    <Compile Include="DAL\EmpTimesheetDAL.cs" />
+    <Compile Include="DAL\EmpWFHApprovalDAL.cs" />
+    <Compile Include="DAL\EmpWFHDAL.cs" />
+    <Compile Include="DAL\ProjectDAL.cs" />
+    <Compile Include="Models\AddProjectMember.cs" />
+    <Compile Include="Models\CheckAuthentication.cs" />
+    <Compile Include="Models\ClsException.cs" />
+    <Compile Include="Models\ClsLogin.cs" />
+    <Compile Include="Models\clsTimeSheetEmail.cs" />
+    <Compile Include="Models\ConfigBLL.cs" />
+    <Compile Include="Models\ConfigDAL.cs" />
+    <Compile Include="Models\ConsolidateLeaves.cs" />
+    <Compile Include="Models\Demographic.cs" />
+    <Compile Include="Models\EmployeeDetails.cs" />
+    <Compile Include="Models\EmployeeDetailsHR.cs" />
+    <Compile Include="Models\EngagementDetails.cs" />
+    <Compile Include="Models\IncompleteTimesheet.cs" />
+    <Compile Include="Models\Leave.cs" />
+    <Compile Include="Models\LeaveDetails.cs" />
+    <Compile Include="Models\PendingTimeSheet.cs" />
+    <Compile Include="Models\ProjectModulelistDTO.cs" />
+    <Compile Include="Models\Projects.cs" />
+    <Compile Include="Models\RemoveProjectMember.cs" />
+    <Compile Include="Models\ResponseData.cs" />
+    <Compile Include="Models\SendLeaveNotification.cs" />
+    <Compile Include="Models\SendTimesheetNotificationDTO.cs" />
+    <Compile Include="Models\SendWFHNotificationDTO.cs" />
+    <Compile Include="Models\Timesheet.cs" />
+    <Compile Include="Models\TimesheetDTO.cs" />
+    <Compile Include="Models\TimesheetTotalHours.cs" />
+    <Compile Include="Models\UpdateProjectMember.cs" />
+    <Compile Include="Models\UserIdentityData.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll" />
+    <Content Include="bin\Debug\Microsoft.IdentityModel.Logging.dll" />
+    <Content Include="bin\Debug\Microsoft.IdentityModel.Tokens.dll" />
+    <Content Include="bin\Debug\System.IdentityModel.Tokens.Jwt.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\de\" />
+    <Folder Include="bin\Debug\es\" />
+    <Folder Include="bin\Debug\fr\" />
+    <Folder Include="bin\Debug\it\" />
+    <Folder Include="bin\Debug\ja\" />
+    <Folder Include="bin\Debug\ko\" />
+    <Folder Include="bin\Debug\ru\" />
+    <Folder Include="bin\Debug\zh-Hans\" />
+    <Folder Include="bin\Debug\zh-Hant\" />
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

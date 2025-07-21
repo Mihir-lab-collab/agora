@@ -1,0 +1,83 @@
+#msform input[type="radio"], #msform input[type="checkbox"] {
+    width:auto; display: inline-block; margin:0;
+} 
+
+/* This css is for normalizing styles. You can skip this. */
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+#msform .checkbox li { display: block;}
+  
+#msform .checkbox li input {
+    padding: 0;
+    height: initial;
+    width: initial;
+    margin-bottom: 0;
+    display: none;
+    cursor: pointer;
+  }
+  
+  #msform .checkbox li label {
+    position: relative;
+    cursor: pointer;
+    margin-bottom: 12px;
+  }
+  
+  #msform .checkbox li label:before {
+    content:'';
+    -webkit-appearance: none;
+    background-color: transparent;
+    border: 1px solid #f1b238;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), inset 0px -15px 10px -12px rgba(0, 0, 0, 0.05);
+    padding: 10px;
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+    cursor: pointer;
+    margin-right: 5px;
+    border-radius: 5px;
+  }
+  
+  #msform .checkbox li input:checked + label:after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 2px;
+    left: 9px;
+    width: 6px;
+    height: 14px;
+    border: solid #f1b238;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+  }
+
+.logout { position: fixed; bottom:2%; left:7%;}
+  
+
+  
+.bg_voilet 
+{ border-radius: 0 10px 10px 0;
+   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#3f0422+0,980c4a+100,7db9e8+100 */
+background: #3f0422; /* Old browsers */
+background: -moz-linear-gradient(top,  #3f0422 0%, #980c4a 100%, #7db9e8 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #3f0422 0%,#980c4a 100%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3f0422', endColorstr='#7db9e8',GradientType=0 ); /* IE6-9 */
+background-image:url('../images/2471-1@2x.png'), linear-gradient(to bottom,  #3f0422 0%,#980c4a 100%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+background-repeat: no-repeat; background-position-y:50%; background-size: cover;
+}
+
+.menu { text-align: center;}
+.menu li { padding:8% 0;}
+.menu li.active { background-color:#5c2943; border-radius:5px;}
+.menu li:hover {background-color:#5c2943; border-radius:5px;}
+.menu li a { color:white;}
+
+
+.wrap-type {border: 1px solid #ccc;width: 70%;
+    display: flex;    padding: 8px 15px 8px 15px;
+    box-sizing: border-box;}
