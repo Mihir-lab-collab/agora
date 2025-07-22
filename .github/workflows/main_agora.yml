@@ -42,6 +42,12 @@ jobs:
           name: ASP-app
           path: published/
 
+      - name: List all files in workspace
+        run: |
+          Get-ChildItem -Recurse -Force | Format-Table FullName
+        shell: pwsh
+
+
 
   deploy:
     runs-on: windows-latest
