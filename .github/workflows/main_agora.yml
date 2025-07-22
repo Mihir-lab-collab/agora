@@ -35,6 +35,8 @@ jobs:
 
       - name: Publish to folder
         run: "msbuild AgoraMember.sln /p:Configuration=Release /t:Build;WebPublish /p:WebPublishMethod=FileSystem /p:DeleteExistingFiles=True /p:publishUrl=published"
+        shell: cmd
+
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
