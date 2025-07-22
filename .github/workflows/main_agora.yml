@@ -34,7 +34,7 @@ jobs:
           if (Test-Path "Agora.Onboarding\bin") { Remove-Item -Recurse -Force "Agora.Onboarding\bin" }
 
       - name: Publish to folder
-        run: msbuild AgoraMember.sln /p:Configuration=Release /p:PrecompileBeforePublish=true
+        run: msbuild Agora.Onboarding\Agora.Onboarding.csproj /p:Configuration=Release /p:PrecompileBeforePublish=true
         shell: pwsh
 
 
