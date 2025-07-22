@@ -34,7 +34,7 @@ jobs:
           if (Test-Path "Agora.Onboarding\bin") { Remove-Item -Recurse -Force "Agora.Onboarding\bin" }
 
       - name: Publish to folder
-        run: msbuild AgoraMember.sln /p:Configuration=Release /p:DeployOnBuild=true /p:WebPublishMethod=FileSystem /p:DeleteExistingFiles=True /p:PublishUrl=$(Build.ArtifactStagingDirectory)\published /p:TreatWarningsAsErrors=false
+        run: msbuild AgoraMember.sln /p:Configuration=Release /p:DeployOnBuild=true /p:WebPublishMethod=FileSystem /p:DeleteExistingFiles=True /p:PublishUrl=${{ github.workspace }}/published /p:TreatWarningsAsErrors=false
 
         shell: cmd
 
