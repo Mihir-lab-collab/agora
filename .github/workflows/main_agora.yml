@@ -34,7 +34,7 @@ jobs:
           if (Test-Path "Agora.Onboarding\bin") { Remove-Item -Recurse -Force "Agora.Onboarding\bin" }
 
       - name: Publish to folder
-        run: msbuild Agora.Onboarding/Agora.Onboarding.csproj /nologo /verbosity:m /t:Build /p:PublishUrl=published 
+        run: msbuild AgoraMember.sln /nologo /verbosity:m /t:Build /p:_PackageTempDir="\published\"
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
