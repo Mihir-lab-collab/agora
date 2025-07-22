@@ -34,18 +34,13 @@ jobs:
           if (Test-Path "Agora.Onboarding\bin") { Remove-Item -Recurse -Force "Agora.Onboarding\bin" }
 
       - name: Publish to folder
-        run: msbuild AgoraMember.sln /nologo /verbosity:m /t:Build /p:_PackageTempDir="\published\"
+        run: msbuild AgoraMember.sln /p:Configuration=Release /t:Build;WebPublish /p:WebPublishMethod=FileSystem /p:DeleteExistingFiles=True /p:publishUrl=published
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
         with:
           name: ASP-app
           path: published/
-
-      - name: List all files in workspace
-        run: |
-          Get-ChildItem -Recurse -Force | Format-Table FullName
-        shell: pwsh
 
 
 
