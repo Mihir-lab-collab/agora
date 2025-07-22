@@ -146,7 +146,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
-    <Content Include="images\7606781_work from home_stay_home_online_new normal_icon.png" />
+    <!-- <Content Include="images\7606781_work from home_stay_home_online_new normal_icon.png" /> -->
     <Content Include="images\Confidentiality.png" />
     <Content Include="images\Work_From_Home.png" />
     <Content Include="OnboardingCompletingSendEmail.xml" />
