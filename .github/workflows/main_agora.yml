@@ -34,15 +34,14 @@ jobs:
           if (Test-Path "Agora.Onboarding\bin") { Remove-Item -Recurse -Force "Agora.Onboarding\bin" }
 
       - name: Publish to folder
-        run: msbuild Agora.Onboarding\Agora.Onboarding.csproj /p:Configuration=Release /p:PrecompileBeforePublish=true
-        shell: pwsh
+        run: msbuild Agoramember.sln /p:DeployOnBuild=true /p:WebPublishMethod=FileSystem /p:PublishUrl=published /p:Configuration=Release
 
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
         with:
           name: ASP-app
-          path: Agora.Onboarding/bin/Release/
+          path: published
 
 
 
