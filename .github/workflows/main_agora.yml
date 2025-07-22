@@ -42,9 +42,6 @@ jobs:
           name: ASP-app
           path: published/
 
-      - name: List contents of published folder
-        run: dir published
-
 
   deploy:
     runs-on: windows-latest
